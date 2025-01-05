@@ -1,0 +1,22 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.fb.com/igkgamers
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 004 - Martin the Wandering Merchant
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Acc	JoH	Oex	Sck[1]	Sck[2]	Sck[3]	Sck[4]	Sck[5]	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+12	21	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of FireBurst
+12	22	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Summon
+12	23	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Critical Damage
+12	24	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Electric Spark
+12	35	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Fire Scream
+12	48	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Chaotic Diseier
+7	25	7	100	0	0	2	0	0	0	0	255	255	255	255	255	//Light Plate Mask
+8	25	7	100	0	0	1	0	0	0	0	255	255	255	255	255	//Light Plate Armor
+9	25	7	100	0	0	1	0	0	0	0	255	255	255	255	255	//Light Plate Pants
+10	25	7	100	0	0	1	0	0	0	0	255	255	255	255	255	//Light Plate Gloves
+11	25	7	100	0	0	1	0	0	0	0	255	255	255	255	255	//Light Plate Boots
+end

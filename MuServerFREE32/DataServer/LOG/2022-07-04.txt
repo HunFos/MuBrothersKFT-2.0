@@ -1,0 +1,115 @@
+10:03:52 [SocketManager] Server started at port [55960]
+10:03:55 [ServerManager][0] AddServer (127.0.0.1)
+10:03:55 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+10:04:00 [ServerManager][1] AddServer (127.0.0.1)
+10:04:00 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+10:38:45 [SocketManager] Server started at port [55960]
+10:38:48 [ServerManager][0] AddServer (127.0.0.1)
+10:38:48 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+10:38:53 [ServerManager][1] AddServer (127.0.0.1)
+10:38:53 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:01:25 [SocketManager] Server started at port [55960]
+15:01:27 [ServerManager][0] AddServer (127.0.0.1)
+15:01:27 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+15:01:29 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+15:01:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+15:01:31 [ServerManager][1] AddServer (127.0.0.1)
+15:01:31 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:01:39 [ServerManager][0] DelServer (127.0.0.1)
+15:01:46 [ServerManager][2] AddServer (127.0.0.1)
+15:01:46 [ServerManager][2] ServerInfo (Server1) (55901) (0)
+15:01:49 [ServerManager][2] DelServer (127.0.0.1)
+15:25:16 [SocketManager] Server started at port [55960]
+15:25:19 [ServerManager][0] AddServer (127.0.0.1)
+15:25:19 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+15:25:26 [ServerManager][1] AddServer (127.0.0.1)
+15:25:26 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:30:40 [SocketManager] Server started at port [55960]
+15:30:43 [ServerManager][0] AddServer (127.0.0.1)
+15:30:43 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+15:30:47 [ServerManager][1] AddServer (127.0.0.1)
+15:30:47 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:32:22 [SocketManager] Server started at port [55960]
+15:32:24 [ServerManager][0] AddServer (127.0.0.1)
+15:32:24 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+15:32:30 [ServerManager][1] AddServer (127.0.0.1)
+15:32:30 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:34:03 [SocketManager] Server started at port [55960]
+15:34:05 [ServerManager][0] AddServer (127.0.0.1)
+15:34:05 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+15:34:10 [ServerManager][1] AddServer (127.0.0.1)
+15:34:10 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:50:41 SELECT * FROM AccountCharacter2 WHERE Id='admin'
+15:50:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+15:51:49 [SocketManager] Server started at port [55960]
+15:51:51 [ServerManager][0] AddServer (127.0.0.1)
+15:51:51 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+15:51:56 [ServerManager][1] AddServer (127.0.0.1)
+15:51:56 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:52:24 [SocketManager] Server started at port [55960]
+15:52:27 [ServerManager][0] AddServer (127.0.0.1)
+15:52:27 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+15:52:31 [ServerManager][1] AddServer (127.0.0.1)
+15:52:31 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:53:48 SELECT * FROM AccountCharacter2 WHERE Id='admin'
+15:53:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+16:11:32 [SocketManager] Server started at port [55960]
+16:11:34 [ServerManager][0] AddServer (127.0.0.1)
+16:11:34 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+16:11:39 [ServerManager][1] AddServer (127.0.0.1)
+16:11:39 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+16:12:48 SELECT * FROM AccountCharacter2 WHERE Id='admin'
+16:12:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+16:12:48 SELECT * FROM AccountCharacter3 WHERE Id='admin'
+16:12:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+16:12:48 SELECT * FROM AccountCharacter4 WHERE Id='admin'
+16:12:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+16:12:48 SELECT * FROM AccountCharacter5 WHERE Id='admin'
+16:12:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+16:12:53 SELECT * FROM AccountCharacter2 WHERE Id='admin'
+16:12:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+16:12:53 SELECT * FROM AccountCharacter3 WHERE Id='admin'
+16:12:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+16:12:53 SELECT * FROM AccountCharacter4 WHERE Id='admin'
+16:12:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+16:12:53 SELECT * FROM AccountCharacter5 WHERE Id='admin'
+16:12:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+16:13:03 SELECT * FROM AccountCharacter2 WHERE Id='admin'
+16:13:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+17:04:49 [SocketManager] Server started at port [55960]
+17:04:52 [ServerManager][0] AddServer (127.0.0.1)
+17:04:52 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+17:04:58 [ServerManager][1] AddServer (127.0.0.1)
+17:04:58 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+17:07:31 SELECT * FROM AccountCharacter2 WHERE Id='admin'
+17:07:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+17:07:31 SELECT * FROM AccountCharacter3 WHERE Id='admin'
+17:07:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+17:07:31 SELECT * FROM AccountCharacter4 WHERE Id='admin'
+17:07:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+17:07:31 SELECT * FROM AccountCharacter5 WHERE Id='admin'
+17:07:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+17:07:44 SELECT * FROM AccountCharacter2 WHERE Id='admin'
+17:07:44 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+17:18:27 [SocketManager] Server started at port [55960]
+17:18:31 [ServerManager][0] AddServer (127.0.0.1)
+17:18:31 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+17:18:39 [ServerManager][1] AddServer (127.0.0.1)
+17:18:39 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+17:30:39 [SocketManager] Server started at port [55960]
+17:30:42 [ServerManager][0] AddServer (127.0.0.1)
+17:30:42 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+17:30:46 [ServerManager][1] AddServer (127.0.0.1)
+17:30:46 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+17:57:25 [SocketManager] Server started at port [55960]
+17:57:27 [ServerManager][0] AddServer (127.0.0.1)
+17:57:27 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+18:03:03 [SocketManager] Server started at port [55960]
+18:03:05 [ServerManager][0] AddServer (127.0.0.1)
+18:03:05 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+18:29:55 [SocketManager] Server started at port [55960]
+18:29:57 [ServerManager][0] AddServer (127.0.0.1)
+18:29:57 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+20:44:08 [SocketManager] Server started at port [55960]
+20:44:11 [ServerManager][0] AddServer (127.0.0.1)
+20:44:11 [ServerManager][0] ServerInfo (Server1) (55901) (0)

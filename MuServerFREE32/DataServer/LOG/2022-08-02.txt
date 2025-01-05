@@ -1,0 +1,616 @@
+10:57:34 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+10:57:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+10:57:34 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+10:57:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+10:57:34 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+10:57:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+10:58:06 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+10:58:06 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+10:58:06 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+10:58:06 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:11:09 [SocketManager] Server started at port [55960]
+13:11:13 [ServerManager][0] AddServer (127.0.0.1)
+13:11:13 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+13:11:14 [ServerManager][1] AddServer (127.0.0.1)
+13:11:15 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+13:12:35 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+13:12:35 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:12:35 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+13:12:35 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:12:35 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+13:12:35 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:13:16 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+13:13:16 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:13:16 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+13:13:16 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:18:55 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+13:18:55 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:18:55 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+13:18:55 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:18:55 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+13:18:55 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:20:56 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+13:20:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+13:20:56 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+13:20:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:00:07 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+14:00:07 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+14:48:17 [ServerManager][1] DelServer (127.0.0.1)
+14:48:24 [ServerManager][0] DelServer (127.0.0.1)
+14:48:34 [SocketManager] Server started at port [55960]
+14:48:37 [ServerManager][0] AddServer (127.0.0.1)
+14:48:37 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+14:48:42 [ServerManager][1] AddServer (127.0.0.1)
+14:48:42 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:50:10 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+14:50:10 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:50:10 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+14:50:10 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:50:10 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+14:50:10 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:51:28 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+14:51:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:51:28 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+14:51:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:53:31 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+14:53:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:53:31 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+14:53:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:53:31 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+14:53:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:55:04 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+14:55:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:55:04 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+14:55:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:56:04 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+14:56:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:56:04 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+14:56:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+14:56:04 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+14:56:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:06:00 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+15:06:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:06:00 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+15:06:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:16:00 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+15:16:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:16:00 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+15:16:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:26:01 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+15:26:01 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:26:01 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+15:26:01 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:36:02 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+15:36:02 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:36:02 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+15:36:02 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:46:03 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+15:46:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:46:03 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+15:46:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:56:04 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+15:56:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+15:56:04 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+15:56:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:06:05 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:06:05 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:06:05 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:06:05 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:08:20 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:08:20 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:08:20 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:08:20 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:08:28 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:08:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:08:28 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:08:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:08:28 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:08:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:15:01 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:15:01 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:15:01 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:15:01 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:19:52 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:19:52 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:19:53 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:19:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:19:53 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:19:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:28:43 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:28:43 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:28:43 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:28:43 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:29:41 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:29:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:29:41 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:29:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:29:41 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:29:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:30:39 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:30:39 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:30:39 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:30:39 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:30:58 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:30:58 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:30:58 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:30:58 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:30:58 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:30:58 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:36:34 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:36:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:36:34 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:36:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:37:04 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:37:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:37:04 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:37:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:37:04 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:37:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:39:31 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:39:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:39:31 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:39:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:39:53 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:39:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:39:53 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:39:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:39:53 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:39:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:43:24 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:43:24 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:43:24 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:43:24 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:43:58 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:43:58 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:43:58 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:43:58 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:43:58 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:43:58 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:45:03 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:45:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:45:03 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:45:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:45:25 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:45:25 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:45:25 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:45:25 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:45:25 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:45:25 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:46:17 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:46:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:46:17 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:46:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:46:49 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:46:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:46:49 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:46:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:46:49 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:46:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:48:48 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:48:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:48:48 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:48:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:49:09 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+16:49:09 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:49:09 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:49:09 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:49:09 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:49:09 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:49:40 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+16:49:40 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+16:49:40 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+16:49:40 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:18:32 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+17:18:32 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:18:32 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:18:32 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:18:32 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:18:32 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:18:48 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:18:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:18:48 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:18:48 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:21:43 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+17:21:43 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:21:43 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:21:43 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:21:43 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:21:43 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:22:00 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:22:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:22:00 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:22:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:27:09 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+17:27:09 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:27:09 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:27:09 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:27:09 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:27:09 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:27:19 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:27:19 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:27:19 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:27:19 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:31:12 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+17:31:12 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:31:12 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:31:12 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:31:12 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:31:12 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:31:22 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:31:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:31:22 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:31:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:38:41 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+17:38:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:38:41 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:38:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:38:41 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:38:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:38:57 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:38:57 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:38:57 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:38:57 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:49:39 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+17:49:39 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:49:39 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:49:39 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:49:39 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:49:39 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:49:49 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+17:49:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+17:49:49 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+17:49:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:43:51 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+19:43:51 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:43:51 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+19:43:51 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:43:51 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+19:43:51 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:44:01 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+19:44:01 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:44:01 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+19:44:01 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:45:00 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+19:45:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:45:00 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+19:45:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:45:00 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+19:45:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:45:05 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+19:45:05 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:45:05 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+19:45:05 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:45:28 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+19:45:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:45:28 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+19:45:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:45:28 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+19:45:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:46:20 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+19:46:20 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:46:20 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+19:46:20 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:59:26 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+19:59:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:59:26 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+19:59:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:59:26 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+19:59:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:59:33 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+19:59:33 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+19:59:33 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+19:59:33 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:06:31 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:06:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:06:31 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:06:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:06:31 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:06:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:06:52 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:06:52 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:06:52 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:06:52 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:07:24 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:07:24 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:07:24 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:07:24 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:07:24 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:07:24 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:15:19 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:15:19 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:15:19 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:15:19 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:16:22 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:16:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:16:22 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:16:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:16:22 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:16:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:16:38 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:16:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:16:38 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:16:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:17:27 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:17:27 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:17:27 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:17:27 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:17:27 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:17:27 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:17:33 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:17:33 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:17:33 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:17:33 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:18:22 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:18:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:18:22 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:18:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:18:22 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:18:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:18:25 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:18:25 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:18:25 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:18:25 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:19:17 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:19:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:19:17 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:19:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:19:17 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:19:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:19:29 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:19:29 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:19:29 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:19:29 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:22:44 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:22:44 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:22:44 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:22:44 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:22:44 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:22:44 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:22:49 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:22:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:22:49 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:22:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:23:28 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:23:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:23:28 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:23:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:23:28 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:23:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:23:37 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:23:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:23:37 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:23:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:30:33 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:30:33 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:30:33 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:30:33 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:30:33 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:30:33 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:30:41 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:30:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:30:41 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:30:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:31:59 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:31:59 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:31:59 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:31:59 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:31:59 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:31:59 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:41:53 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:41:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:41:53 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:41:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:43:30 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:43:30 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:43:30 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:43:30 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:47:59 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:47:59 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:47:59 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:47:59 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:47:59 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:47:59 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:48:04 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:48:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:48:04 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:48:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:50:31 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:50:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:50:31 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:50:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:50:31 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:50:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:50:35 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:50:35 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:50:35 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:50:35 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:52:04 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:52:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:52:04 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:52:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:52:04 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:52:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:52:09 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:52:09 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:52:09 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:52:09 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:53:49 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:53:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:53:49 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:53:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:53:49 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:53:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:53:56 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:53:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:53:56 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:53:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:57:27 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:57:27 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:57:27 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:57:27 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:57:27 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:57:27 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:57:36 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:57:36 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:57:36 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:57:36 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:58:17 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+20:58:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:58:17 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:58:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:58:17 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:58:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:58:27 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+20:58:27 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+20:58:27 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+20:58:27 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:06:38 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:06:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:06:38 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:06:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:06:38 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:06:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:06:43 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:06:43 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:06:43 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:06:43 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:23:17 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:23:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:23:17 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:23:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:23:17 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:23:17 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:23:22 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:23:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:23:22 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:23:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:25:32 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:25:32 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:25:32 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:25:32 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:25:32 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:25:32 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:25:37 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:25:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:25:37 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:25:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:26:46 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:26:46 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:26:46 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:26:46 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:26:46 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:26:46 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:27:03 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:27:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:27:03 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:27:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:27:54 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:27:54 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:27:54 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:27:54 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:27:54 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:27:54 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:27:58 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:27:58 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:27:58 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:27:58 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:31:47 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:31:47 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:31:47 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:31:47 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:31:47 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:31:47 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:31:54 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:31:54 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:31:54 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:31:54 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:32:34 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:32:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:32:34 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:32:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:32:34 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:32:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:32:39 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:32:39 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:32:39 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:32:39 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:36:55 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:36:55 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:36:55 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:36:55 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:36:55 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:36:55 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:37:04 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:37:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:37:04 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:37:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:39:19 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:39:19 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:39:19 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:39:19 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:39:19 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:39:19 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:39:23 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:39:23 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:39:23 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:39:23 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:40:13 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:40:13 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:40:13 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:40:13 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:40:13 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:40:13 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:40:30 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:40:30 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:40:30 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:40:30 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:44:03 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+21:44:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:44:03 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:44:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:44:03 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:44:03 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:45:50 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+21:45:50 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+21:45:50 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+21:45:50 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:20:49 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+22:20:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:20:49 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+22:20:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:20:49 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+22:20:49 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:20:53 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+22:20:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:20:53 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+22:20:53 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:23:37 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+22:23:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:23:37 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+22:23:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:23:37 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+22:23:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:23:42 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+22:23:42 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:23:42 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+22:23:42 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:27:04 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+22:27:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:27:04 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+22:27:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:27:04 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+22:27:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:27:08 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+22:27:08 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:27:08 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+22:27:08 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:38:18 SELECT Items FROM EquipInventory WHERE AccountID='Admin'
+22:38:18 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:38:18 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+22:38:18 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:38:18 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+22:38:18 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:38:23 SELECT AccountID FROM EquipInventory WHERE AccountID='Admin'
+22:38:23 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.
+22:38:23 INSERT INTO EquipInventory (AccountID, Items) VALUES ('Admin',?)
+22:38:23 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'EquipInventory'.

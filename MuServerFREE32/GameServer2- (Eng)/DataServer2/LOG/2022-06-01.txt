@@ -1,0 +1,253 @@
+12:54:05 [SocketManager] Server started at port [55960]
+12:54:09 [ServerManager][0] AddServer (127.0.0.1)
+12:54:09 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+12:54:11 [ServerManager][1] AddServer (127.0.0.1)
+12:54:11 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+13:42:52 [SocketManager] Server started at port [55960]
+13:42:55 [ServerManager][0] AddServer (127.0.0.1)
+13:42:55 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+13:42:57 [ServerManager][1] AddServer (127.0.0.1)
+13:42:57 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+13:56:22 [SocketManager] Server started at port [55960]
+13:56:25 [ServerManager][0] AddServer (127.0.0.1)
+13:56:25 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+13:56:26 [ServerManager][1] AddServer (127.0.0.1)
+13:56:26 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:00:06 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+14:00:06 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+14:07:54 [SocketManager] Server started at port [55960]
+14:07:58 [ServerManager][0] AddServer (127.0.0.1)
+14:07:58 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+14:07:59 [ServerManager][1] AddServer (127.0.0.1)
+14:07:59 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:14:44 [SocketManager] Server started at port [55960]
+14:15:01 [SocketManager] Server started at port [55960]
+14:15:04 [ServerManager][0] AddServer (127.0.0.1)
+14:15:04 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+14:15:06 [ServerManager][1] AddServer (127.0.0.1)
+14:15:06 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:30:13 [SocketManager] Server started at port [55960]
+14:30:19 [ServerManager][0] AddServer (127.0.0.1)
+14:30:19 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+14:30:21 [ServerManager][1] AddServer (127.0.0.1)
+14:30:21 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:32:37 [SocketManager] Server started at port [55960]
+14:32:41 [ServerManager][0] AddServer (127.0.0.1)
+14:32:41 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+14:32:43 [ServerManager][1] AddServer (127.0.0.1)
+14:32:43 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:45:58 [SocketManager] Server started at port [55960]
+14:46:01 [ServerManager][0] AddServer (127.0.0.1)
+14:46:01 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+14:49:27 [SocketManager] Server started at port [55960]
+14:49:55 [SocketManager] Server started at port [55960]
+14:52:19 [SocketManager] Server started at port [55960]
+14:52:24 [ServerManager][0] AddServer (127.0.0.1)
+14:52:24 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+14:52:27 [ServerManager][1] AddServer (127.0.0.1)
+14:52:27 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:04:28 [SocketManager] Server started at port [55960]
+15:04:32 [ServerManager][0] AddServer (127.0.0.1)
+15:04:32 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+15:04:34 [ServerManager][1] AddServer (127.0.0.1)
+15:04:34 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+16:09:56 [SocketManager] Server started at port [55960]
+16:09:59 [ServerManager][0] AddServer (127.0.0.1)
+16:09:59 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+16:10:01 [ServerManager][1] AddServer (127.0.0.1)
+16:10:01 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+16:14:32 [SocketManager] Server started at port [55960]
+16:14:35 [ServerManager][0] AddServer (127.0.0.1)
+16:14:35 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+16:14:36 [ServerManager][1] AddServer (127.0.0.1)
+16:14:36 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+16:18:25 [SocketManager] Server started at port [55960]
+16:18:28 [ServerManager][0] AddServer (127.0.0.1)
+16:18:28 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+16:18:30 [ServerManager][1] AddServer (127.0.0.1)
+16:18:30 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+16:21:56 [SocketManager] Server started at port [55960]
+16:21:56 SELECT Account, Name, PriceType, PriceValue, Status, FilterType, FilterLevel, FilterLuck, FilterExl, FilterAnc, Date, Item FROM ItemMarketData
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'ItemMarketData'.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [Account] [varchar](10) NULL
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [Name][varchar](10) NULL
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [PriceType] INT not null default(0)
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [PriceValue] INT not null default(0)
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [Status] INT not null default(0)
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [FilterType] INT not null default(0)
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [FilterLevel] INT not null default(0)
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [FilterLuck] INT not null default(0)
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [FilterExl] INT not null default(0)
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [FilterAnc] INT not null default(0)
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [Date] [varchar](20) NULL
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:56 ALTER TABLE [ItemMarketData] ADD [Item] [varbinary](16) NULL
+16:21:56 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Cannot find the object "ItemMarketData" because it does not exist or you do not have permissions.
+16:21:59 [ServerManager][0] AddServer (127.0.0.1)
+16:21:59 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+16:22:00 EXEC EX_RANKING1
+16:22:00 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'EX_RANKING1'.
+16:22:00 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:22:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:00 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:22:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:22:00 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:22:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:00 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:22:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:22:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:22:01 [ServerManager][1] AddServer (127.0.0.1)
+16:22:01 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+16:22:02 EXEC EX_RANKING1
+16:22:02 [QueryManager] State (42000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Could not find stored procedure 'EX_RANKING1'.
+16:22:02 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:22:02 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:02 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:22:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:22:02 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:22:02 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:02 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:22:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:22:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:22:10 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:22:10 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:10 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:22:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:22:10 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:22:10 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:10 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:22:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:22:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:22:20 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:22:20 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:20 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:22:20 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:22:20 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:22:20 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:20 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:22:20 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:22:20 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:22:30 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:22:30 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:30 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:22:30 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:22:30 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:22:30 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:30 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:22:30 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:22:30 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:22:40 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:22:40 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:40 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:22:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:22:40 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:22:40 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:40 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:22:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:22:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:22:50 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:22:50 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:50 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:22:50 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:22:50 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:22:50 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:22:50 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:22:50 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:22:50 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:23:00 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:23:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:00 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:23:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:23:00 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:23:00 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:00 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:23:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:23:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:23:10 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:23:10 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:10 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:23:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:23:10 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:23:10 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:10 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:23:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:23:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:23:20 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:23:20 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:20 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:23:20 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:23:20 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:23:20 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:20 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:23:20 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:23:20 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:23:31 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:23:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:31 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:23:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:23:31 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:23:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:31 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:23:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:23:31 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:23:41 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:23:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:41 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:23:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:23:41 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:23:41 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:41 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:23:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:23:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:23:51 select top 1 rResetLife, ResetCount from GHRS_top1 where time = 20220602 order by rResetLife DESC, ResetCount DESC
+16:23:51 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:51 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+16:23:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+16:23:51 INSERT INTO GHRS_top1 (time, rResetLife, ResetCount) VALUES (20220602, 0, 0)
+16:23:51 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'GHRS_top1'.
+16:23:51 Update Character SET CTCRegDay='0', CTCTime='1800'
+16:23:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCRegDay'.
+16:23:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'CTCTime'.
+16:24:30 [SocketManager] Server started at port [55960]
+16:24:33 [ServerManager][0] AddServer (127.0.0.1)
+16:24:33 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+16:24:34 [ServerManager][1] AddServer (127.0.0.1)
+16:24:34 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+16:48:20 [SocketManager] Server started at port [55960]
+16:48:24 [ServerManager][0] AddServer (127.0.0.1)
+16:48:24 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+16:48:26 [ServerManager][1] AddServer (127.0.0.1)
+16:48:26 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+17:21:08 [SocketManager] Server started at port [55960]
+17:23:54 [SocketManager] Server started at port [55960]
+17:25:01 [SocketManager] Server started at port [55960]
+17:27:26 [SocketManager] Server started at port [55960]
+17:27:30 [ServerManager][0] AddServer (127.0.0.1)
+17:27:30 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+17:27:32 [ServerManager][1] AddServer (127.0.0.1)
+17:27:32 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+17:45:51 [SocketManager] Server started at port [55960]
+17:45:55 [ServerManager][0] AddServer (127.0.0.1)
+17:45:55 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+17:45:56 [ServerManager][1] AddServer (127.0.0.1)
+17:45:56 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+17:55:55 [SocketManager] Server started at port [55960]
+17:55:58 [ServerManager][0] AddServer (127.0.0.1)
+17:55:58 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+17:56:00 [ServerManager][1] AddServer (127.0.0.1)
+17:56:00 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+18:05:29 [SocketManager] Server started at port [55960]
+18:05:32 [ServerManager][0] AddServer (127.0.0.1)
+18:05:32 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+18:05:34 [ServerManager][1] AddServer (127.0.0.1)
+18:05:34 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)

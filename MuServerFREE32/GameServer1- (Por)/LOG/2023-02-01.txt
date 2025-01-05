@@ -1,0 +1,92 @@
+15:25:20 [ServerInfo] CashShop loaded successfully
+15:25:21 [ServerInfo] ChaosMix loaded successfully
+15:25:21 [ServerInfo] Character loaded successfully
+15:25:21 [FakeOnline] Load Data OK
+15:25:21 [ServerInfo] Custom loaded successfully
+15:25:21 [ServerInfo] Command loaded successfully
+15:25:21 [ServerInfo] Common loaded successfully
+15:25:21 [ Crywolf ] State (0) -> NONE
+15:25:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:25:21 [ServerInfo] Event loaded successfully
+15:25:22 [ServerInfo] EventItemBag loaded successfully
+15:25:22 [ServerInfo] Hack loaded successfully
+15:25:23 [ServerInfo] Item loaded successfully
+15:25:26 [ServerInfo] Monster loaded successfully
+15:25:26 [ServerInfo] Move loaded successfully
+15:25:26 [ServerInfo] Quest loaded successfully
+15:25:27 [ServerInfo] Shop loaded successfully
+15:25:27 [ServerInfo] Skill loaded successfully
+15:25:27 [ServerInfo] Util loaded successfully
+15:25:27 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:25:27 [ReadBotInfo] BotSystem loaded successfully
+15:25:27 [Swamp Event] GROUP:1 set to 10 minutes
+15:25:27 [Swamp Event] GROUP:2 set to 10 minutes
+15:25:27 [Swamp Event] GROUP:3 set to 10 minutes
+15:25:27 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:25:27 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:25:27 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:25:27 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:25:27 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:25:27 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:25:27 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:25:27 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:25:27 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:25:28 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:25:28 [ServerInfo] SkyEvent Event loaded successfully
+15:25:28 [Swamp Event] Sync Start Time. [139] min remain
+15:25:28 [Swamp Event] SetState EMPTY
+15:25:28 [SkyEvent] Sync Start Time. [574] min remain
+15:25:28 [SkyEvent] SetState_EMPTY
+15:25:29 [02:02:2023][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:27:20 [Obj][15990] AddClient (192.168.2.192)
+15:27:22 [Obj][15990] AddAccount (admin)
+15:27:24 [Obj][15990] LogInCharacter (Admin)
+15:28:34 [Obj][15991] AddClient (192.168.2.192)
+15:28:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:29:13 [Obj][15991] DelClient (192.168.2.192)
+15:29:14 [Obj][15992] AddClient (192.168.2.192)
+15:29:19 [Obj][15992] AddAccount (hijo)
+15:29:26 [Obj][15992] LogInCharacter (HIjo)
+15:30:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:30:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:30:47 [Obj][15991] AddClient (192.168.2.192)
+15:31:52 [Obj][15991] DelClient (192.168.2.192)
+15:31:54 [Obj][15993] AddClient (192.168.2.192)
+15:32:02 [Obj][15993] AddAccount (marciacb)
+15:32:17 [Obj][15993] LogInCharacter (Sherom)
+15:34:39 [Obj][15990] LogOutCharacter (Admin)
+15:34:39 [Obj][15990] LogOutCharacter ()
+15:34:39 [Obj][15990] DelAccount (admin)
+15:34:39 [Obj][15990] DelClient (192.168.2.192)
+15:34:40 [Obj][15992] LogOutCharacter (HIjo)
+15:34:40 [Obj][15992] LogOutCharacter ()
+15:34:40 [Obj][15992] DelAccount (hijo)
+15:34:40 [Obj][15992] DelClient (192.168.2.192)
+15:34:41 [Obj][15993] LogOutCharacter (Sherom)
+15:34:41 [Obj][15993] LogOutCharacter ()
+15:34:41 [Obj][15993] DelAccount (marciacb)
+15:34:41 [Obj][15993] DelClient (192.168.2.192)
+15:34:49 [FakeOnline] Load Data OK
+15:34:50 [Obj][15991] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste1 Name: Divine] Is Online on server!
+15:34:50 [Obj][15990] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste10 Name: BloodFlare] Is Online on server!
+15:34:50 [Obj][15994] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste11 Name: Hunter] Is Online on server!
+15:34:50 [Obj][15995] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste12 Name: Storm] Is Online on server!
+15:34:50 [Obj][15996] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste13 Name: Aurora] Is Online on server!
+15:34:50 [Obj][15997] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste14 Name: Killer] Is Online on server!
+15:34:50 [Obj][15998] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste15 Name: Destructor] Is Online on server!
+15:34:50 [Obj][15999] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste16 Name: Olimpia] Is Online on server!
+15:34:50 [Obj][15992] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste2 Name: Mage] Is Online on server!
+15:34:50 [Obj][15993] AddClient (127.0.0.1)
+15:34:50 [FakeOnline]  [Account: teste3 Name: Instict] Is Online on server!
+15:35:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:35:30 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:35:30 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87

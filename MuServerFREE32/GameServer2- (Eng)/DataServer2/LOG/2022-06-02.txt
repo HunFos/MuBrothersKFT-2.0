@@ -1,0 +1,51 @@
+10:59:56 [SocketManager] Server started at port [55960]
+11:00:07 [ServerManager][0] AddServer (127.0.0.1)
+11:00:08 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+11:01:07 [SocketManager] Server started at port [55960]
+11:01:13 [ServerManager][0] AddServer (127.0.0.1)
+11:01:13 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+11:01:18 [ServerManager][1] AddServer (127.0.0.1)
+11:01:18 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+11:04:26 [SocketManager] Server started at port [55960]
+11:04:32 [ServerManager][0] AddServer (127.0.0.1)
+11:04:32 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+11:04:34 [ServerManager][1] AddServer (127.0.0.1)
+11:04:34 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+11:05:47 [SocketManager] Server started at port [55960]
+11:05:50 [ServerManager][0] AddServer (127.0.0.1)
+11:05:50 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+11:05:52 [ServerManager][1] AddServer (127.0.0.1)
+11:05:52 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:00:02 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+14:00:02 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+14:17:45 [ServerManager][0] DelServer (127.0.0.1)
+14:46:18 [SocketManager] Server started at port [55960]
+14:46:21 [ServerManager][0] AddServer (127.0.0.1)
+14:46:21 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+14:46:21 [ServerManager][1] AddServer (127.0.0.1)
+14:46:21 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:47:02 [SocketManager] Server started at port [55960]
+14:47:02 [ServerManager][0] AddServer (127.0.0.1)
+14:47:02 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+14:47:06 [ServerManager][1] AddServer (127.0.0.1)
+14:47:06 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+14:58:05 [SocketManager] Server started at port [55960]
+14:58:09 [ServerManager][0] AddServer (127.0.0.1)
+14:58:09 [ServerManager][0] ServerInfo (Server_1_CS) (55919) (19)
+14:58:12 [ServerManager][1] AddServer (127.0.0.1)
+14:58:12 [ServerManager][1] ServerInfo (Server_1) (55901) (0)
+15:04:05 [SocketManager] Server started at port [55960]
+15:04:08 [ServerManager][0] AddServer (127.0.0.1)
+15:04:08 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+15:04:09 [ServerManager][1] AddServer (127.0.0.1)
+15:04:09 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+15:05:20 [SocketManager] Server started at port [55960]
+15:05:23 [ServerManager][0] AddServer (127.0.0.1)
+15:05:23 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+15:05:24 [ServerManager][1] AddServer (127.0.0.1)
+15:05:24 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+20:00:58 [SocketManager] Server started at port [55960]
+20:01:01 [ServerManager][0] AddServer (127.0.0.1)
+20:01:01 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+20:01:03 [ServerManager][1] AddServer (127.0.0.1)
+20:01:03 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)

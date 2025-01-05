@@ -1,0 +1,1286 @@
+00:01:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:03:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:03:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 138 Y: 191)
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 138 Y: 191)
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 125 Y: 202)
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 125 Y: 202)
+00:07:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:08:49 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:08:49 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+00:13:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:13:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:14:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 183 Y: 137)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 183 Y: 137)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 90 Y: 77)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 90 Y: 77)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 140 Y: 230)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 140 Y: 230)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 33 Y: 84)
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 33 Y: 84)
+00:18:51 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:18:51 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:20:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:23:52 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:23:52 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 145 Y: 131)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 145 Y: 131)
+00:26:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:28:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:28:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:31:14 [Obj][15001] AddClient (138.186.116.97)
+00:31:16 [Obj][15001] AddAccount (admin)
+00:31:33 [Obj][15001] DelAccount (admin)
+00:31:33 [Obj][15001] DelClient (138.186.116.97)
+00:33:02 [Obj][15000] AddClient (138.186.116.97)
+00:33:06 [Obj][15000] AddAccount (admin)
+00:33:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:33:12 [Obj][15000] DelAccount (admin)
+00:33:12 [Obj][15000] DelClient (138.186.116.97)
+00:33:54 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:33:54 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:38:55 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:38:55 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+00:39:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:42:06 [Obj][15001] AddClient (138.186.116.97)
+00:42:07 [Obj][15001] AddAccount (admin)
+00:42:12 [Obj][15001] DelAccount (admin)
+00:42:12 [Obj][15001] DelClient (138.186.116.97)
+00:43:00 [CTC] Bat Dau Event Cong Thanh
+00:43:49 [Obj][15000] AddClient (138.186.116.97)
+00:43:50 [Obj][15000] AddAccount (admin)
+00:43:53 [Obj][15000] DelAccount (admin)
+00:43:53 [Obj][15000] DelClient (138.186.116.97)
+00:43:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:43:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+00:45:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:46:55 [Obj][15001] AddClient (138.186.116.97)
+00:46:56 [Obj][15001] AddAccount (admin)
+00:46:59 [Obj][15001] DelAccount (admin)
+00:46:59 [Obj][15001] DelClient (138.186.116.97)
+00:48:00 [CTC] Finish 2
+00:48:05 [Obj][15000] AddClient (138.186.116.97)
+00:48:06 [Obj][15000] AddAccount (admin)
+00:48:11 [Obj][15000] DelAccount (admin)
+00:48:11 [Obj][15000] DelClient (138.186.116.97)
+00:48:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:48:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+00:49:23 [Obj][15001] AddClient (138.186.116.97)
+00:49:24 [Obj][15001] AddAccount (admin)
+00:49:29 [Obj][15001] DelAccount (admin)
+00:49:29 [Obj][15001] DelClient (138.186.116.97)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 196 Y: 75)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 196 Y: 75)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 202 Y: 78)
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 202 Y: 78)
+00:50:35 [Obj][15000] AddClient (138.186.116.97)
+00:50:36 [Obj][15000] AddAccount (admin)
+00:50:55 [Obj][15000] DelAccount (admin)
+00:50:55 [Obj][15000] DelClient (138.186.116.97)
+00:52:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:53:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:53:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:56:34 [Obj][15001] AddClient (138.186.116.97)
+00:56:35 [Obj][15001] AddAccount (admin)
+00:56:40 [Obj][15001] DelAccount (admin)
+00:56:40 [Obj][15001] DelClient (138.186.116.97)
+00:57:33 [Obj][15000] AddClient (138.186.116.97)
+00:57:34 [Obj][15000] AddAccount (admin)
+00:57:42 [Obj][15000] DelAccount (admin)
+00:57:42 [Obj][15000] DelClient (138.186.116.97)
+00:58:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:58:36 [Obj][15001] AddClient (138.186.116.97)
+00:58:37 [Obj][15001] AddAccount (admin)
+00:58:48 [Obj][15001] DelAccount (admin)
+00:58:48 [Obj][15001] DelClient (138.186.116.97)
+00:58:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:58:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+00:59:57 [Obj][15000] AddClient (138.186.116.97)
+00:59:58 [Obj][15000] AddAccount (admin)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 149 Y: 15)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 149 Y: 15)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 150 Y: 12)
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 150 Y: 12)
+01:00:02 [Obj][15000] DelAccount (admin)
+01:00:02 [Obj][15000] DelClient (138.186.116.97)
+01:00:57 [Obj][15001] AddClient (138.186.116.97)
+01:00:58 [Obj][15001] AddAccount (admin)
+01:01:02 [Obj][15001] DelAccount (admin)
+01:01:02 [Obj][15001] DelClient (138.186.116.97)
+01:02:50 [Obj][15000] AddClient (138.186.116.97)
+01:02:51 [Obj][15000] AddAccount (admin)
+01:02:57 [Obj][15000] DelAccount (admin)
+01:02:57 [Obj][15000] DelClient (138.186.116.97)
+01:04:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:04:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:04:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:07:38 [Obj][15001] AddClient (138.186.116.97)
+01:07:40 [Obj][15001] AddAccount (admin)
+01:07:50 [Obj][15001] DelAccount (admin)
+01:07:50 [Obj][15001] DelClient (138.186.116.97)
+01:09:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+01:09:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+01:09:07 [Obj][15000] AddClient (138.186.116.97)
+01:09:09 [Obj][15000] AddAccount (admin)
+01:09:11 [Obj][15000] DelAccount (admin)
+01:09:11 [Obj][15000] DelClient (138.186.116.97)
+01:10:29 [Obj][15001] AddClient (138.186.116.97)
+01:10:31 [Obj][15001] AddAccount (admin)
+01:10:34 [Obj][15001] DelAccount (admin)
+01:10:34 [Obj][15001] DelClient (138.186.116.97)
+01:11:07 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:11:28 [Obj][15000] AddClient (138.186.116.97)
+01:11:29 [Obj][15000] AddAccount (admin)
+01:11:36 [Obj][15000] DelAccount (admin)
+01:11:36 [Obj][15000] DelClient (138.186.116.97)
+01:14:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:14:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:15:35 [Obj][15001] AddClient (138.186.116.97)
+01:15:36 [Obj][15001] AddAccount (admin)
+01:15:46 [Obj][15001] DelAccount (admin)
+01:15:46 [Obj][15001] DelClient (138.186.116.97)
+01:16:37 [Obj][15000] AddClient (138.186.116.97)
+01:16:38 [Obj][15000] AddAccount (admin)
+01:16:45 [Obj][15000] DelAccount (admin)
+01:16:45 [Obj][15000] DelClient (138.186.116.97)
+01:17:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:17:48 [Obj][15001] AddClient (138.186.116.97)
+01:17:50 [Obj][15001] AddAccount (admin)
+01:17:54 [Obj][15001] DelAccount (admin)
+01:17:54 [Obj][15001] DelClient (138.186.116.97)
+01:19:03 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+01:19:03 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+01:20:23 [Obj][15000] AddClient (138.186.116.97)
+01:20:24 [Obj][15000] AddAccount (admin)
+01:20:33 [Obj][15000] DelAccount (admin)
+01:20:33 [Obj][15000] DelClient (138.186.116.97)
+01:21:23 [Obj][15001] AddClient (138.186.116.97)
+01:21:25 [Obj][15001] AddAccount (admin)
+01:21:28 [Obj][15001] DelAccount (admin)
+01:21:28 [Obj][15001] DelClient (138.186.116.97)
+01:23:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:24:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:24:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:29:05 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+01:29:05 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+01:29:57 [Obj][15000] AddClient (138.186.116.97)
+01:29:58 [Obj][15000] AddAccount (admin)
+01:30:03 [Obj][15000] DelAccount (admin)
+01:30:03 [Obj][15000] DelClient (138.186.116.97)
+01:30:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:32:48 [Obj][15001] AddClient (138.186.116.97)
+01:32:49 [Obj][15001] AddAccount (admin)
+01:34:06 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:34:06 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:34:10 [Obj][15001] DelAccount (admin)
+01:34:10 [Obj][15001] DelClient (138.186.116.97)
+01:36:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:39:07 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+01:39:07 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+01:41:23 [Obj][15000] AddClient (138.186.116.97)
+01:41:24 [Obj][15000] AddAccount (admin)
+01:41:27 [Obj][15000] DelAccount (admin)
+01:41:27 [Obj][15000] DelClient (138.186.116.97)
+01:42:32 [Obj][15001] AddClient (138.186.116.97)
+01:42:33 [Obj][15001] AddAccount (admin)
+01:42:43 [Obj][15001] DelAccount (admin)
+01:42:43 [Obj][15001] DelClient (138.186.116.97)
+01:42:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:43:00 [CTC] Bat Dau Event Cong Thanh
+01:43:50 [Obj][15000] AddClient (138.186.116.97)
+01:43:51 [Obj][15000] AddAccount (admin)
+01:43:55 [Obj][15000] DelAccount (admin)
+01:43:55 [Obj][15000] DelClient (138.186.116.97)
+01:44:08 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:44:08 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:45:42 [Obj][15001] AddClient (138.186.116.97)
+01:45:43 [Obj][15001] AddAccount (admin)
+01:45:45 [Obj][15001] DelAccount (admin)
+01:45:45 [Obj][15001] DelClient (138.186.116.97)
+01:48:00 [CTC] Finish 2
+01:49:02 [Obj][15000] AddClient (138.186.116.97)
+01:49:04 [Obj][15000] AddAccount (admin)
+01:49:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:49:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+01:49:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+01:54:10 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+01:54:10 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+01:54:58 [Obj][15000] DelAccount (admin)
+01:54:58 [Obj][15000] DelClient (138.186.116.97)
+01:55:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+01:58:42 [Obj][15001] AddClient (138.186.116.97)
+01:59:05 [Obj][15001] AddAccount (admin)
+01:59:10 [Obj][15001] DelAccount (admin)
+01:59:10 [Obj][15001] DelClient (138.186.116.97)
+01:59:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+01:59:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:01:12 [Obj][15000] AddClient (138.186.116.97)
+02:01:13 [Obj][15000] AddAccount (admin)
+02:01:16 [Obj][15000] DelAccount (admin)
+02:01:16 [Obj][15000] DelClient (138.186.116.97)
+02:01:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:03:06 [Obj][15001] AddClient (138.186.116.97)
+02:03:07 [Obj][15001] AddAccount (admin)
+02:03:10 [Obj][15001] DelAccount (admin)
+02:03:10 [Obj][15001] DelClient (138.186.116.97)
+02:04:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+02:04:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+02:06:52 [Obj][15000] AddClient (138.186.116.97)
+02:06:54 [Obj][15000] AddAccount (admin)
+02:06:57 [Obj][15000] DelAccount (admin)
+02:06:57 [Obj][15000] DelClient (138.186.116.97)
+02:08:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:08:58 [Obj][15001] AddClient (138.186.116.97)
+02:08:59 [Obj][15001] AddAccount (admin)
+02:09:02 [Obj][15001] DelAccount (admin)
+02:09:02 [Obj][15001] DelClient (138.186.116.97)
+02:09:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+02:09:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+02:13:18 [Obj][15000] AddClient (138.186.116.97)
+02:13:19 [Obj][15000] AddAccount (admin)
+02:13:22 [Obj][15000] DelAccount (admin)
+02:13:22 [Obj][15000] DelClient (138.186.116.97)
+02:14:14 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:14:14 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:14:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:15:16 [Obj][15001] AddClient (138.186.116.97)
+02:15:17 [Obj][15001] AddAccount (admin)
+02:15:23 [Obj][15001] DelAccount (admin)
+02:15:23 [Obj][15001] DelClient (138.186.116.97)
+02:19:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:19:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:20:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:24:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+02:24:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+02:27:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:29:17 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+02:29:17 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+02:33:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:34:18 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+02:34:18 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+02:39:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:39:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+02:39:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:43:00 [CTC] Bat Dau Event Cong Thanh
+02:44:20 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+02:44:20 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+02:46:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:48:00 [CTC] Finish 2
+02:49:21 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+02:49:21 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+02:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 16)
+02:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 16)
+02:52:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:54:22 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+02:54:22 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+02:58:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+02:59:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+02:59:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+03:02:47 [Obj][15000] AddClient (138.186.116.97)
+03:02:48 [Obj][15000] AddAccount (admin)
+03:03:08 [Obj][15000] LogInCharacter (Lord)
+03:03:33 [Obj][15000] LogOutCharacter (Lord)
+03:03:33 [Obj][15000] LogOutCharacter ()
+03:03:33 [Obj][15000] DelAccount (admin)
+03:03:33 [Obj][15000] DelClient (138.186.116.97)
+03:04:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+03:04:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+03:05:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:08:33 [ServerInfo] CashShop loaded successfully
+03:08:33 [ServerInfo] ChaosMix loaded successfully
+03:08:33 [ServerInfo] Character loaded successfully
+03:08:33 [FakeOnline] Load Data OK
+03:08:33 [ServerInfo] Custom loaded successfully
+03:08:33 [ServerInfo] Command loaded successfully
+03:08:33 [ServerInfo] Common loaded successfully
+03:08:33 [ Crywolf ] State (0) -> NONE
+03:08:33 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+03:08:33 [ServerInfo] Event loaded successfully
+03:08:33 [ServerInfo] EventItemBag loaded successfully
+03:08:33 [ServerInfo] Hack loaded successfully
+03:08:33 [ServerInfo] Item loaded successfully
+03:08:33 [ServerInfo] Monster loaded successfully
+03:08:33 [ServerInfo] Move loaded successfully
+03:08:33 [ServerInfo] Quest loaded successfully
+03:08:33 [ServerInfo] Shop loaded successfully
+03:08:33 [ServerInfo] Skill loaded successfully
+03:08:33 [ServerInfo] Util loaded successfully
+03:08:33 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+03:08:33 [ReadBotInfo] BotSystem loaded successfully
+03:08:33 [Swamp Event] GROUP:1 set to 12 minutes
+03:08:33 [Swamp Event] GROUP:2 set to 10 minutes
+03:08:33 [Swamp Event] GROUP:3 set to 4 minutes
+03:08:33 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+03:08:33 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+03:08:33 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+03:08:33 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+03:08:33 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+03:08:33 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+03:08:33 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+03:08:33 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+03:08:33 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+03:08:33 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+03:08:33 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+03:08:33 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+03:08:33 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+03:08:33 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+03:08:33 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+03:08:33 [ServerInfo] SkyEvent Event loaded successfully
+03:08:34 [Swamp Event] Sync Start Time. [861] min remain
+03:08:34 [Swamp Event] SetState EMPTY
+03:08:34 [SkyEvent] Sync Start Time. [831] min remain
+03:08:34 [SkyEvent] SetState_EMPTY
+03:08:35 [29:05:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+03:08:37 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+03:09:10 [Obj][15000] AddClient (138.186.116.97)
+03:09:11 [Obj][15000] AddAccount (admin)
+03:09:57 [Obj][15000] LogInCharacter (Lindinha)
+03:11:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:12:32 [Obj][15000] LogOutCharacter (Lindinha)
+03:12:32 [Obj][15000] LogOutCharacter ()
+03:12:35 [Obj][15000] LogInCharacter (Rage)
+03:13:35 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+03:13:35 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+03:13:50 [Obj][15000] LogOutCharacter (Rage)
+03:13:50 [Obj][15000] LogOutCharacter ()
+03:13:53 [Obj][15000] LogInCharacter (Lord)
+03:18:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:18:36 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+03:18:36 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+03:19:52 [Obj][15000] LogOutCharacter (Lord)
+03:19:52 [Obj][15000] LogOutCharacter ()
+03:19:52 [Obj][15000] DelAccount (admin)
+03:19:52 [Obj][15000] DelClient (138.186.116.97)
+03:23:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+03:23:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+03:24:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:28:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+03:28:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+03:30:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:33:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+03:33:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+03:37:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:38:40 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+03:38:40 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+03:43:00 [CTC] Bat Dau Event Cong Thanh
+03:43:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:43:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+03:43:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+03:48:00 [CTC] Finish 2
+03:48:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+03:48:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+03:49:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:53:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+03:53:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+03:56:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+03:58:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+03:58:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+04:02:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:03:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+04:03:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+04:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 85)
+04:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 85)
+04:08:46 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+04:08:46 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+04:08:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:13:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+04:13:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 150 Y: 24)
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 150 Y: 24)
+04:15:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:18:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+04:18:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+04:21:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:23:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+04:23:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 206 Y: 45)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 206 Y: 45)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 166 Y: 137)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 166 Y: 137)
+04:27:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:28:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+04:28:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+04:33:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+04:33:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+04:34:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:38:52 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+04:38:52 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+04:40:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:43:00 [CTC] Bat Dau Event Cong Thanh
+04:43:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+04:43:53 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+04:46:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:48:00 [CTC] Finish 2
+04:48:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+04:48:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 199 Y: 72)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 199 Y: 72)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 199 Y: 71)
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 199 Y: 71)
+04:53:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+04:53:55 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+04:53:55 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+04:58:56 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+04:58:56 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+04:59:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 54 Y: 109)
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 54 Y: 109)
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 54 Y: 112)
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 54 Y: 112)
+05:03:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+05:03:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+05:05:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:08:58 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+05:08:58 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+05:12:07 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:13:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+05:13:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+05:18:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:19:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+05:19:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+05:24:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+05:24:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+05:24:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:29:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+05:29:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+05:30:00 [HappyHours] Evento Iniciado!
+05:30:00 [HappyHours] Extra Drop:10,Extra Exp:50
+05:30:00 [HappyHours] Total Drop:110,Total Exp:10049
+05:31:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:34:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+05:34:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+05:37:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:39:04 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+05:39:04 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+05:43:00 [CTC] Bat Dau Event Cong Thanh
+05:43:45 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:44:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+05:44:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+05:48:00 [CTC] Finish 2
+05:49:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+05:49:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+05:50:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:54:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+05:54:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+05:56:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+05:59:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+05:59:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:00:00 [HappyHours] End!
+06:02:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:04:09 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+06:04:09 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+06:09:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:09:10 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+06:09:10 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+06:14:11 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+06:14:11 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+06:15:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:19:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:19:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:21:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:24:13 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+06:24:13 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+06:28:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:29:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:29:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:34:15 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:34:15 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:34:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:39:16 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:39:16 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:40:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:43:00 [CTC] Bat Dau Event Cong Thanh
+06:44:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+06:44:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+06:47:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:48:00 [CTC] Finish 2
+06:49:18 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+06:49:18 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+06:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 161 Y: 17)
+06:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 161 Y: 17)
+06:53:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+06:54:19 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:54:19 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+06:59:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+06:59:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+06:59:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:04:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+07:04:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+07:06:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:09:22 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+07:09:22 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+07:12:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:14:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:14:23 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:18:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:19:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+07:19:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+07:24:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:24:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:24:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:29:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:29:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:31:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:34:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+07:34:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+07:37:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:39:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+07:39:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+07:43:00 [CTC] Bat Dau Event Cong Thanh
+07:43:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:44:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:44:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:48:00 [CTC] Finish 2
+07:49:30 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+07:49:30 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+07:50:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:54:31 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+07:54:31 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+07:56:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:59:32 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+07:59:32 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:02:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:04:33 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:04:33 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 126 Y: 190)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 126 Y: 190)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 128 Y: 196)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 128 Y: 196)
+08:09:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:09:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:09:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:14:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:14:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 171 Y: 183)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 171 Y: 183)
+08:15:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:19:36 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+08:19:36 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+08:21:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:24:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:24:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 74 Y: 33)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 74 Y: 33)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 36 Y: 135)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 36 Y: 135)
+08:28:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:29:38 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:29:38 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:30:00 [MasterHour] Evento Iniciado!
+08:30:00 [MasterHours] Extra Drop:0,Extra Exp:20
+08:30:00 [MasterHours] Total Drop:100,Total Exp:420
+08:34:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:34:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+08:34:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+08:39:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:39:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:40:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:43:00 [CTC] Bat Dau Event Cong Thanh
+08:44:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:44:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:45:00 [MasterHours] End!
+08:47:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:48:00 [CTC] Finish 2
+08:49:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:49:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 152 Y: 61)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 152 Y: 61)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 151 Y: 59)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 151 Y: 59)
+08:53:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:54:43 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+08:54:43 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+08:59:44 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:59:44 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:59:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 53 Y: 110)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 53 Y: 110)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 55 Y: 113)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 55 Y: 113)
+09:04:45 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:04:45 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:06:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:09:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:09:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:12:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:14:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:14:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:18:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:19:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:19:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:24:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:24:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:25:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:29:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:29:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:31:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:34:51 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:34:51 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:37:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:39:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:39:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:43:00 [CTC] Bat Dau Event Cong Thanh
+09:44:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:44:53 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:44:53 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:48:00 [CTC] Finish 2
+09:49:54 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:49:54 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:50:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:54:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:54:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:56:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:59:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+09:59:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:03:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:04:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:04:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:09:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:09:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:09:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:14:59 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:14:59 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:15:13 [Obj][15000] AddClient (138.186.116.97)
+10:15:15 [Obj][15000] AddAccount (admin)
+10:15:20 [Obj][15000] LogInCharacter (Admin)
+10:15:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:17:35 [Obj][15000] LogOutCharacter (Admin)
+10:17:35 [Obj][15000] LogOutCharacter ()
+10:17:43 [Obj][15000] LogInCharacter (Reverso)
+10:17:59 [Obj][15000] LogOutCharacter (Reverso)
+10:17:59 [Obj][15000] LogOutCharacter ()
+10:18:01 [Obj][15000] LogInCharacter (Lindinha)
+10:18:23 [Obj][15000] LogOutCharacter (Lindinha)
+10:18:23 [Obj][15000] LogOutCharacter ()
+10:18:36 [Obj][15000] LogInCharacter (Reverso)
+10:18:51 [Obj][15000] LogOutCharacter (Reverso)
+10:18:51 [Obj][15000] LogOutCharacter ()
+10:18:51 [Obj][15000] DelAccount (admin)
+10:18:51 [Obj][15000] DelClient (138.186.116.97)
+10:20:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:20:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:22:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:25:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:25:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:27:52 [Obj][15000] AddClient (138.186.116.97)
+10:27:53 [Obj][15000] AddAccount (admin)
+10:28:01 [Obj][15000] LogInCharacter (Admin)
+10:28:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:28:36 [Obj][15000] LogOutCharacter (Admin)
+10:28:36 [Obj][15000] LogOutCharacter ()
+10:28:36 [Obj][15000] DelAccount (admin)
+10:28:36 [Obj][15000] DelClient (138.186.116.97)
+10:29:36 [Obj][15000] AddClient (138.186.116.97)
+10:29:38 [Obj][15000] AddAccount (admin)
+10:29:42 [Obj][15000] LogInCharacter (Admin)
+10:30:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:30:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:30:52 [Obj][15000] LogOutCharacter (Admin)
+10:30:52 [Obj][15000] LogOutCharacter ()
+10:30:52 [Obj][15000] DelAccount (admin)
+10:30:52 [Obj][15000] DelClient (138.186.116.97)
+10:32:26 [Obj][15000] AddClient (138.186.116.97)
+10:32:27 [Obj][15000] AddAccount (admin)
+10:32:31 [Obj][15000] LogInCharacter (Admin)
+10:32:57 [Obj][15000] LogOutCharacter (Admin)
+10:32:57 [Obj][15000] LogOutCharacter ()
+10:32:57 [Obj][15000] DelAccount (admin)
+10:32:57 [Obj][15000] DelClient (138.186.116.97)
+10:34:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:35:03 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:35:03 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:40:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:40:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:41:07 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:43:00 [CTC] Bat Dau Event Cong Thanh
+10:45:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:45:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:47:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:48:00 [CTC] Finish 2
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 161 Y: 12)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 161 Y: 12)
+10:50:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:50:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:53:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:55:07 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:55:07 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:00:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:00:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:00:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:05:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:05:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:06:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:10:10 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:10:10 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:12:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:15:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:15:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:19:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:20:12 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:20:12 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:25:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:25:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:25:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:30:14 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:30:14 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:31:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:35:15 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:35:15 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:38:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:40:16 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:40:16 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:43:00 [CTC] Bat Dau Event Cong Thanh
+11:44:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:45:17 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:45:17 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:48:00 [CTC] Finish 2
+11:50:18 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:50:18 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:50:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:55:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:55:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:57:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:00:20 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:00:20 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:03:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 132 Y: 198)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 132 Y: 198)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 129 Y: 200)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 129 Y: 200)
+12:05:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:05:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:09:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:10:22 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:10:22 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 196 Y: 54)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 196 Y: 54)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 54 Y: 142)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 54 Y: 142)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 69 Y: 186)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 69 Y: 186)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 225 Y: 76)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 225 Y: 76)
+12:15:23 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:15:23 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:16:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:20:24 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:20:24 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:22:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 43 Y: 237)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 43 Y: 237)
+12:25:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:25:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:28:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:30:26 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:30:26 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:35:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:35:27 [Obj][15000] AddClient (138.186.116.97)
+12:35:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:35:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:35:28 [Obj][15000] AddAccount (admin)
+12:35:32 [Obj][15000] DelAccount (admin)
+12:35:32 [Obj][15000] DelClient (138.186.116.97)
+12:36:48 [Obj][15000] AddClient (138.186.116.97)
+12:36:49 [Obj][15000] AddAccount (admin)
+12:36:54 [Obj][15000] DelAccount (admin)
+12:36:54 [Obj][15000] DelClient (138.186.116.97)
+12:40:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:40:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:41:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:43:00 [CTC] Bat Dau Event Cong Thanh
+12:45:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:45:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:47:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:48:00 [CTC] Finish 2
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 160 Y: 19)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 160 Y: 19)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 159 Y: 13)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 159 Y: 13)
+12:50:30 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:50:30 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:54:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:55:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:55:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 50 Y: 104)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 50 Y: 104)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 52 Y: 105)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 52 Y: 105)
+13:00:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:00:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:00:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:05:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:05:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:06:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:10:34 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:10:34 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:12:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:15:35 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:15:35 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:19:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:20:36 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:20:36 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:25:37 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:25:37 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:25:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:30:38 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:30:38 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:31:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:35:39 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:35:39 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:38:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:40:40 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:40:40 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:43:00 [CTC] Bat Dau Event Cong Thanh
+13:44:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:45:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:45:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:48:00 [CTC] Finish 2
+13:50:42 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:50:42 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:50:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:55:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:55:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:57:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:00:07 [30:05:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+14:00:44 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:00:44 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:03:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:05:45 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:05:45 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:09:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:10:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:10:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:15:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:15:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:16:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:20:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:20:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:22:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:25:49 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:25:49 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:28:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:30:50 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:30:50 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:35:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:35:51 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:35:51 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:40:52 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:40:52 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:41:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:43:00 [CTC] Bat Dau Event Cong Thanh
+14:45:53 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:45:53 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:47:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:48:00 [CTC] Finish 2
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 203 Y: 74)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 203 Y: 74)
+14:50:54 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:50:54 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:54:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:55:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:55:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:00:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:00:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:00:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:05:57 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:05:57 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:06:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:10:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:10:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:13:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:15:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:15:59 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:19:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:21:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:21:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:25:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:26:01 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:26:01 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:31:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:31:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:32:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:36:03 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:36:03 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:38:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:41:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:41:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:43:00 [CTC] Bat Dau Event Cong Thanh
+15:44:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:46:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:46:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:48:00 [CTC] Finish 2
+15:51:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:51:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:51:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:56:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:56:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:57:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:01:08 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:01:08 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:03:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 135 Y: 201)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 135 Y: 201)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 139 Y: 201)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 139 Y: 201)
+16:06:09 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:06:09 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:10:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:11:10 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:11:10 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 172 Y: 11)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 172 Y: 11)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 17 Y: 129)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 17 Y: 129)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 10 Y: 84)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 10 Y: 84)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 224 Y: 218)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 224 Y: 218)
+16:16:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:16:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:16:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:21:12 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:21:12 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:22:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 151 Y: 211)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 151 Y: 211)
+16:26:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:26:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:29:07 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:31:14 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:31:14 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:35:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:36:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:36:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:41:16 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:41:16 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:41:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:43:00 [CTC] Bat Dau Event Cong Thanh
+16:46:17 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:46:17 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:48:00 [CTC] Finish 2
+16:48:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 149 Y: 60)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 149 Y: 60)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 161 Y: 49)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 161 Y: 49)
+16:51:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:51:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:54:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:56:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:56:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 159 Y: 18)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 159 Y: 18)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 157 Y: 17)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 157 Y: 17)
+17:00:00 [Sky Event] will close after 5 minute(s)
+17:00:45 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:01:00 [Sky Event] will close after 4 minute(s)
+17:01:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:01:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:02:00 [Sky Event] will close after 3 minute(s)
+17:03:00 [Sky Event] will close after 2 minute(s)
+17:04:01 [Sky Event] will close after 1 minute(s)
+17:05:01 [Sky Event] Event entrance is closed!
+17:05:01 [Sky Event] Event End
+17:05:21 [SkyEvent] Sync Start Time. [1434] min remain
+17:05:21 [SkyEvent] SetState_EMPTY
+17:06:21 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:06:21 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:07:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:11:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:11:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:13:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:16:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:16:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:19:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:21:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:21:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:26:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:26:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:26:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:30:00 [SwampEvent] PREPARING EVENT
+17:31:00 [SwampEvent] Started in 5 Minutos
+17:31:26 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:31:26 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:32:00 [SwampEvent] Started in 4 Minutos
+17:32:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:33:00 [SwampEvent] Started in 3 Minutos
+17:34:00 [SwampEvent] Started in 2 Minutos
+17:35:00 [SwampEvent] Started in 1 Minutos
+17:36:00 [SwampEvent] PREPARING NEW GROUP
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 441 / QTY: 10
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 442 / QTY: 10
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 443 / QTY: 10
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 444 / QTY: 10
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 445 / QTY: 10
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 446 / QTY: 10
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 447 / QTY: 10
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 448 / QTY: 10
+17:36:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 449 / QTY: 10
+17:36:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:36:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:38:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:41:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:41:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:43:00 [CTC] Bat Dau Event Cong Thanh
+17:45:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:46:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:46:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:48:00 [CTC] Finish 2
+17:48:08 [SwampEvent] State -> FAIL: TIME EXCEED
+17:48:08 [SwampEvent] State -> PRECLOSURE: Monster Clean
+17:48:08 [SwampEvent] State -> CLOSED
+17:51:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:51:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:51:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:56:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:56:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:57:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:01:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:01:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:04:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:06:33 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:06:33 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:10:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:11:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:11:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:16:35 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:16:35 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:16:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:21:36 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:21:36 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:23:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:26:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:26:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:29:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:31:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:31:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:35:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:36:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:36:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:41:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:41:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:42:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:43:00 [CTC] Bat Dau Event Cong Thanh
+18:46:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:46:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:48:00 [CTC] Finish 2
+18:48:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 159 Y: 16)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 159 Y: 16)
+18:51:42 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:51:42 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:54:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:56:43 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:56:43 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:00:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:01:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:01:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:06:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:06:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:07:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:11:46 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:11:46 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:13:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:16:47 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:16:47 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:19:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:21:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:21:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:26:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:26:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:26:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:31:50 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:31:50 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:32:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:36:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:36:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:38:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:41:52 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:41:52 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:43:00 [CTC] Bat Dau Event Cong Thanh
+19:45:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:46:53 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:46:53 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:48:00 [CTC] Finish 2
+19:51:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:51:54 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:51:54 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:56:55 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:56:55 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:57:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:01:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:01:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:04:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 125 Y: 198)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 125 Y: 198)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 134 Y: 194)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 134 Y: 194)
+20:06:57 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:06:57 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:10:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:11:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:11:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 166 Y: 51)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 166 Y: 51)
+20:16:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:16:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:16:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:22:00 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:22:00 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:23:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 210 Y: 35)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 210 Y: 35)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 127 Y: 106)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 127 Y: 106)
+20:27:01 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:27:01 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:29:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:32:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:32:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:35:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:37:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:37:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:42:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:42:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:42:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:43:00 [CTC] Bat Dau Event Cong Thanh
+20:47:05 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:47:05 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:48:00 [CTC] Finish 2
+20:48:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 203 Y: 84)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 203 Y: 84)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 194 Y: 80)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 194 Y: 80)
+20:52:06 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:52:06 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:54:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:57:07 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:57:07 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 179 Y: 125)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 179 Y: 125)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 178 Y: 120)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 178 Y: 120)
+21:01:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:02:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:02:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:07:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:07:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:07:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:12:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:12:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:13:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:17:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:17:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:20:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:22:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:22:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:26:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:27:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:27:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:32:14 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:32:14 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:32:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:37:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:37:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:39:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:42:16 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:42:16 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:43:00 [CTC] Bat Dau Event Cong Thanh
+21:45:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:47:17 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:47:17 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:48:00 [CTC] Finish 2
+21:51:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:52:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:52:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:57:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:57:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:58:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:02:20 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:02:20 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:04:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:07:21 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:07:21 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:10:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:12:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:12:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:17:07 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:17:23 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:17:23 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:22:24 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:22:24 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:23:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:27:25 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:27:25 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:29:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:32:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:32:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:36:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:37:27 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:37:27 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:42:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:42:28 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:42:28 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:43:00 [CTC] Bat Dau Event Cong Thanh
+22:47:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:47:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:48:00 [CTC] Finish 2
+22:48:45 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 159 Y: 18)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 159 Y: 18)
+22:52:30 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:52:30 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:55:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:57:31 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:57:31 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:01:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:02:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:02:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:07:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:07:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:07:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:12:34 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:12:34 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:14:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:17:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:17:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:20:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:22:36 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:22:36 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:26:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:27:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:27:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:32:38 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:32:38 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:33:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:37:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:37:39 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:39:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:42:40 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:42:40 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:43:00 [CTC] Bat Dau Event Cong Thanh
+23:45:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:47:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:47:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:48:00 [CTC] Finish 2
+23:52:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:52:42 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:52:42 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:57:43 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:57:43 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:58:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY

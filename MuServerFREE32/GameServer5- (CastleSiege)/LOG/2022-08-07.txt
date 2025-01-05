@@ -1,0 +1,160 @@
+00:43:00 [CTC] Bat Dau Event Cong Thanh
+00:48:00 [CTC] Finish 2
+01:43:00 [CTC] Bat Dau Event Cong Thanh
+01:48:00 [CTC] Finish 2
+02:43:00 [CTC] Bat Dau Event Cong Thanh
+02:48:00 [CTC] Finish 2
+03:43:00 [CTC] Bat Dau Event Cong Thanh
+03:48:00 [CTC] Finish 2
+04:43:00 [CTC] Bat Dau Event Cong Thanh
+04:48:00 [CTC] Finish 2
+05:30:00 [HappyHours] Evento Iniciado!
+05:30:00 [HappyHours] Extra Drop:10,Extra Exp:50
+05:30:00 [HappyHours] Total Drop:110,Total Exp:5050
+05:43:00 [CTC] Bat Dau Event Cong Thanh
+05:48:00 [CTC] Finish 2
+06:00:00 [HappyHours] End!
+06:43:00 [CTC] Bat Dau Event Cong Thanh
+06:48:00 [CTC] Finish 2
+07:43:00 [CTC] Bat Dau Event Cong Thanh
+07:48:00 [CTC] Finish 2
+08:30:00 [MasterHour] Evento Iniciado!
+08:30:00 [MasterHours] Extra Drop:0,Extra Exp:20
+08:30:00 [MasterHours] Total Drop:100,Total Exp:420
+08:43:00 [CTC] Bat Dau Event Cong Thanh
+08:45:00 [MasterHours] End!
+08:48:00 [CTC] Finish 2
+09:43:00 [CTC] Bat Dau Event Cong Thanh
+09:48:00 [CTC] Finish 2
+10:43:00 [CTC] Bat Dau Event Cong Thanh
+10:48:00 [CTC] Finish 2
+12:01:55 [ServerInfo] CashShop loaded successfully
+12:01:55 [ServerInfo] ChaosMix loaded successfully
+12:01:55 [ServerInfo] Character loaded successfully
+12:01:55 [FakeOnline] Load Data OK
+12:01:55 [ServerInfo] Custom loaded successfully
+12:01:55 [ServerInfo] Command loaded successfully
+12:01:55 [ServerInfo] Common loaded successfully
+12:01:55 [ Crywolf ] State (0) -> NONE
+12:01:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:01:56 [ServerInfo] Event loaded successfully
+12:01:56 [ServerInfo] EventItemBag loaded successfully
+12:01:56 [ServerInfo] Hack loaded successfully
+12:01:56 [ServerInfo] Item loaded successfully
+12:01:56 [ServerInfo] Monster loaded successfully
+12:01:56 [ServerInfo] Move loaded successfully
+12:01:56 [ServerInfo] Quest loaded successfully
+12:01:56 [ServerInfo] Shop loaded successfully
+12:01:56 [ServerInfo] Skill loaded successfully
+12:01:56 [ServerInfo] Util loaded successfully
+12:01:56 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+12:01:56 [ReadBotInfo] BotSystem loaded successfully
+12:01:56 [Swamp Event] Sync Start Time. [343] min remain
+12:01:56 [Swamp Event] SetState EMPTY
+12:01:56 [SkyEvent] SetState_BLANK
+12:01:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+12:01:57 [07:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+12:01:57 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+12:01:58 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+12:01:58 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+12:01:58 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+12:01:58 [CastleSiege] CCastleSiege::Init() - START
+12:01:58 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+12:01:58 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+15:42:51 [ServerInfo] CashShop loaded successfully
+15:42:51 [ServerInfo] ChaosMix loaded successfully
+15:42:51 [ServerInfo] Character loaded successfully
+15:42:51 [FakeOnline] Load Data OK
+15:42:51 [ServerInfo] Custom loaded successfully
+15:42:51 [ServerInfo] Command loaded successfully
+15:42:51 [ServerInfo] Common loaded successfully
+15:42:51 [ Crywolf ] State (0) -> NONE
+15:42:51 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:42:52 [ServerInfo] Event loaded successfully
+15:42:52 [ServerInfo] EventItemBag loaded successfully
+15:42:52 [ServerInfo] Hack loaded successfully
+15:42:52 [ServerInfo] Item loaded successfully
+15:42:53 [ServerInfo] Monster loaded successfully
+15:42:53 [ServerInfo] Move loaded successfully
+15:42:53 [ServerInfo] Quest loaded successfully
+15:42:53 [ServerInfo] Shop loaded successfully
+15:42:53 [ServerInfo] Skill loaded successfully
+15:42:53 [ServerInfo] Util loaded successfully
+15:42:53 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:42:53 [ReadBotInfo] BotSystem loaded successfully
+15:42:53 [Swamp Event] Sync Start Time. [122] min remain
+15:42:53 [Swamp Event] SetState EMPTY
+15:42:53 [SkyEvent] SetState_BLANK
+15:42:54 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+15:42:57 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:00 [CTC] Bat Dau Event Cong Thanh
+15:43:01 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:08 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:15 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:17 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+15:43:19 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:32 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:35 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:39 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:46 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:50 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA AGAIN
+15:43:50 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+15:43:50 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+15:43:50 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+15:43:50 [CastleSiege] CCastleSiege::Init() - START
+15:43:50 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+15:43:50 [08:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [08:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [08:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:43:50 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [08:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [08:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:43:50 [08:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:43:50 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+15:48:00 [CTC] Finish 2
+16:43:00 [CTC] Bat Dau Event Cong Thanh
+16:48:00 [CTC] Finish 2
+17:43:00 [CTC] Bat Dau Event Cong Thanh
+17:45:00 [SwampEvent] PREPARING EVENT
+17:46:00 [SwampEvent] Started in 5 Minutos
+17:47:00 [SwampEvent] Started in 4 Minutos
+17:48:00 [SwampEvent] Started in 3 Minutos
+17:48:00 [CTC] Finish 2
+17:49:00 [SwampEvent] Started in 2 Minutos
+17:50:00 [SwampEvent] Started in 1 Minutos
+17:51:00 [SwampEvent] PREPARING NEW GROUP
+17:51:00 [Swamp Event] Sync Start Time. [1434] min remain
+17:51:00 [Swamp Event] SetState EMPTY
+18:43:00 [CTC] Bat Dau Event Cong Thanh
+18:48:00 [CTC] Finish 2
+19:43:00 [CTC] Bat Dau Event Cong Thanh
+19:48:00 [CTC] Finish 2
+20:43:00 [CTC] Bat Dau Event Cong Thanh
+20:48:00 [CTC] Finish 2
+21:43:00 [CTC] Bat Dau Event Cong Thanh
+21:48:00 [CTC] Finish 2
+22:43:00 [CTC] Bat Dau Event Cong Thanh
+22:48:00 [CTC] Finish 2
+23:43:00 [CTC] Bat Dau Event Cong Thanh
+23:48:00 [CTC] Finish 2

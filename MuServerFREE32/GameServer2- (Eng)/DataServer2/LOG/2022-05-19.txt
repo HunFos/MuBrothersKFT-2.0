@@ -1,0 +1,27 @@
+20:26:24 [SocketManager] Server started at port [55960]
+20:26:27 [ServerManager][0] AddServer (127.0.0.1)
+20:26:27 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+20:26:28 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+20:26:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+20:26:28 [ServerManager][1] AddServer (127.0.0.1)
+20:26:28 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+20:35:39 [SocketManager] Server started at port [55960]
+20:35:42 [ServerManager][0] AddServer (127.0.0.1)
+20:35:42 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+20:35:43 [ServerManager][1] AddServer (127.0.0.1)
+20:35:43 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+20:42:56 [SocketManager] Server started at port [55960]
+20:42:59 [ServerManager][0] AddServer (127.0.0.1)
+20:42:59 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+20:43:01 [ServerManager][1] AddServer (127.0.0.1)
+20:43:01 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+20:44:45 [SocketManager] Server started at port [55960]
+20:44:48 [ServerManager][0] AddServer (127.0.0.1)
+20:44:48 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+20:44:50 [ServerManager][1] AddServer (127.0.0.1)
+20:44:50 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+21:44:23 [SocketManager] Server started at port [55960]
+21:44:26 [ServerManager][0] AddServer (127.0.0.1)
+21:44:26 [ServerManager][0] ServerInfo (Server_1) (55901) (0)
+21:44:28 [ServerManager][1] AddServer (127.0.0.1)
+21:44:28 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)

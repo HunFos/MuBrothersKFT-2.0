@@ -1,0 +1,33 @@
+11:18:27 [SocketManager] Server started at port [55964]
+11:18:48 [ServerManager][0] AddServer (127.0.0.1)
+11:18:48 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:19:29 [SocketManager] Server started at port [55964]
+11:19:35 [ServerManager][0] AddServer (127.0.0.1)
+11:19:35 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:23:34 [SocketManager] Server started at port [55964]
+11:23:36 [ServerManager][0] AddServer (127.0.0.1)
+11:23:36 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:32:49 [SocketManager] Server started at port [55964]
+11:32:51 [ServerManager][0] AddServer (127.0.0.1)
+11:32:51 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:40:53 [SocketManager] Server started at port [55964]
+11:40:55 [ServerManager][0] AddServer (127.0.0.1)
+11:40:55 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:48:26 [SocketManager] Server started at port [55964]
+11:48:28 [ServerManager][0] AddServer (127.0.0.1)
+11:48:28 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+12:12:41 [SocketManager] Server started at port [55964]
+12:12:44 [ServerManager][0] AddServer (127.0.0.1)
+12:12:44 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+13:20:14 [SocketManager] Server started at port [55964]
+13:20:16 [ServerManager][0] AddServer (127.0.0.1)
+13:20:16 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+13:54:06 [SocketManager] Server started at port [55964]
+13:54:08 [ServerManager][0] AddServer (127.0.0.1)
+13:54:08 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+14:00:00 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+14:00:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+14:01:31 [ServerManager][0] DelServer (127.0.0.1)
+14:05:46 [SocketManager] Server started at port [55964]
+14:05:48 [ServerManager][0] AddServer (127.0.0.1)
+14:05:48 [ServerManager][0] ServerInfo (Server2) (55902) (1)

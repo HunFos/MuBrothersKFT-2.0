@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MSGNotify IndexMesMin="3020" IndexMesMax="3030"/>
+<!---
+SkillID = SkillID
+UseBuffs = Use Buffs Max 3
+GateNumber = Index Gate the Move Map , MapX, MapY : To X,Y
+AttackRange = Max Attack Range (6)
+MoveRange = You can set the TimeReturn if you allow Ranage to move, you can set the TimeReturn higher
+TimeReturn = Time to go back to the time interval (MapX,MapY) in Minutes
+PVPMode = 1 (Automatically hit back when hit), 2 (Kill all players in range, auto clear if PK 10), 0 Is off
+PartyMode = 1 (Automatically accept Party requests), 2 (Automatically Party surrounding players), 0 is off no Party, 3 (Only Send Party Requests if Fake Online)
+PostWhenDie = 1 (Automatically Chat Post when killed)
+-->
+<FakeOnlineData>
+<Info Account="pyke2" Password="1212" Name="Pyke3" SkillID="-1" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="55" MapY=" 90" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "0" />
+</FakeOnlineData>

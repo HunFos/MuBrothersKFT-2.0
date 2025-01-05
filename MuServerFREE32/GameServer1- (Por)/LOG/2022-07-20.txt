@@ -1,0 +1,1565 @@
+08:50:19 [ServerInfo] CashShop loaded successfully
+08:50:19 [ServerInfo] ChaosMix loaded successfully
+08:50:19 [ServerInfo] Character loaded successfully
+08:50:19 [FakeOnline] Load Data OK
+08:50:19 [ServerInfo] Custom loaded successfully
+08:50:19 [ServerInfo] Command loaded successfully
+08:50:20 [ServerInfo] Common loaded successfully
+08:50:20 [ Crywolf ] State (0) -> NONE
+08:50:20 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:50:20 [ServerInfo] Event loaded successfully
+08:50:20 [ServerInfo] EventItemBag loaded successfully
+08:50:20 [ServerInfo] Hack loaded successfully
+08:50:20 [ServerInfo] Item loaded successfully
+08:50:21 [ServerInfo] Monster loaded successfully
+08:50:21 [ServerInfo] Move loaded successfully
+08:50:21 [ServerInfo] Quest loaded successfully
+08:50:21 [ServerInfo] Shop loaded successfully
+08:50:21 [ServerInfo] Skill loaded successfully
+08:50:21 [ServerInfo] Util loaded successfully
+08:50:21 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+08:50:21 [ReadBotInfo] BotSystem loaded successfully
+08:50:21 [Swamp Event] GROUP:1 set to 10 minutes
+08:50:21 [Swamp Event] GROUP:2 set to 10 minutes
+08:50:21 [Swamp Event] GROUP:3 set to 10 minutes
+08:50:21 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+08:50:21 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+08:50:21 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+08:50:21 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+08:50:21 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+08:50:21 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+08:50:21 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:50:21 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+08:50:21 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+08:50:21 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+08:50:21 [ServerInfo] SkyEvent Event loaded successfully
+08:50:21 [Swamp Event] Sync Start Time. [534] min remain
+08:50:21 [Swamp Event] SetState EMPTY
+08:50:21 [SkyEvent] Sync Start Time. [969] min remain
+08:50:21 [SkyEvent] SetState_EMPTY
+08:50:22 [20:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+08:50:32 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+08:52:43 [Obj][15000] AddClient (192.168.0.107)
+08:52:45 [Obj][15000] AddAccount (admin)
+08:52:49 [Obj][15000] LogInCharacter (Admin)
+08:53:02 [Obj][15000] LogOutCharacter (Admin)
+08:53:02 [Obj][15000] LogOutCharacter ()
+08:53:03 [Obj][15000] DelAccount (admin)
+08:53:03 [Obj][15000] DelClient (192.168.0.107)
+08:53:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:53:53 [Obj][15000] AddClient (192.168.0.107)
+08:53:54 [Obj][15000] AddAccount (admin)
+08:53:56 [Obj][15000] LogInCharacter (Admin)
+08:54:09 [Obj][15000] LogOutCharacter (Admin)
+08:54:09 [Obj][15000] LogOutCharacter ()
+08:54:09 [Obj][15000] DelAccount (admin)
+08:54:09 [Obj][15000] DelClient (192.168.0.107)
+08:55:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:55:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 134 Y: 169)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 134 Y: 169)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 129 Y: 165)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 129 Y: 165)
+09:00:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:00:23 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:00:23 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:05:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:05:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:06:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:10:00 [CustomQuiz] Start
+09:10:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:10:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:12:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:13:00 [CustomQuiz] Finish
+09:15:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:15:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:19:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:20:14 [ServerInfo] CashShop loaded successfully
+09:20:14 [ServerInfo] ChaosMix loaded successfully
+09:20:15 [ServerInfo] Character loaded successfully
+09:20:15 [FakeOnline] Load Data OK
+09:20:15 [ServerInfo] Custom loaded successfully
+09:20:15 [ServerInfo] Command loaded successfully
+09:20:15 [ServerInfo] Common loaded successfully
+09:20:15 [ Crywolf ] State (0) -> NONE
+09:20:15 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:20:15 [ServerInfo] Event loaded successfully
+09:20:15 [ServerInfo] EventItemBag loaded successfully
+09:20:15 [ServerInfo] Hack loaded successfully
+09:20:15 [ServerInfo] Item loaded successfully
+09:20:15 [ServerInfo] Monster loaded successfully
+09:20:15 [ServerInfo] Move loaded successfully
+09:20:15 [ServerInfo] Quest loaded successfully
+09:20:15 [ServerInfo] Shop loaded successfully
+09:20:15 [ServerInfo] Skill loaded successfully
+09:20:15 [ServerInfo] Util loaded successfully
+09:20:15 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:20:15 [ReadBotInfo] BotSystem loaded successfully
+09:20:15 [Swamp Event] GROUP:1 set to 10 minutes
+09:20:15 [Swamp Event] GROUP:2 set to 10 minutes
+09:20:15 [Swamp Event] GROUP:3 set to 10 minutes
+09:20:15 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+09:20:15 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+09:20:15 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+09:20:15 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+09:20:15 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+09:20:15 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+09:20:15 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:20:15 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+09:20:15 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+09:20:15 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:20:15 [ServerInfo] SkyEvent Event loaded successfully
+09:20:15 [Swamp Event] Sync Start Time. [504] min remain
+09:20:15 [Swamp Event] SetState EMPTY
+09:20:15 [SkyEvent] Sync Start Time. [939] min remain
+09:20:15 [SkyEvent] SetState_EMPTY
+09:20:16 [20:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:20:24 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:21:10 [Obj][15000] AddClient (192.168.0.107)
+09:21:14 [Obj][15000] AddAccount (admin)
+09:21:16 [Obj][15000] LogInCharacter (Admin)
+09:21:31 [Obj][15000] LogOutCharacter (Admin)
+09:21:31 [Obj][15000] LogOutCharacter ()
+09:21:31 [Obj][15000] DelAccount (admin)
+09:21:31 [Obj][15000] DelClient (192.168.0.107)
+09:23:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:25:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:25:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:29:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:30:17 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:30:17 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:35:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+09:35:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+09:36:01 [OnlineLoterry] No Winner
+09:36:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:40:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:40:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:42:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:43:00 [CTC] Bat Dau Event Cong Thanh
+09:45:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:45:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:48:00 [CTC] Finish 2
+09:48:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:50:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:50:22 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:55:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:55:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:55:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:00:23 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:00:23 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:01:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:05:24 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:05:24 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:07:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:10:01 [CustomQuiz] Start
+10:10:25 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:10:25 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:13:01 [CustomQuiz] Finish
+10:14:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:15:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:15:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:20:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:20:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:20:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:21:55 [Obj][15000] AddClient (192.168.0.107)
+10:21:59 [Obj][15000] DelClient (192.168.0.107)
+10:25:28 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:25:28 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:26:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:28:20 [Obj][15000] AddClient (192.168.0.107)
+10:28:22 [Obj][15000] AddAccount (admin)
+10:28:25 [Obj][15000] LogInCharacter (Admin)
+10:28:44 [Obj][15000] LogOutCharacter (Admin)
+10:28:44 [Obj][15000] LogOutCharacter ()
+10:28:44 [Obj][15000] DelAccount (admin)
+10:28:44 [Obj][15000] DelClient (192.168.0.107)
+10:30:29 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:30:29 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:33:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:35:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:35:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:36:01 [OnlineLoterry] No Winner
+10:39:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:40:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:40:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:43:00 [CTC] Bat Dau Event Cong Thanh
+10:45:32 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:45:32 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:45:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:48:00 [CTC] Finish 2
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 203 Y: 83)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 203 Y: 83)
+10:50:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:50:33 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:04:43 [ServerInfo] CashShop loaded successfully
+12:04:43 [ServerInfo] ChaosMix loaded successfully
+12:04:43 [ServerInfo] Character loaded successfully
+12:04:43 [FakeOnline] Load Data OK
+12:04:43 [ServerInfo] Custom loaded successfully
+12:04:43 [ServerInfo] Command loaded successfully
+12:04:43 [ServerInfo] Common loaded successfully
+12:04:43 [ Crywolf ] State (0) -> NONE
+12:04:43 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:04:43 [ServerInfo] Event loaded successfully
+12:04:43 [ServerInfo] EventItemBag loaded successfully
+12:04:43 [ServerInfo] Hack loaded successfully
+12:04:43 [ServerInfo] Item loaded successfully
+12:04:43 [ServerInfo] Monster loaded successfully
+12:04:43 [ServerInfo] Move loaded successfully
+12:04:43 [ServerInfo] Quest loaded successfully
+12:04:43 [ServerInfo] Shop loaded successfully
+12:04:43 [ServerInfo] Skill loaded successfully
+12:04:43 [ServerInfo] Util loaded successfully
+12:04:43 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+12:04:43 [ReadBotInfo] BotSystem loaded successfully
+12:04:43 [Swamp Event] GROUP:1 set to 10 minutes
+12:04:43 [Swamp Event] GROUP:2 set to 10 minutes
+12:04:43 [Swamp Event] GROUP:3 set to 10 minutes
+12:04:43 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+12:04:43 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+12:04:43 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+12:04:43 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+12:04:43 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+12:04:43 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+12:04:43 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+12:04:43 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+12:04:43 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+12:04:43 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+12:04:43 [ServerInfo] SkyEvent Event loaded successfully
+12:04:44 [Swamp Event] Sync Start Time. [340] min remain
+12:04:44 [Swamp Event] SetState EMPTY
+12:04:44 [SkyEvent] Sync Start Time. [775] min remain
+12:04:44 [SkyEvent] SetState_EMPTY
+12:04:45 [20:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+12:04:52 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 71)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 71)
+12:08:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:09:45 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:09:45 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:10:00 [CustomQuiz] Start
+12:13:00 [CustomQuiz] Finish
+12:14:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:14:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:14:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 11 Y: 145)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 11 Y: 145)
+12:17:20 [Obj][15000] AddClient (45.71.224.0)
+12:17:22 [Obj][15000] AddAccount (admin)
+12:17:26 [Obj][15000] LogInCharacter (Admin)
+12:19:04 [Obj][15000] LogOutCharacter (Admin)
+12:19:04 [Obj][15000] LogOutCharacter ()
+12:19:04 [Obj][15000] DelAccount (admin)
+12:19:04 [Obj][15000] DelClient (45.71.224.0)
+12:19:19 [Obj][15000] AddClient (45.71.224.0)
+12:19:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:19:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:20:05 [Obj][15000] DelClient (45.71.224.0)
+12:20:07 [Obj][15001] AddClient (45.71.224.0)
+12:20:19 [Obj][15001] AddAccount (caua)
+12:20:28 [Obj][15001] LogInCharacter (CauaVini)
+12:20:39 [Obj][15001] LogOutCharacter (CauaVini)
+12:20:39 [Obj][15001] LogOutCharacter ()
+12:20:39 [Obj][15001] DelAccount (caua)
+12:20:39 [Obj][15001] DelClient (45.71.224.0)
+12:20:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:24:24 [Obj][15000] AddClient (45.71.224.0)
+12:24:37 [Obj][15000] AddAccount (clairton)
+12:24:48 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:24:48 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:24:53 [Obj][15000] LogInCharacter (Jonas)
+12:25:00 [Obj][15000] LogOutCharacter (Jonas)
+12:25:00 [Obj][15000] LogOutCharacter ()
+12:25:00 [Obj][15000] DelAccount (clairton)
+12:25:00 [Obj][15000] DelClient (45.71.224.0)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 97 Y: 185)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 97 Y: 185)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 217 Y: 91)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 217 Y: 91)
+12:26:23 [Obj][15001] AddClient (45.71.224.0)
+12:26:24 [Obj][15001] AddAccount (clairton)
+12:26:28 [Obj][15001] LogInCharacter (Jonas)
+12:27:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:28:09 [ServerInfo] Monster loaded successfully
+12:28:33 [Obj][15001] LogOutCharacter (Jonas)
+12:28:33 [Obj][15001] LogOutCharacter ()
+12:28:33 [Obj][15001] DelAccount (clairton)
+12:28:33 [Obj][15001] DelClient (45.71.224.0)
+12:29:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:29:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:33:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:34:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:34:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:36:01 [OnlineLoterry] No Winner
+12:39:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:39:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:39:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:43:00 [CTC] Bat Dau Event Cong Thanh
+12:44:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:44:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:46:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:46:59 [ServerInfo] CashShop loaded successfully
+12:46:59 [ServerInfo] ChaosMix loaded successfully
+12:46:59 [ServerInfo] Character loaded successfully
+12:46:59 [FakeOnline] Load Data OK
+12:46:59 [ServerInfo] Custom loaded successfully
+12:46:59 [ServerInfo] Command loaded successfully
+12:46:59 [ServerInfo] Common loaded successfully
+12:46:59 [ Crywolf ] State (0) -> NONE
+12:46:59 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:46:59 [ServerInfo] Event loaded successfully
+12:46:59 [ServerInfo] EventItemBag loaded successfully
+12:46:59 [ServerInfo] Hack loaded successfully
+12:46:59 [ServerInfo] Item loaded successfully
+12:46:59 [ServerInfo] Monster loaded successfully
+12:46:59 [ServerInfo] Move loaded successfully
+12:46:59 [ServerInfo] Quest loaded successfully
+12:46:59 [ServerInfo] Shop loaded successfully
+12:46:59 [ServerInfo] Skill loaded successfully
+12:46:59 [ServerInfo] Util loaded successfully
+12:46:59 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+12:46:59 [ReadBotInfo] BotSystem loaded successfully
+12:46:59 [Swamp Event] GROUP:1 set to 10 minutes
+12:46:59 [Swamp Event] GROUP:2 set to 10 minutes
+12:46:59 [Swamp Event] GROUP:3 set to 10 minutes
+12:46:59 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+12:46:59 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+12:46:59 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+12:46:59 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+12:46:59 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+12:46:59 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+12:46:59 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+12:46:59 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+12:46:59 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+12:46:59 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+12:46:59 [ServerInfo] SkyEvent Event loaded successfully
+12:47:00 [Swamp Event] Sync Start Time. [298] min remain
+12:47:00 [Swamp Event] SetState EMPTY
+12:47:00 [SkyEvent] Sync Start Time. [733] min remain
+12:47:00 [SkyEvent] SetState_EMPTY
+12:47:01 [20:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+12:47:07 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+12:47:30 [Obj][15000] AddClient (45.71.224.0)
+12:47:32 [Obj][15000] AddAccount (clairton)
+12:47:35 [Obj][15000] LogInCharacter (Jonas)
+12:47:40 [Obj][15000] LogOutCharacter (Jonas)
+12:47:40 [Obj][15000] LogOutCharacter ()
+12:47:40 [Obj][15000] DelAccount (clairton)
+12:47:40 [Obj][15000] DelClient (45.71.224.0)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 195 Y: 73)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 195 Y: 73)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 198 Y: 73)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 198 Y: 73)
+12:50:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:52:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:52:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:56:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:57:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:57:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 51 Y: 103)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 51 Y: 103)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 50 Y: 110)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 50 Y: 110)
+13:02:03 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:02:03 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:02:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:07:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:07:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:09:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:10:00 [CustomQuiz] Start
+13:12:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:12:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:13:01 [CustomQuiz] Finish
+13:15:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:17:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:17:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:20:20 [ServerInfo] CashShop loaded successfully
+13:20:20 [ServerInfo] ChaosMix loaded successfully
+13:20:20 [ServerInfo] Character loaded successfully
+13:20:20 [FakeOnline] Load Data OK
+13:20:20 [ServerInfo] Custom loaded successfully
+13:20:20 [ServerInfo] Command loaded successfully
+13:20:20 [ServerInfo] Common loaded successfully
+13:20:20 [ Crywolf ] State (0) -> NONE
+13:20:20 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:20:21 [ServerInfo] Event loaded successfully
+13:20:21 [ServerInfo] EventItemBag loaded successfully
+13:20:21 [ServerInfo] Hack loaded successfully
+13:20:21 [ServerInfo] Item loaded successfully
+13:20:21 [ServerInfo] Monster loaded successfully
+13:20:21 [ServerInfo] Move loaded successfully
+13:20:21 [ServerInfo] Quest loaded successfully
+13:20:21 [ServerInfo] Shop loaded successfully
+13:20:21 [ServerInfo] Skill loaded successfully
+13:20:21 [ServerInfo] Util loaded successfully
+13:20:21 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+13:20:21 [ReadBotInfo] BotSystem loaded successfully
+13:20:21 [Swamp Event] GROUP:1 set to 10 minutes
+13:20:21 [Swamp Event] GROUP:2 set to 10 minutes
+13:20:21 [Swamp Event] GROUP:3 set to 10 minutes
+13:20:21 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+13:20:21 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+13:20:21 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+13:20:21 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+13:20:21 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+13:20:21 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+13:20:21 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+13:20:21 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+13:20:21 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+13:20:21 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+13:20:21 [ServerInfo] SkyEvent Event loaded successfully
+13:20:22 [Swamp Event] Sync Start Time. [264] min remain
+13:20:22 [Swamp Event] SetState EMPTY
+13:20:22 [SkyEvent] Sync Start Time. [699] min remain
+13:20:22 [SkyEvent] SetState_EMPTY
+13:20:23 [20:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+13:20:33 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+13:21:33 [Obj][15000] AddClient (45.71.224.0)
+13:21:34 [Obj][15000] AddAccount (clairton)
+13:21:38 [Obj][15000] LogInCharacter (Jonas)
+13:21:55 [Obj][15000] LogOutCharacter (Jonas)
+13:21:55 [Obj][15000] LogOutCharacter ()
+13:21:55 [Obj][15000] DelAccount (clairton)
+13:21:55 [Obj][15000] DelClient (45.71.224.0)
+13:23:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:25:23 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:25:23 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:30:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:30:24 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:30:24 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:35:25 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:35:25 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:36:01 [OnlineLoterry] No Winner
+13:36:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:37:30 [ServerInfo] CashShop loaded successfully
+13:37:30 [ServerInfo] ChaosMix loaded successfully
+13:37:30 [ServerInfo] Character loaded successfully
+13:37:30 [FakeOnline] Load Data OK
+13:37:30 [ServerInfo] Custom loaded successfully
+13:37:30 [ServerInfo] Command loaded successfully
+13:37:30 [ServerInfo] Common loaded successfully
+13:37:30 [ Crywolf ] State (0) -> NONE
+13:37:30 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:37:31 [ServerInfo] Event loaded successfully
+13:37:31 [ServerInfo] EventItemBag loaded successfully
+13:37:31 [ServerInfo] Hack loaded successfully
+13:37:31 [ServerInfo] Item loaded successfully
+13:37:31 [ServerInfo] Monster loaded successfully
+13:37:31 [ServerInfo] Move loaded successfully
+13:37:31 [ServerInfo] Quest loaded successfully
+13:37:31 [ServerInfo] Shop loaded successfully
+13:37:32 [ServerInfo] Skill loaded successfully
+13:37:32 [ServerInfo] Util loaded successfully
+13:37:32 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+13:37:32 [ReadBotInfo] BotSystem loaded successfully
+13:37:32 [Swamp Event] GROUP:1 set to 10 minutes
+13:37:32 [Swamp Event] GROUP:2 set to 10 minutes
+13:37:32 [Swamp Event] GROUP:3 set to 10 minutes
+13:37:32 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+13:37:32 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+13:37:32 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+13:37:32 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+13:37:32 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+13:37:32 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+13:37:32 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+13:37:32 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+13:37:32 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+13:37:32 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+13:37:32 [ServerInfo] SkyEvent Event loaded successfully
+13:37:36 [Swamp Event] Sync Start Time. [247] min remain
+13:37:36 [Swamp Event] SetState EMPTY
+13:37:36 [SkyEvent] Sync Start Time. [682] min remain
+13:37:36 [SkyEvent] SetState_EMPTY
+13:37:37 [20:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+13:37:47 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+13:38:14 [Obj][15000] AddClient (45.71.224.0)
+13:38:21 [Obj][15000] AddAccount (caua)
+13:38:24 [Obj][15000] LogInCharacter (CauaVini)
+13:38:59 [Obj][15000] LogOutCharacter (CauaVini)
+13:38:59 [Obj][15000] LogOutCharacter ()
+13:38:59 [Obj][15000] DelAccount (caua)
+13:38:59 [Obj][15000] DelClient (45.71.224.0)
+13:39:55 [Obj][15000] AddClient (45.71.224.0)
+13:39:56 [Obj][15000] AddAccount (caua)
+13:40:00 [Obj][15000] LogInCharacter (CauaVini)
+13:40:30 Set Move IsAutoMoveRunning 1
+13:40:39 Set Move IsAutoMoveRunning 1
+13:40:43 Set Move IsAutoMoveRunning 1
+13:40:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:41:03 Set Move IsAutoMoveRunning 1
+13:41:08 Set Move IsAutoMoveRunning 1
+13:42:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:42:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:42:50 Set Move IsAutoMoveRunning 1
+13:43:00 [CTC] Bat Dau Event Cong Thanh
+13:43:05 Set Move IsAutoMoveRunning 1
+13:43:28 Set Move IsAutoMoveRunning 1
+13:43:52 Set Move IsAutoMoveRunning 1
+13:44:01 Set Move IsAutoMoveRunning 1
+13:44:03 Set Move IsAutoMoveRunning 0
+13:44:08 Set Move IsAutoMoveRunning 1
+13:44:54 [Obj][15000] LogOutCharacter (CauaVini)
+13:44:54 [Obj][15000] LogOutCharacter ()
+13:44:54 [Obj][15000] DelAccount (caua)
+13:44:54 [Obj][15000] DelClient (45.71.224.0)
+13:47:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:47:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:47:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+13:48:00 [CTC] Finish 2
+13:52:40 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:52:40 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:53:29 [Obj][15000] AddClient (45.71.224.0)
+13:53:30 [Obj][15000] AddAccount (caua)
+13:53:34 [Obj][15000] LogInCharacter (CauaVini)
+13:53:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:53:58 Set Move IsAutoMoveRunning 1
+13:53:59 Set Move IsAutoMoveRunning 0
+13:54:02 Set Move IsAutoMoveRunning 1
+13:54:03 Set Move IsAutoMoveRunning 0
+13:54:06 Set Move IsAutoMoveRunning 1
+13:54:12 Set Move IsAutoMoveRunning 0
+13:54:14 Set Move IsAutoMoveRunning 1
+13:54:25 Set Move IsAutoMoveRunning 1
+13:54:31 Set Move IsAutoMoveRunning 1
+13:54:49 Set Move IsAutoMoveRunning 1
+13:54:54 Set Move IsAutoMoveRunning 1
+13:54:55 Set Move IsAutoMoveRunning 0
+13:54:58 Set Move IsAutoMoveRunning 1
+13:55:03 Set Move IsAutoMoveRunning 0
+13:55:14 [Obj][15000] LogOutCharacter (CauaVini)
+13:55:14 [Obj][15000] LogOutCharacter ()
+13:55:14 [Obj][15000] DelAccount (caua)
+13:55:14 [Obj][15000] DelClient (45.71.224.0)
+13:55:58 [ServerInfo] CashShop loaded successfully
+13:55:58 [ServerInfo] ChaosMix loaded successfully
+13:55:58 [ServerInfo] Character loaded successfully
+13:55:58 [FakeOnline] Load Data OK
+13:55:58 [ServerInfo] Custom loaded successfully
+13:55:58 [ServerInfo] Command loaded successfully
+13:55:58 [ServerInfo] Common loaded successfully
+13:55:58 [ Crywolf ] State (0) -> NONE
+13:55:58 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:55:59 [ServerInfo] Event loaded successfully
+13:55:59 [ServerInfo] EventItemBag loaded successfully
+13:55:59 [ServerInfo] Hack loaded successfully
+13:55:59 [ServerInfo] Item loaded successfully
+13:55:59 [ServerInfo] Monster loaded successfully
+13:55:59 [ServerInfo] Move loaded successfully
+13:55:59 [ServerInfo] Quest loaded successfully
+13:55:59 [ServerInfo] Shop loaded successfully
+13:55:59 [ServerInfo] Skill loaded successfully
+13:55:59 [ServerInfo] Util loaded successfully
+13:55:59 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+13:55:59 [ReadBotInfo] BotSystem loaded successfully
+13:55:59 [Swamp Event] GROUP:1 set to 10 minutes
+13:55:59 [Swamp Event] GROUP:2 set to 10 minutes
+13:55:59 [Swamp Event] GROUP:3 set to 10 minutes
+13:55:59 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+13:55:59 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+13:55:59 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+13:55:59 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+13:55:59 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+13:55:59 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+13:55:59 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+13:55:59 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+13:55:59 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+13:55:59 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+13:55:59 [ServerInfo] SkyEvent Event loaded successfully
+13:56:03 [Swamp Event] Sync Start Time. [228] min remain
+13:56:03 [Swamp Event] SetState EMPTY
+13:56:03 [SkyEvent] Sync Start Time. [663] min remain
+13:56:03 [SkyEvent] SetState_EMPTY
+13:56:05 [20:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+13:56:16 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+13:58:19 [Obj][15000] AddClient (45.71.224.0)
+13:58:22 [Obj][15000] AddAccount (caua)
+13:58:26 [Obj][15000] LogInCharacter (CauaVini)
+13:58:33 Set Move IsAutoMoveRunning 1
+13:58:34 Set Move IsAutoMoveRunning 0
+13:58:37 Set Move IsAutoMoveRunning 1
+13:58:38 Set Move IsAutoMoveRunning 0
+13:58:44 Set Move IsAutoMoveRunning 1
+13:58:45 Set Move IsAutoMoveRunning 0
+13:58:47 Set Move IsAutoMoveRunning 1
+13:58:48 Set Move IsAutoMoveRunning 0
+13:58:51 Set Move IsAutoMoveRunning 1
+13:58:52 Set Move IsAutoMoveRunning 0
+13:58:57 Set Move IsAutoMoveRunning 1
+13:58:59 Set Move IsAutoMoveRunning 1
+13:59:00 Set Move IsAutoMoveRunning 0
+13:59:05 [Obj][15000] LogOutCharacter (CauaVini)
+13:59:05 [Obj][15000] LogOutCharacter ()
+13:59:05 [Obj][15000] DelAccount (caua)
+13:59:05 [Obj][15000] DelClient (45.71.224.0)
+13:59:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:00:05 [21:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+14:01:04 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:01:04 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:01:13 [Obj][15000] AddClient (45.71.224.0)
+14:01:14 [Obj][15000] AddAccount (caua)
+14:01:17 [Obj][15000] LogInCharacter (CauaVini)
+14:01:20 Set Move IsAutoMoveRunning 1
+14:01:21 Set Move IsAutoMoveRunning 0
+14:01:23 Set Move IsAutoMoveRunning 1
+14:01:32 Set Move IsAutoMoveRunning 0
+14:01:35 Set Move IsAutoMoveRunning 1
+14:01:40 Set Move IsAutoMoveRunning 0
+14:01:42 Set Move IsAutoMoveRunning 1
+14:01:43 Set Move IsAutoMoveRunning 0
+14:01:46 Set Move IsAutoMoveRunning 1
+14:01:46 Set Move IsAutoMoveRunning 0
+14:01:49 Set Move IsAutoMoveRunning 1
+14:01:51 Set Move IsAutoMoveRunning 0
+14:01:57 Set Move IsAutoMoveRunning 1
+14:02:06 [Obj][15000] LogOutCharacter (CauaVini)
+14:02:06 [Obj][15000] LogOutCharacter ()
+14:02:06 [Obj][15000] DelAccount (caua)
+14:02:06 [Obj][15000] DelClient (45.71.224.0)
+14:05:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:06:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:06:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:10:00 [CustomQuiz] Start
+14:11:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:11:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:12:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:13:00 [CustomQuiz] Finish
+14:16:07 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:16:07 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:18:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:18:30 [Obj][15000] AddClient (45.71.224.0)
+14:18:32 [Obj][15000] AddAccount (caua)
+14:18:35 [Obj][15000] LogInCharacter (CauaVini)
+14:18:45 Set Move IsAutoMoveRunning 1
+14:19:03 [Obj][15000] LogOutCharacter (CauaVini)
+14:19:03 [Obj][15000] LogOutCharacter ()
+14:19:03 [Obj][15000] DelAccount (caua)
+14:19:03 [Obj][15000] DelClient (45.71.224.0)
+14:21:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:21:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:24:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:26:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:26:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:31:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:31:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:31:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:36:01 [OnlineLoterry] No Winner
+14:36:11 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:36:11 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:37:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:41:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:41:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+14:43:01 [CTC] Bat Dau Event Cong Thanh
+14:43:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:46:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:46:13 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:47:44 [Obj][15000] AddClient (45.71.224.0)
+14:47:45 [Obj][15000] AddAccount (caua)
+14:47:48 [Obj][15000] LogInCharacter (CauaVini)
+14:48:01 [CTC] Finish 2
+14:48:29 [Obj][15000] LogOutCharacter (CauaVini)
+14:48:29 [Obj][15000] LogOutCharacter ()
+14:48:29 [Obj][15000] DelAccount (caua)
+14:48:29 [Obj][15000] DelClient (45.71.224.0)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 200 Y: 80)
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 200 Y: 80)
+14:50:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:51:14 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:51:14 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:56:15 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:56:15 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:56:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:01:16 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:01:16 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:02:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:06:17 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:06:17 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:08:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:10:00 [CustomQuiz] Start
+15:11:18 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:11:18 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:13:00 [CustomQuiz] Finish
+15:15:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:16:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:16:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:21:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:21:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:21:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:26:21 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:26:21 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:27:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:30:00 [Invasion Manager] Index(9) Boss Position (Map: 0 X: 177 Y: 30)
+15:30:00 [Invasion Manager] Index(9) Boss Position (Map: 0 X: 177 Y: 30)
+15:31:22 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:31:22 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:32:59 [Obj][15000] AddClient (45.71.224.0)
+15:33:06 [Obj][15000] AddAccount (admin)
+15:33:10 [Obj][15000] LogInCharacter (Admin)
+15:33:16 Set Move IsAutoMoveRunning 1
+15:33:20 Set Move IsAutoMoveRunning 1
+15:33:36 Set Move IsAutoMoveRunning 1
+15:33:41 Set Move IsAutoMoveRunning 1
+15:33:47 Set Move IsAutoMoveRunning 1
+15:33:53 Set Move IsAutoMoveRunning 1
+15:33:57 [Obj][15000] LogOutCharacter (Admin)
+15:33:57 [Obj][15000] LogOutCharacter ()
+15:33:57 [Obj][15000] DelAccount (admin)
+15:33:57 [Obj][15000] DelClient (45.71.224.0)
+15:34:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:36:01 [OnlineLoterry] No Winner
+15:36:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:36:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:40:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:41:24 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:41:24 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:43:00 [CTC] Bat Dau Event Cong Thanh
+15:44:46 [Obj][15000] AddClient (45.71.224.0)
+15:44:48 [Obj][15000] AddAccount (admin)
+15:44:51 [Obj][15000] LogInCharacter (Admin)
+15:45:14 [Obj][15000] LogOutCharacter (Admin)
+15:45:14 [Obj][15000] LogOutCharacter ()
+15:45:14 [Obj][15000] DelAccount (admin)
+15:45:14 [Obj][15000] DelClient (45.71.224.0)
+15:46:25 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:46:25 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:46:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:48:00 [CTC] Finish 2
+15:51:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:51:26 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:53:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:56:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:56:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:58:37 [Obj][15000] AddClient (45.71.224.0)
+15:58:38 [Obj][15000] AddAccount (admin)
+15:58:42 [Obj][15000] LogInCharacter (Admin)
+15:59:26 [Obj][15000] LogOutCharacter (Admin)
+15:59:26 [Obj][15000] LogOutCharacter ()
+15:59:26 [Obj][15000] DelAccount (admin)
+15:59:26 [Obj][15000] DelClient (45.71.224.0)
+15:59:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:00:00 [Invasion Manager] Index(10) Boss Position (Map: 51 X: 103 Y: 56)
+16:00:00 [Invasion Manager] Index(10) Boss Position (Map: 51 X: 103 Y: 56)
+16:01:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:01:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:01:38 [Obj][15000] AddClient (45.71.224.0)
+16:01:39 [Obj][15000] AddAccount (admin)
+16:01:43 [Obj][15000] LogInCharacter (Admin)
+16:01:48 Set Move IsAutoMoveRunning 1
+16:01:51 Set Move IsAutoMoveRunning 1
+16:01:53 Set Move IsAutoMoveRunning 1
+16:02:08 [Obj][15000] LogOutCharacter (Admin)
+16:02:08 [Obj][15000] LogOutCharacter ()
+16:02:08 [Obj][15000] DelAccount (admin)
+16:02:08 [Obj][15000] DelClient (45.71.224.0)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 201 Y: 82)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 201 Y: 82)
+16:05:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:06:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:06:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:10:00 [CustomQuiz] Start
+16:11:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:11:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:12:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:12:21 [Obj][15000] AddClient (45.71.224.0)
+16:12:23 [Obj][15000] AddAccount (admin)
+16:12:26 [Obj][15000] LogInCharacter (Admin)
+16:12:46 Set Move IsAutoMoveRunning 1
+16:12:57 [Obj][15000] LogOutCharacter (Admin)
+16:12:57 [Obj][15000] LogOutCharacter ()
+16:12:57 [Obj][15000] DelAccount (admin)
+16:12:57 [Obj][15000] DelClient (45.71.224.0)
+16:13:00 [CustomQuiz] Finish
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 16 Y: 147)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 16 Y: 147)
+16:16:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:16:31 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:18:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:21:12 [Obj][15000] AddClient (45.71.224.0)
+16:21:14 [Obj][15000] AddAccount (admin)
+16:21:18 [Obj][15000] LogInCharacter (Admin)
+16:21:30 Set Move IsAutoMoveRunning 1
+16:21:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:21:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:21:41 [Obj][15000] LogOutCharacter (Admin)
+16:21:41 [Obj][15000] LogOutCharacter ()
+16:21:41 [Obj][15000] DelAccount (admin)
+16:21:41 [Obj][15000] DelClient (45.71.224.0)
+16:24:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 125 Y: 129)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 125 Y: 129)
+16:26:22 [Obj][15000] AddClient (45.71.224.0)
+16:26:24 [Obj][15000] AddAccount (admin)
+16:26:27 [Obj][15000] LogInCharacter (Admin)
+16:26:32 Set Move IsAutoMoveRunning 1
+16:26:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:26:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:26:38 Set Move IsAutoMoveRunning 0
+16:27:04 Set Move IsAutoMoveRunning 1
+16:27:07 Set Move IsAutoMoveRunning 1
+16:27:10 Set Move IsAutoMoveRunning 1
+16:27:19 Set Move IsAutoMoveRunning 0
+16:27:28 Set Move IsAutoMoveRunning 1
+16:27:29 Set Move IsAutoMoveRunning 0
+16:27:31 Set Move IsAutoMoveRunning 1
+16:27:32 Set Move IsAutoMoveRunning 0
+16:27:35 Set Move IsAutoMoveRunning 1
+16:27:37 Set Move IsAutoMoveRunning 0
+16:27:40 Set Move IsAutoMoveRunning 1
+16:27:43 [Obj][15000] LogOutCharacter (Admin)
+16:27:43 [Obj][15000] LogOutCharacter ()
+16:27:43 [Obj][15000] DelAccount (admin)
+16:27:43 [Obj][15000] DelClient (45.71.224.0)
+16:31:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:31:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:31:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:35:46 [Obj][15000] AddClient (45.71.224.0)
+16:35:49 [Obj][15000] AddAccount (admin)
+16:35:52 [Obj][15000] LogInCharacter (Admin)
+16:36:00 Set Move IsAutoMoveRunning 1
+16:36:01 [OnlineLoterry] No Winner
+16:36:10 Set Move IsAutoMoveRunning 1
+16:36:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:36:35 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:36:58 Set Move IsAutoMoveRunning 0
+16:37:03 Set Move IsAutoMoveRunning 1
+16:37:28 [Obj][15000] LogOutCharacter (Admin)
+16:37:28 [Obj][15000] LogOutCharacter ()
+16:37:28 [Obj][15000] DelAccount (admin)
+16:37:28 [Obj][15000] DelClient (45.71.224.0)
+16:37:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:39:56 [Obj][15000] AddClient (45.71.224.0)
+16:39:57 [Obj][15000] AddAccount (admin)
+16:40:00 [Obj][15000] LogInCharacter (Admin)
+16:40:06 Set Move IsAutoMoveRunning 1
+16:40:18 Set Move IsAutoMoveRunning 1
+16:40:26 Set Move IsAutoMoveRunning 1
+16:40:35 [Obj][15000] LogOutCharacter (Admin)
+16:40:35 [Obj][15000] LogOutCharacter ()
+16:40:35 [Obj][15000] DelAccount (admin)
+16:40:35 [Obj][15000] DelClient (45.71.224.0)
+16:41:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:41:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:43:00 [CTC] Bat Dau Event Cong Thanh
+16:43:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:46:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:46:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:47:51 [Obj][15000] AddClient (45.71.224.0)
+16:47:52 [Obj][15000] AddAccount (admin)
+16:47:55 [Obj][15000] LogInCharacter (Admin)
+16:48:00 [CTC] Finish 2
+16:48:00 Set Move IsAutoMoveRunning 1
+16:48:09 Set Move IsAutoMoveRunning 1
+16:48:20 Set Move IsAutoMoveRunning 0
+16:48:35 [Obj][15000] LogOutCharacter (Admin)
+16:48:35 [Obj][15000] LogOutCharacter ()
+16:48:35 [Obj][15000] DelAccount (admin)
+16:48:35 [Obj][15000] DelClient (45.71.224.0)
+16:49:39 [Obj][15000] AddClient (45.71.224.0)
+16:49:40 [Obj][15000] AddAccount (admin)
+16:49:43 [Obj][15000] LogInCharacter (Admin)
+16:49:48 Set Move IsAutoMoveRunning 1
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 200 Y: 77)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 200 Y: 77)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 198 Y: 79)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 198 Y: 79)
+16:50:00 [Invasion Manager] Index(11) Boss Position (Map: 90 X: 61 Y: 14)
+16:50:00 [Invasion Manager] Index(11) Boss Position (Map: 90 X: 61 Y: 14)
+16:50:00 Set Move IsAutoMoveRunning 0
+16:50:08 [Obj][15000] LogOutCharacter (Admin)
+16:50:08 [Obj][15000] LogOutCharacter ()
+16:50:08 [Obj][15000] DelAccount (admin)
+16:50:08 [Obj][15000] DelClient (45.71.224.0)
+16:50:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:51:38 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:51:38 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:51:44 [Obj][15000] AddClient (45.71.224.0)
+16:51:45 [Obj][15000] AddAccount (admin)
+16:51:47 [Obj][15000] LogInCharacter (Admin)
+16:51:50 Set Move IsAutoMoveRunning 1
+16:52:09 Set Move IsAutoMoveRunning 0
+16:52:15 Set Move IsAutoMoveRunning 1
+16:52:35 Set Move IsAutoMoveRunning 1
+16:52:38 [Obj][15000] LogOutCharacter (Admin)
+16:52:38 [Obj][15000] LogOutCharacter ()
+16:52:38 [Obj][15000] DelAccount (admin)
+16:52:38 [Obj][15000] DelClient (45.71.224.0)
+16:56:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:56:39 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:56:39 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 128 Y: 167)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 128 Y: 167)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 132 Y: 164)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 132 Y: 164)
+17:01:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:01:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:02:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:06:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:06:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:09:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:10:00 [CustomQuiz] Start
+17:11:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:11:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:13:00 [CustomQuiz] Finish
+17:15:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:16:43 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:16:43 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:21:44 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:21:44 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:21:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:26:45 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:26:45 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:28:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:30:00 [Invasion Manager] Index(12) Boss Position (Map: 86 X: 215 Y: 129)
+17:30:00 [Invasion Manager] Index(12) Boss Position (Map: 86 X: 215 Y: 129)
+17:31:46 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:31:46 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:34:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:36:01 [OnlineLoterry] No Winner
+17:36:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:36:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:40:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:41:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:41:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:43:00 [CTC] Bat Dau Event Cong Thanh
+17:45:00 [SwampEvent] PREPARING EVENT
+17:46:00 [SwampEvent] Started in 5 Minutos
+17:46:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:46:49 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:47:00 [SwampEvent] Started in 4 Minutos
+17:47:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:48:00 [CTC] Finish 2
+17:48:00 [SwampEvent] Started in 3 Minutos
+17:49:00 [SwampEvent] Started in 2 Minutos
+17:50:00 [SwampEvent] Started in 1 Minutos
+17:51:00 [SwampEvent] PREPARING NEW GROUP
+17:51:00 [Swamp Event][AssultType:4,Group:1] - Adding Monsters ID: 561 / QTY: 1
+17:51:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:51:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:53:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:56:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:56:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:59:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:01:08 [SwampEvent] State -> FAIL: TIME EXCEED
+18:01:08 [SwampEvent] State -> PRECLOSURE: Monster Clean
+18:01:08 [SwampEvent] State -> CLOSED
+18:01:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:01:52 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:06:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:06:46 [Obj][15000] AddClient (45.71.224.0)
+18:06:48 [Obj][15000] AddAccount (admin)
+18:06:53 [Obj][15000] LogInCharacter (Admin)
+18:06:53 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:06:53 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:07:15 Set Move IsAutoMoveRunning 1
+18:07:16 Set Move IsAutoMoveRunning 0
+18:07:21 Set Move IsAutoMoveRunning 1
+18:07:32 Set Move IsAutoMoveRunning 1
+18:07:35 Set Move IsAutoMoveRunning 1
+18:07:36 Set Move IsAutoMoveRunning 0
+18:07:39 Set Move IsAutoMoveRunning 1
+18:07:49 [Obj][15000] LogOutCharacter (Admin)
+18:07:49 [Obj][15000] LogOutCharacter ()
+18:07:49 [Obj][15000] DelAccount (admin)
+18:07:49 [Obj][15000] DelClient (45.71.224.0)
+18:10:00 [CustomQuiz] Start
+18:11:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:11:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:12:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:13:00 [CustomQuiz] Finish
+18:16:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:16:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:18:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:21:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:21:56 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:25:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:26:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:26:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:30:00 [Invasion Manager] Index(14) Boss Position (Map: 10 X: 59 Y: 169)
+18:30:00 [Invasion Manager] Index(14) Boss Position (Map: 10 X: 59 Y: 169)
+18:31:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:31:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:31:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:33:37 [Obj][15000] AddClient (45.71.224.0)
+18:33:42 [Obj][15000] AddAccount (admin)
+18:33:45 [Obj][15000] LogInCharacter (Admin)
+18:33:59 Set Move IsAutoMoveRunning 1
+18:34:12 [Obj][15000] LogOutCharacter (Admin)
+18:34:12 [Obj][15000] LogOutCharacter ()
+18:34:12 [Obj][15000] DelAccount (admin)
+18:34:12 [Obj][15000] DelClient (45.71.224.0)
+18:36:01 [OnlineLoterry] No Winner
+18:36:34 [Obj][15000] AddClient (45.71.224.0)
+18:36:37 [Obj][15000] AddAccount (admin)
+18:36:40 [Obj][15000] LogInCharacter (Admin)
+18:36:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:36:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:37:15 Set Move IsAutoMoveRunning 1
+18:37:19 Set Move IsAutoMoveRunning 1
+18:37:22 Set Move IsAutoMoveRunning 1
+18:37:29 Set Move IsAutoMoveRunning 1
+18:37:31 Set Move IsAutoMoveRunning 1
+18:37:34 Set Move IsAutoMoveRunning 1
+18:37:37 Set Move IsAutoMoveRunning 1
+18:37:42 Set Move IsAutoMoveRunning 1
+18:37:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:37:49 [Obj][15000] LogOutCharacter (Admin)
+18:37:49 [Obj][15000] LogOutCharacter ()
+18:37:49 [Obj][15000] DelAccount (admin)
+18:37:49 [Obj][15000] DelClient (45.71.224.0)
+18:42:00 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:42:00 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:42:07 [Obj][15000] AddClient (45.71.224.0)
+18:42:08 [Obj][15000] AddAccount (admin)
+18:42:11 [Obj][15000] LogInCharacter (Admin)
+18:42:16 Set Move IsAutoMoveRunning 1
+18:42:17 Set Move IsAutoMoveRunning 0
+18:42:19 Set Move IsAutoMoveRunning 1
+18:42:25 Set Move IsAutoMoveRunning 1
+18:42:29 Set Move IsAutoMoveRunning 1
+18:42:30 Set Move IsAutoMoveRunning 0
+18:42:33 Set Move IsAutoMoveRunning 1
+18:42:45 Set Move IsAutoMoveRunning 1
+18:42:46 Set Move IsAutoMoveRunning 0
+18:42:49 Set Move IsAutoMoveRunning 1
+18:43:00 [CTC] Bat Dau Event Cong Thanh
+18:44:07 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:47:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:47:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:48:00 [CTC] Finish 2
+18:49:08 Set Move IsAutoMoveRunning 0
+18:49:28 Set Move IsAutoMoveRunning 1
+18:49:44 [Obj][15000] LogOutCharacter (Admin)
+18:49:44 [Obj][15000] LogOutCharacter ()
+18:49:44 [Obj][15000] DelAccount (admin)
+18:49:44 [Obj][15000] DelClient (45.71.224.0)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 164 Y: 21)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 164 Y: 21)
+18:50:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:52:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:52:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:56:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:57:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:57:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:02:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:02:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:03:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:07:05 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:07:05 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:09:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:09:47 [Obj][15000] AddClient (45.71.224.0)
+19:09:49 [Obj][15000] AddAccount (admin)
+19:09:52 [Obj][15000] LogInCharacter (Admin)
+19:09:58 Set Move IsAutoMoveRunning 1
+19:10:00 [CustomQuiz] Start
+19:10:02 Set Move IsAutoMoveRunning 1
+19:10:06 Set Move IsAutoMoveRunning 1
+19:10:11 Set Move IsAutoMoveRunning 1
+19:10:15 Set Move IsAutoMoveRunning 1
+19:10:17 Set Move IsAutoMoveRunning 1
+19:10:20 Set Move IsAutoMoveRunning 1
+19:10:23 Set Move IsAutoMoveRunning 1
+19:10:26 Set Move IsAutoMoveRunning 1
+19:10:35 Set Move IsAutoMoveRunning 1
+19:11:08 Set Move IsAutoMoveRunning 1
+19:11:19 Set Move IsAutoMoveRunning 1
+19:11:24 [Obj][15000] LogOutCharacter (Admin)
+19:11:24 [Obj][15000] LogOutCharacter ()
+19:11:24 [Obj][15000] DelAccount (admin)
+19:11:24 [Obj][15000] DelClient (45.71.224.0)
+19:12:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:12:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:12:55 [Obj][15000] AddClient (45.71.224.0)
+19:12:57 [Obj][15000] AddAccount (admin)
+19:13:00 [Obj][15000] LogInCharacter (Admin)
+19:13:00 [CustomQuiz] Finish
+19:13:04 Set Move IsAutoMoveRunning 1
+19:13:07 Set Move IsAutoMoveRunning 1
+19:13:19 Set Move IsAutoMoveRunning 1
+19:13:22 Set Move IsAutoMoveRunning 1
+19:13:26 Set Move IsAutoMoveRunning 1
+19:13:33 Set Move IsAutoMoveRunning 1
+19:15:45 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:17:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:17:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:17:53 [Obj][15000] LogOutCharacter (Admin)
+19:17:53 [Obj][15000] LogOutCharacter ()
+19:17:53 [Obj][15000] DelAccount (admin)
+19:17:53 [Obj][15000] DelClient (45.71.224.0)
+19:18:23 [Obj][15000] AddClient (45.71.224.0)
+19:18:24 [Obj][15000] AddAccount (admin)
+19:18:27 [Obj][15000] LogInCharacter (Admin)
+19:18:33 Set Move IsAutoMoveRunning 1
+19:18:54 Set Move IsAutoMoveRunning 1
+19:19:01 Set Move IsAutoMoveRunning 1
+19:19:09 [Obj][15000] LogOutCharacter (Admin)
+19:19:09 [Obj][15000] LogOutCharacter ()
+19:19:09 [Obj][15000] DelAccount (admin)
+19:19:09 [Obj][15000] DelClient (45.71.224.0)
+19:22:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:22:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:22:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:27:09 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:27:09 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:28:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:32:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:32:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:34:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:36:01 [OnlineLoterry] No Winner
+19:37:11 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:37:11 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:37:29 [Obj][15000] AddClient (45.71.224.0)
+19:37:30 [Obj][15000] AddAccount (admin)
+19:37:34 [Obj][15000] LogInCharacter (Admin)
+19:37:40 Set Move IsAutoMoveRunning 1
+19:37:46 Set Move IsAutoMoveRunning 1
+19:37:51 Set Move IsAutoMoveRunning 1
+19:37:54 Set Move IsAutoMoveRunning 1
+19:37:57 [Obj][15000] LogOutCharacter (Admin)
+19:37:57 [Obj][15000] LogOutCharacter ()
+19:37:57 [Obj][15000] DelAccount (admin)
+19:37:57 [Obj][15000] DelClient (45.71.224.0)
+19:41:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:42:12 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:42:12 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:43:00 [CTC] Bat Dau Event Cong Thanh
+19:47:13 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:47:13 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:47:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:48:00 [CTC] Finish 2
+19:52:14 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:52:14 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:53:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:57:15 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:57:15 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:00:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:02:16 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:02:16 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 204 Y: 76)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 204 Y: 76)
+20:06:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:07:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:07:17 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:10:00 [CustomQuiz] Start
+20:12:18 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:12:18 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:12:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:13:00 [CustomQuiz] Finish
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 161 Y: 203)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 161 Y: 203)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 203 Y: 146)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 203 Y: 146)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 147 Y: 206)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 147 Y: 206)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 236 Y: 207)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 236 Y: 207)
+20:17:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:17:19 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:19:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:22:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:22:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 226 Y: 147)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 226 Y: 147)
+20:25:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:27:21 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:27:21 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:30:00 [ CRYWOLF ] SYNC Occupation: 0, State: 1
+20:31:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:32:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:32:22 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:35:00 [ CRYWOLF ] SYNC Occupation: 2, State: 2
+20:36:01 [ CRYWOLF ] SYNC Occupation: 2, State: 3
+20:36:01 [OnlineLoterry] No Winner
+20:37:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:37:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:38:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:38:00 [ CRYWOLF ] SYNC Occupation: 1, State: 5
+20:38:16 [ CRYWOLF ] SYNC Occupation: 1, State: 6
+20:38:25 [ CRYWOLF ] SYNC Occupation: 1, State: 0
+20:42:24 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:42:24 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:43:00 [CTC] Bat Dau Event Cong Thanh
+20:44:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:47:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:47:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:48:00 [CTC] Finish 2
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 153 Y: 58)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 153 Y: 58)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 157 Y: 47)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 157 Y: 47)
+20:50:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:52:26 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:52:26 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:56:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:57:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:57:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 130 Y: 167)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 130 Y: 167)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 132 Y: 163)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 132 Y: 163)
+21:01:16 [Obj][15000] AddClient (45.71.224.0)
+21:02:27 [Obj][15000] AddAccount (admin)
+21:02:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:02:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:02:31 [Obj][15000] LogInCharacter (Admin)
+21:02:40 Set Move IsAutoMoveRunning 1
+21:02:56 [Obj][15000] LogOutCharacter (Admin)
+21:02:56 [Obj][15000] LogOutCharacter ()
+21:02:56 [Obj][15000] DelAccount (admin)
+21:02:56 [Obj][15000] DelClient (45.71.224.0)
+21:03:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:07:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:07:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:09:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:10:00 [CustomQuiz] Start
+21:11:45 [Obj][15000] AddClient (45.71.224.0)
+21:11:49 [Obj][15000] AddAccount (admin)
+21:12:03 [Obj][15000] LogInCharacter (Admin)
+21:12:08 Set Move IsAutoMoveRunning 1
+21:12:13 Set Move IsAutoMoveRunning 1
+21:12:16 Set Move IsAutoMoveRunning 1
+21:12:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:12:30 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:13:00 [CustomQuiz] Finish
+21:14:50 Set Move IsAutoMoveRunning 1
+21:14:57 [Obj][15000] LogOutCharacter (Admin)
+21:14:57 [Obj][15000] LogOutCharacter ()
+21:14:57 [Obj][15000] DelAccount (admin)
+21:14:57 [Obj][15000] DelClient (45.71.224.0)
+21:15:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:17:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:17:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:20:19 [Obj][15000] AddClient (45.71.224.0)
+21:20:21 [Obj][15000] AddAccount (admin)
+21:20:24 [Obj][15000] LogInCharacter (Admin)
+21:20:29 Set Move IsAutoMoveRunning 1
+21:20:34 Set Move IsAutoMoveRunning 1
+21:20:44 [Obj][15000] LogOutCharacter (Admin)
+21:20:44 [Obj][15000] LogOutCharacter ()
+21:20:44 [Obj][15000] DelAccount (admin)
+21:20:44 [Obj][15000] DelClient (45.71.224.0)
+21:22:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:22:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:22:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:27:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:27:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:28:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:32:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:32:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:34:54 [Obj][15000] AddClient (45.71.224.0)
+21:34:55 [Obj][15000] AddAccount (admin)
+21:34:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:34:59 [Obj][15000] LogInCharacter (Admin)
+21:36:01 [OnlineLoterry] No Winner
+21:37:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:37:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:41:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:42:36 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:42:36 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:43:00 [CTC] Bat Dau Event Cong Thanh
+21:44:37 Set Move IsAutoMoveRunning 1
+21:44:43 Set Move IsAutoMoveRunning 1
+21:44:46 Set Move IsAutoMoveRunning 1
+21:45:03 Set Move IsAutoMoveRunning 1
+21:45:08 [Obj][15000] LogOutCharacter (Admin)
+21:45:08 [Obj][15000] LogOutCharacter ()
+21:45:08 [Obj][15000] DelAccount (admin)
+21:45:08 [Obj][15000] DelClient (45.71.224.0)
+21:47:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:47:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:47:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:47:45 [Obj][15000] AddClient (45.71.224.0)
+21:47:46 [Obj][15000] AddAccount (admin)
+21:47:50 [Obj][15000] LogInCharacter (Admin)
+21:48:00 [CTC] Finish 2
+21:48:45 [Obj][15000] LogOutCharacter (Admin)
+21:48:45 [Obj][15000] LogOutCharacter ()
+21:48:45 [Obj][15000] DelAccount (admin)
+21:48:45 [Obj][15000] DelClient (45.71.224.0)
+21:52:38 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:52:38 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:53:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:57:39 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:57:39 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:00:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:02:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:02:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:06:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:07:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:07:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:10:00 [CustomQuiz] Start
+22:12:43 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:12:43 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:12:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:13:00 [CustomQuiz] Finish
+22:17:08 [Obj][15000] AddClient (45.71.224.0)
+22:17:09 [Obj][15000] AddAccount (admin)
+22:17:13 [Obj][15000] LogInCharacter (Admin)
+22:17:19 Set Move IsAutoMoveRunning 1
+22:17:24 Set Move IsAutoMoveRunning 1
+22:17:32 Set Move IsAutoMoveRunning 1
+22:17:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:17:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:17:49 Set Move IsAutoMoveRunning 1
+22:17:52 Set Move IsAutoMoveRunning 1
+22:17:56 Set Move IsAutoMoveRunning 1
+22:18:02 [Obj][15000] LogOutCharacter (Admin)
+22:18:02 [Obj][15000] LogOutCharacter ()
+22:18:02 [Obj][15000] DelAccount (admin)
+22:18:02 [Obj][15000] DelClient (45.71.224.0)
+22:19:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:22:29 [Obj][15000] AddClient (45.71.224.0)
+22:22:31 [Obj][15000] AddAccount (admin)
+22:22:35 [Obj][15000] LogInCharacter (Admin)
+22:22:40 Set Move IsAutoMoveRunning 1
+22:22:42 Set Move IsAutoMoveRunning 1
+22:22:45 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:22:45 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:23:10 Set Move IsAutoMoveRunning 1
+22:23:13 Set Move IsAutoMoveRunning 1
+22:23:16 [Obj][15000] LogOutCharacter (Admin)
+22:23:16 [Obj][15000] LogOutCharacter ()
+22:23:16 [Obj][15000] DelAccount (admin)
+22:23:16 [Obj][15000] DelClient (45.71.224.0)
+22:25:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:25:55 [Obj][15000] AddClient (45.71.224.0)
+22:25:57 [Obj][15000] AddAccount (admin)
+22:26:01 [Obj][15000] LogInCharacter (Admin)
+22:26:06 Set Move IsAutoMoveRunning 1
+22:26:07 Set Move IsAutoMoveRunning 0
+22:26:18 Set Move IsAutoMoveRunning 1
+22:26:19 Set Move IsAutoMoveRunning 0
+22:26:22 Set Move IsAutoMoveRunning 1
+22:26:25 Set Move IsAutoMoveRunning 1
+22:26:44 Set Move IsAutoMoveRunning 0
+22:26:49 Set Move IsAutoMoveRunning 1
+22:27:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:27:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:28:16 Set Move IsAutoMoveRunning 1
+22:28:20 Set Move IsAutoMoveRunning 1
+22:28:37 Set Move IsAutoMoveRunning 0
+22:31:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:32:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:32:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:33:30 Set Move IsAutoMoveRunning 1
+22:36:01 [OnlineLoterry] Add Member (Admin)
+22:36:01 [OnlineLoterry] Winner (Admin)
+22:36:01 [admin][Admin] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+22:37:48 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:37:48 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:38:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:39:34 Set Move IsAutoMoveRunning 1
+22:39:39 [Obj][15000] LogOutCharacter (Admin)
+22:39:39 [Obj][15000] LogOutCharacter ()
+22:39:39 [Obj][15000] DelAccount (admin)
+22:39:39 [Obj][15000] DelClient (45.71.224.0)
+22:40:36 [Obj][15000] AddClient (45.71.224.0)
+22:40:38 [Obj][15000] AddAccount (admin)
+22:40:41 [Obj][15000] LogInCharacter (Admin)
+22:40:46 Set Move IsAutoMoveRunning 1
+22:40:48 Set Move IsAutoMoveRunning 0
+22:40:51 Set Move IsAutoMoveRunning 1
+22:40:52 Set Move IsAutoMoveRunning 0
+22:40:54 Set Move IsAutoMoveRunning 1
+22:40:55 Set Move IsAutoMoveRunning 0
+22:41:01 Set Move IsAutoMoveRunning 1
+22:41:07 Set Move IsAutoMoveRunning 0
+22:41:12 Set Move IsAutoMoveRunning 1
+22:41:37 Set Move IsAutoMoveRunning 0
+22:41:40 Set Move IsAutoMoveRunning 1
+22:42:18 Set Move IsAutoMoveRunning 0
+22:42:37 [Obj][15000] LogOutCharacter (Admin)
+22:42:37 [Obj][15000] LogOutCharacter ()
+22:42:37 [Obj][15000] DelAccount (admin)
+22:42:37 [Obj][15000] DelClient (45.71.224.0)
+22:42:49 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:42:49 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:43:00 [CTC] Bat Dau Event Cong Thanh
+22:44:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:47:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:47:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:48:00 [CTC] Finish 2
+22:49:13 [Obj][15000] AddClient (45.71.224.0)
+22:49:15 [Obj][15000] AddAccount (admin)
+22:49:19 [Obj][15000] LogInCharacter (Admin)
+22:49:25 Set Move IsAutoMoveRunning 1
+22:49:28 Set Move IsAutoMoveRunning 1
+22:49:32 Set Move IsAutoMoveRunning 1
+22:49:40 Set Move IsAutoMoveRunning 1
+22:49:44 Set Move IsAutoMoveRunning 1
+22:49:55 [Obj][15000] LogOutCharacter (Admin)
+22:49:55 [Obj][15000] LogOutCharacter ()
+22:49:55 [Obj][15000] DelAccount (admin)
+22:49:55 [Obj][15000] DelClient (45.71.224.0)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 151 Y: 53)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 151 Y: 53)
+22:50:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:51:25 [Obj][15000] AddClient (45.71.224.0)
+22:51:27 [Obj][15000] AddAccount (admin)
+22:51:30 [Obj][15000] LogInCharacter (Admin)
+22:51:35 Set Move IsAutoMoveRunning 1
+22:51:40 Set Move IsAutoMoveRunning 1
+22:51:56 Set Move IsAutoMoveRunning 1
+22:51:59 [Obj][15000] LogOutCharacter (Admin)
+22:51:59 [Obj][15000] LogOutCharacter ()
+22:51:59 [Obj][15000] DelAccount (admin)
+22:51:59 [Obj][15000] DelClient (45.71.224.0)
+22:52:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:52:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:52:54 [Obj][15000] AddClient (45.71.224.0)
+22:52:55 [Obj][15000] AddAccount (admin)
+22:52:58 [Obj][15000] LogInCharacter (Admin)
+22:53:03 Set Move IsAutoMoveRunning 1
+22:53:14 Set Move IsAutoMoveRunning 1
+22:53:16 Set Move IsAutoMoveRunning 1
+22:53:22 [Obj][15000] LogOutCharacter (Admin)
+22:53:22 [Obj][15000] LogOutCharacter ()
+22:53:22 [Obj][15000] DelAccount (admin)
+22:53:22 [Obj][15000] DelClient (45.71.224.0)
+22:56:44 [Obj][15000] AddClient (45.71.224.0)
+22:56:46 [Obj][15000] AddAccount (admin)
+22:56:54 [Obj][15000] LogInCharacter (Admin)
+22:57:00 Set Move IsAutoMoveRunning 1
+22:57:04 Set Move IsAutoMoveRunning 1
+22:57:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:57:11 Set Move IsAutoMoveRunning 1
+22:57:17 Set Move IsAutoMoveRunning 1
+22:57:20 [Obj][15000] LogOutCharacter (Admin)
+22:57:20 [Obj][15000] LogOutCharacter ()
+22:57:20 [Obj][15000] DelAccount (admin)
+22:57:20 [Obj][15000] DelClient (45.71.224.0)
+22:57:52 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:57:52 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:02:53 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:02:53 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:03:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:07:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:07:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:09:50 [Obj][15000] AddClient (45.71.224.0)
+23:09:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:09:52 [Obj][15000] AddAccount (admin)
+23:09:57 [Obj][15000] LogInCharacter (Admin)
+23:10:00 [CustomQuiz] Start
+23:10:06 Set Move IsAutoMoveRunning 1
+23:10:08 [Obj][15000] LogOutCharacter (Admin)
+23:10:08 [Obj][15000] LogOutCharacter ()
+23:10:08 [Obj][15000] DelAccount (admin)
+23:10:08 [Obj][15000] DelClient (45.71.224.0)
+23:12:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:12:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:13:00 [CustomQuiz] Finish
+23:16:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:16:30 [Obj][15000] AddClient (45.71.224.0)
+23:16:32 [Obj][15000] AddAccount (admin)
+23:16:36 [Obj][15000] LogInCharacter (Admin)
+23:16:43 Set Move IsAutoMoveRunning 1
+23:16:44 Set Move IsAutoMoveRunning 0
+23:16:48 Set Move IsAutoMoveRunning 1
+23:16:49 Set Move IsAutoMoveRunning 0
+23:16:54 Set Move IsAutoMoveRunning 1
+23:16:55 Set Move IsAutoMoveRunning 0
+23:16:57 Set Move IsAutoMoveRunning 1
+23:16:59 Set Move IsAutoMoveRunning 0
+23:17:06 Set Move IsAutoMoveRunning 1
+23:17:08 Set Move IsAutoMoveRunning 0
+23:17:14 Set Move IsAutoMoveRunning 1
+23:17:15 Set Move IsAutoMoveRunning 0
+23:17:18 Set Move IsAutoMoveRunning 1
+23:17:19 Set Move IsAutoMoveRunning 0
+23:17:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:17:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:18:37 [Obj][15000] LogOutCharacter (Admin)
+23:18:37 [Obj][15000] LogOutCharacter ()
+23:18:37 [Obj][15000] DelAccount (admin)
+23:18:37 [Obj][15000] DelClient (45.71.224.0)
+23:22:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:22:57 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:22:57 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:24:11 [Obj][15000] AddClient (45.71.224.0)
+23:24:12 [Obj][15000] AddAccount (admin)
+23:24:16 [Obj][15000] LogInCharacter (Admin)
+23:24:21 Set Move IsAutoMoveRunning 1
+23:24:22 Set Move IsAutoMoveRunning 0
+23:24:25 Set Move IsAutoMoveRunning 1
+23:24:27 [Obj][15000] LogOutCharacter (Admin)
+23:24:27 [Obj][15000] LogOutCharacter ()
+23:24:27 [Obj][15000] DelAccount (admin)
+23:24:27 [Obj][15000] DelClient (45.71.224.0)
+23:27:58 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:27:58 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+23:28:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:29:47 [Obj][15000] AddClient (45.71.224.0)
+23:29:48 [Obj][15000] AddAccount (admin)
+23:29:52 [Obj][15000] LogInCharacter (Admin)
+23:29:57 Set Move IsAutoMoveRunning 1
+23:29:58 Set Move IsAutoMoveRunning 0
+23:30:01 Set Move IsAutoMoveRunning 1
+23:30:02 Set Move IsAutoMoveRunning 0
+23:30:06 Set Move IsAutoMoveRunning 1
+23:30:09 Set Move IsAutoMoveRunning 0
+23:30:12 Set Move IsAutoMoveRunning 1
+23:30:23 Set Move IsAutoMoveRunning 1
+23:30:34 Set Move IsAutoMoveRunning 1
+23:32:59 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:32:59 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:34:01 Set Move IsAutoMoveRunning 1
+23:34:04 Set Move IsAutoMoveRunning 0
+23:34:07 Set Move IsAutoMoveRunning 1
+23:34:30 Set Move IsAutoMoveRunning 1
+23:34:32 Set Move IsAutoMoveRunning 1
+23:34:43 Set Move IsAutoMoveRunning 1
+23:34:54 [Obj][15000] LogOutCharacter (Admin)
+23:34:54 [Obj][15000] LogOutCharacter ()
+23:34:54 [Obj][15000] DelAccount (admin)
+23:34:54 [Obj][15000] DelClient (45.71.224.0)
+23:35:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:36:01 [OnlineLoterry] No Winner
+23:37:03 [Obj][15000] AddClient (45.71.224.0)
+23:37:05 [Obj][15000] AddAccount (admin)
+23:37:09 [Obj][15000] LogInCharacter (Admin)
+23:37:14 Set Move IsAutoMoveRunning 1
+23:37:18 Set Move IsAutoMoveRunning 1
+23:37:36 Set Move IsAutoMoveRunning 1
+23:38:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:38:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:38:56 Set Move IsAutoMoveRunning 1
+23:39:01 Set Move IsAutoMoveRunning 1
+23:39:06 Set Move IsAutoMoveRunning 1
+23:41:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:43:00 [CTC] Bat Dau Event Cong Thanh
+23:43:01 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:43:01 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:44:59 [Obj][15000] LogOutCharacter (Admin)
+23:44:59 [Obj][15000] LogOutCharacter ()
+23:44:59 [Obj][15000] DelAccount (admin)
+23:44:59 [Obj][15000] DelClient (45.71.224.0)
+23:46:09 [Obj][15000] AddClient (45.71.224.0)
+23:46:11 [Obj][15000] AddAccount (admin)
+23:46:14 [Obj][15000] LogInCharacter (Admin)
+23:46:28 Set Move IsAutoMoveRunning 1
+23:47:37 [Obj][15000] LogOutCharacter (Admin)
+23:47:37 [Obj][15000] LogOutCharacter ()
+23:47:37 [Obj][15000] DelAccount (admin)
+23:47:37 [Obj][15000] DelClient (45.71.224.0)
+23:47:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:48:00 [CTC] Finish 2
+23:48:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:48:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:49:43 [Obj][15000] AddClient (45.71.224.0)
+23:49:44 [Obj][15000] AddAccount (admin)
+23:49:48 [Obj][15000] LogInCharacter (Admin)
+23:50:26 [Obj][15000] LogOutCharacter (Admin)
+23:50:26 [Obj][15000] LogOutCharacter ()
+23:50:26 [Obj][15000] DelAccount (admin)
+23:50:26 [Obj][15000] DelClient (45.71.224.0)
+23:53:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:53:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:54:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:57:34 [Obj][15000] AddClient (45.71.224.0)
+23:57:36 [Obj][15000] AddAccount (admin)
+23:57:39 [Obj][15000] LogInCharacter (Admin)
+23:57:50 Set Move IsAutoMoveRunning 1
+23:58:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:58:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:58:11 [Obj][15000] LogOutCharacter (Admin)
+23:58:11 [Obj][15000] LogOutCharacter ()
+23:58:11 [Obj][15000] DelAccount (admin)
+23:58:11 [Obj][15000] DelClient (45.71.224.0)

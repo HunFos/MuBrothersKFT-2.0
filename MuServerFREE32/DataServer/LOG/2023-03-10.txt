@@ -1,0 +1,283 @@
+05:20:38 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:20:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:20:38 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:20:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:20:38 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:20:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:20:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:20:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:20:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:20:38 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:23:14 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:23:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:23:14 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:23:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:23:14 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:23:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:23:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:23:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:23:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:23:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:24:39 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:24:39 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:24:39 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:24:39 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:25:46 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:25:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:25:46 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:25:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:25:46 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:25:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:25:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:25:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:25:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:25:46 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:26:49 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:26:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:26:49 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:26:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:26:49 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:26:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:26:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:26:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:26:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:26:49 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:28:03 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:28:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:28:03 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:28:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:28:03 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:28:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:28:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:28:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:28:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:28:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:29:23 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:29:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:29:23 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:29:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:29:23 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:29:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:29:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:29:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:29:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:29:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:30:27 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:30:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:30:27 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:30:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:30:27 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:30:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:30:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:30:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:30:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:30:27 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:30:44 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:30:44 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:30:44 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:30:44 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:30:44 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:30:44 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:30:44 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:30:44 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:30:44 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:30:44 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+05:34:58 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+05:34:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+05:34:58 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+05:34:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+05:34:58 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+05:34:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+05:34:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+05:34:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+05:34:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+05:34:58 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:28:53 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:28:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:28:53 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:28:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:28:53 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:28:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:28:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:28:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:28:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:28:53 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:29:37 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:29:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:29:37 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:29:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:29:37 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:29:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:29:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:29:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:29:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:29:37 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:30:04 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:30:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:30:04 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:30:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:30:04 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:30:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:30:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:30:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:30:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:30:04 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:31:14 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:31:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:31:14 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:31:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:31:14 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:31:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:31:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:31:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:31:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:31:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:31:29 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+08:31:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:31:29 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+08:31:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:31:29 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+08:31:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:31:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:31:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:31:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:31:29 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:33:51 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+08:33:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:33:51 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+08:33:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:33:51 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+08:33:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:33:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:33:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:33:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:33:51 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:34:08 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+08:34:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:34:08 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+08:34:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:34:08 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+08:34:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:34:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:34:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:34:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:34:08 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:34:10 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:34:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:34:10 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:34:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:34:10 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:34:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:34:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:34:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:34:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:34:10 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:34:28 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:34:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:34:28 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:34:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:34:28 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:34:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:34:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:34:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:34:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:34:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:35:14 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:35:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:35:14 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:35:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:35:14 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:35:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:35:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:35:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:35:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:35:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:36:14 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:36:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:36:14 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:36:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:36:14 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:36:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:36:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:36:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:36:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:36:14 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:37:15 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:37:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:37:15 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:37:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:37:15 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:37:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:37:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:37:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:37:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:37:15 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+08:38:22 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='teste'
+08:38:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+08:38:22 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='teste'
+08:38:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+08:38:22 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='teste'
+08:38:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+08:38:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+08:38:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+08:38:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+08:38:22 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+12:39:12 [SocketManager] WSAAccept() failed with error: 10061
+14:00:03 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+14:00:03 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+14:10:19 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+14:10:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+14:10:19 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+14:10:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+14:10:19 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+14:10:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+14:10:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+14:10:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+14:10:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+14:10:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+14:10:40 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+14:10:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+14:10:40 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+14:10:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+14:10:40 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+14:10:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+14:10:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+14:10:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+14:10:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+14:10:40 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+14:11:36 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+14:11:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+14:11:36 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+14:11:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+14:11:36 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+14:11:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+14:11:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+14:11:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+14:11:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+14:11:36 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+14:21:33 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+14:21:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+14:21:33 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+14:21:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+14:21:33 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+14:21:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+14:21:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+14:21:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+14:21:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+14:21:33 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+14:25:16 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+14:25:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+14:25:16 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+14:25:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+14:25:16 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+14:25:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+14:25:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+14:25:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+14:25:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+14:25:16 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.

@@ -1,0 +1,57 @@
+0
+//**************************
+//index	MuunUtil rank	OptionIndex	evol   Comment
+6857	1	1	1	0
+6858	1	2	1	0
+6859	1	2	1	0	//adventurecat
+
+6860	1	2	13	0	//angrychickenup
+6861	1	2	13	0	//baelpet_evol /Luki
+
+6862	1	2	1	0	//bateriaup
+6863	1	2	1	0	//beagle
+6864	1	2	1	0	//bluefairyup
+6865	1	2	1	0 	//bogeonpet_evol
+6866	1	2	1	0 	//bulldog
+6867	1	2	1	0 	//cyclopspet_evol
+6868	1	2	1	0 	//figure
+6869	1	2	1	0 	//knightinstructorup
+6870	1	2	1	0 	//knightzombieup
+6871	1	2	1	0 	//lycanpet_evol
+6872	1	2	1	0 	//mermaidpet_evol
+6873	1	2	1	0 	//minopet_evol
+6874	1	2	1	0 	//mommothpet_evol
+6875	1	2	1	0 	//mummyboy
+6876	1	2	1	0 	//polarispet_evol
+6877	1	2	1	0 	//reynerpet_evol
+6878	1	2	1	0 	//rio
+6879	1	2	1	0 	//skullpet
+6880	1	2	1	0 	//alcamopet
+6881	1	2	1	0 	//alcamopet_evol
+6949	1	2	1	0 	//Pet of Cup M
+6950	1	2	1	0 	//Pet of Cup F
+6953    1	2	1	0 	//Mini fenrir natal
+6982    1	2	1	0 	//Eagle Of Saron
+6983    1	2	1	0 	//Pet Of Green V2
+6988    1	2	1	0 	//Eagle Fire Green
+6990	1	2	1	0 	//Eagle Light Hawk
+6991	1	2	1	0 	//Eagle BloodRed-2022
+
+6965	1	2	1	0 	//Pet Steel
+
+
+
+
+end
+
+1
+//==== Type this is left in config
+//index		opt1	opt2		opt3	opt4		opt5	MaxOpt	SpecialOpt	SpecialVal	Map		Time	DayOfWeek	MinHor	MaxHor	Minlvl	MaxLvl	MinML	MaxML
+	1	     1	     1	         1	     1	     		1	  13	   1		   150		*		*	      *		      *	     *	      *	      *	      *	      *
+end	
+//==== Option Dame Pet 
+2
+//OptionIndex = OptionIndex above **************************
+//OptionIndex	AddHP		AddMP	DamageRate   AttackSpeed   DoubleDmgRate	TripleDmgRate	AddExp	ResistDoubleDmg	ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDMG	ResistExceDMG	BlockStuck	ReflectRate
+		1	     500000		500	       100		     5000		      10		          5		      30		0			         0			     0		            0			        0			0		    0
+end

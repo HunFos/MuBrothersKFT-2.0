@@ -1,0 +1,35 @@
+09:19:19 [SocketManager] Server started at port [55964]
+09:19:22 [ServerManager][0] AddServer (127.0.0.1)
+09:19:22 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+10:39:17 [SocketManager] Server started at port [55964]
+10:39:19 [ServerManager][0] AddServer (127.0.0.1)
+10:39:19 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+10:50:05 [SocketManager] Server started at port [55964]
+10:50:09 [ServerManager][0] AddServer (127.0.0.1)
+10:50:09 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:04:17 [SocketManager] Server started at port [55964]
+11:04:20 [ServerManager][0] AddServer (127.0.0.1)
+11:04:20 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:08:55 [SocketManager] Server started at port [55964]
+11:08:57 [ServerManager][0] AddServer (127.0.0.1)
+11:08:57 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:12:37 [SocketManager] Server started at port [55964]
+11:12:40 [ServerManager][0] AddServer (127.0.0.1)
+11:12:40 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+11:28:48 [SocketManager] Server started at port [55964]
+11:28:50 [ServerManager][0] AddServer (127.0.0.1)
+11:28:50 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+12:35:24 [SocketManager] Server started at port [55964]
+12:35:27 [ServerManager][0] AddServer (127.0.0.1)
+12:35:27 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+12:40:42 [SocketManager] Server started at port [55964]
+12:40:44 [ServerManager][0] AddServer (127.0.0.1)
+12:40:44 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+12:46:44 [SocketManager] Server started at port [55964]
+12:46:46 [ServerManager][0] AddServer (127.0.0.1)
+12:46:46 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+12:51:23 [SocketManager] Server started at port [55964]
+12:51:25 [ServerManager][0] AddServer (127.0.0.1)
+12:51:25 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+14:00:00 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+14:00:00 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.

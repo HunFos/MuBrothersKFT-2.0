@@ -1,0 +1,3493 @@
+08:31:38 [ServerInfo] CashShop loaded successfully
+08:31:38 [ServerInfo] ChaosMix loaded successfully
+08:31:38 [ServerInfo] Character loaded successfully
+08:31:38 [FakeOnline] Load Data OK
+08:31:38 [ServerInfo] Custom loaded successfully
+08:31:38 [ServerInfo] Command loaded successfully
+08:31:38 [ServerInfo] Common loaded successfully
+08:31:38 [ Crywolf ] State (0) -> NONE
+08:31:38 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:31:38 [ServerInfo] Event loaded successfully
+08:31:38 [ServerInfo] EventItemBag loaded successfully
+08:31:38 [ServerInfo] Hack loaded successfully
+08:31:38 [ServerInfo] Item loaded successfully
+08:31:38 [ServerInfo] Monster loaded successfully
+08:31:38 [ServerInfo] Move loaded successfully
+08:31:38 [ServerInfo] Quest loaded successfully
+08:31:38 [ServerInfo] Shop loaded successfully
+08:31:38 [ServerInfo] Skill loaded successfully
+08:31:38 [ServerInfo] Util loaded successfully
+08:31:38 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+08:31:38 [ReadBotInfo] BotSystem loaded successfully
+08:31:38 [Swamp Event] GROUP:1 set to 12 minutes
+08:31:38 [Swamp Event] GROUP:2 set to 10 minutes
+08:31:38 [Swamp Event] GROUP:3 set to 4 minutes
+08:31:38 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+08:31:38 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+08:31:38 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+08:31:38 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+08:31:38 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+08:31:38 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+08:31:38 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+08:31:38 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:31:38 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+08:31:38 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:31:38 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+08:31:38 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:31:38 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+08:31:38 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+08:31:38 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+08:31:38 [ServerInfo] SkyEvent Event loaded successfully
+08:31:39 [Swamp Event] Sync Start Time. [538] min remain
+08:31:39 [Swamp Event] SetState EMPTY
+08:31:39 [SkyEvent] Sync Start Time. [508] min remain
+08:31:39 [SkyEvent] SetState_EMPTY
+08:31:40 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+08:32:33 [ServerInfo] CashShop loaded successfully
+08:32:33 [ServerInfo] ChaosMix loaded successfully
+08:32:33 [ServerInfo] Character loaded successfully
+08:32:33 [FakeOnline] Load Data OK
+08:32:33 [ServerInfo] Custom loaded successfully
+08:32:33 [ServerInfo] Command loaded successfully
+08:32:33 [ServerInfo] Common loaded successfully
+08:32:33 [ Crywolf ] State (0) -> NONE
+08:32:33 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:32:34 [ServerInfo] Event loaded successfully
+08:32:34 [ServerInfo] EventItemBag loaded successfully
+08:32:34 [ServerInfo] Hack loaded successfully
+08:32:34 [ServerInfo] Item loaded successfully
+08:32:34 [ServerInfo] Monster loaded successfully
+08:32:34 [ServerInfo] Move loaded successfully
+08:32:34 [ServerInfo] Quest loaded successfully
+08:32:34 [ServerInfo] Shop loaded successfully
+08:32:34 [ServerInfo] Skill loaded successfully
+08:32:34 [ServerInfo] Util loaded successfully
+08:32:34 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+08:32:34 [ReadBotInfo] BotSystem loaded successfully
+08:32:34 [Swamp Event] GROUP:1 set to 12 minutes
+08:32:34 [Swamp Event] GROUP:2 set to 10 minutes
+08:32:34 [Swamp Event] GROUP:3 set to 4 minutes
+08:32:34 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+08:32:34 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+08:32:34 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+08:32:34 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+08:32:34 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+08:32:34 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+08:32:34 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+08:32:34 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:32:34 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+08:32:34 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:32:34 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+08:32:34 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:32:34 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+08:32:34 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+08:32:34 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+08:32:34 [ServerInfo] SkyEvent Event loaded successfully
+08:32:35 [Swamp Event] Sync Start Time. [537] min remain
+08:32:35 [Swamp Event] SetState EMPTY
+08:32:35 [SkyEvent] Sync Start Time. [507] min remain
+08:32:35 [SkyEvent] SetState_EMPTY
+08:32:36 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+08:34:11 [ServerInfo] CashShop loaded successfully
+08:34:11 [ServerInfo] ChaosMix loaded successfully
+08:34:11 [ServerInfo] Character loaded successfully
+08:34:11 [FakeOnline] Load Data OK
+08:34:11 [ServerInfo] Custom loaded successfully
+08:34:11 [ServerInfo] Command loaded successfully
+08:34:11 [ServerInfo] Common loaded successfully
+08:34:11 [ Crywolf ] State (0) -> NONE
+08:34:11 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:34:11 [ServerInfo] Event loaded successfully
+08:34:11 [ServerInfo] EventItemBag loaded successfully
+08:34:11 [ServerInfo] Hack loaded successfully
+08:34:11 [ServerInfo] Item loaded successfully
+08:34:11 [ServerInfo] Monster loaded successfully
+08:34:11 [ServerInfo] Move loaded successfully
+08:34:11 [ServerInfo] Quest loaded successfully
+08:34:11 [ServerInfo] Shop loaded successfully
+08:34:11 [ServerInfo] Skill loaded successfully
+08:34:11 [ServerInfo] Util loaded successfully
+08:34:11 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+08:34:11 [ReadBotInfo] BotSystem loaded successfully
+08:34:11 [Swamp Event] GROUP:1 set to 12 minutes
+08:34:11 [Swamp Event] GROUP:2 set to 10 minutes
+08:34:11 [Swamp Event] GROUP:3 set to 4 minutes
+08:34:11 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+08:34:11 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+08:34:11 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+08:34:11 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+08:34:11 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+08:34:11 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+08:34:11 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+08:34:11 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:34:11 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+08:34:11 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:34:11 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+08:34:11 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:34:11 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+08:34:11 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+08:34:11 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+08:34:11 [ServerInfo] SkyEvent Event loaded successfully
+08:34:12 [Swamp Event] Sync Start Time. [535] min remain
+08:34:12 [Swamp Event] SetState EMPTY
+08:34:12 [SkyEvent] Sync Start Time. [505] min remain
+08:34:12 [SkyEvent] SetState_EMPTY
+08:34:13 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+08:34:19 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+08:34:34 [Obj][15000] AddClient (177.75.155.16)
+08:34:36 [Obj][15000] AddAccount (1)
+08:34:39 [Obj][15000] LogInCharacter (Polidoro)
+08:34:49 [Obj][15000] LogOutCharacter (Polidoro)
+08:34:49 [Obj][15000] LogOutCharacter ()
+08:34:49 [Obj][15000] DelAccount (1)
+08:34:49 [Obj][15000] DelClient (177.75.155.16)
+08:36:01 [OnlineLoterry] No Winner
+08:37:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:39:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:39:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:43:26 [ServerInfo] CashShop loaded successfully
+08:43:26 [ServerInfo] ChaosMix loaded successfully
+08:43:26 [ServerInfo] Character loaded successfully
+08:43:26 [FakeOnline] Load Data OK
+08:43:26 [ServerInfo] Custom loaded successfully
+08:43:26 [ServerInfo] Command loaded successfully
+08:43:26 [ServerInfo] Common loaded successfully
+08:43:26 [ Crywolf ] State (0) -> NONE
+08:43:26 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:43:26 [ServerInfo] Event loaded successfully
+08:43:26 [ServerInfo] EventItemBag loaded successfully
+08:43:27 [ServerInfo] Hack loaded successfully
+08:43:27 [ServerInfo] Item loaded successfully
+08:43:27 [ServerInfo] Monster loaded successfully
+08:43:27 [ServerInfo] Move loaded successfully
+08:43:27 [ServerInfo] Quest loaded successfully
+08:43:27 [ServerInfo] Shop loaded successfully
+08:43:27 [ServerInfo] Skill loaded successfully
+08:43:27 [ServerInfo] Util loaded successfully
+08:43:27 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+08:43:27 [ReadBotInfo] BotSystem loaded successfully
+08:43:27 [Swamp Event] GROUP:1 set to 12 minutes
+08:43:27 [Swamp Event] GROUP:2 set to 10 minutes
+08:43:27 [Swamp Event] GROUP:3 set to 4 minutes
+08:43:27 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+08:43:27 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+08:43:27 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+08:43:27 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+08:43:27 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+08:43:27 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+08:43:27 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+08:43:27 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:43:27 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+08:43:27 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:43:27 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+08:43:27 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:43:27 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+08:43:27 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+08:43:27 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+08:43:27 [ServerInfo] SkyEvent Event loaded successfully
+08:43:27 [Swamp Event] Sync Start Time. [526] min remain
+08:43:27 [Swamp Event] SetState EMPTY
+08:43:27 [SkyEvent] Sync Start Time. [496] min remain
+08:43:27 [SkyEvent] SetState_EMPTY
+08:43:28 [CTC] Bat Dau Event Cong Thanh
+08:43:29 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+08:43:35 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+08:44:10 [Obj][15000] AddClient (177.75.155.16)
+08:44:11 [Obj][15000] AddAccount (1)
+08:44:15 [Obj][15000] LogInCharacter (Polidoro)
+08:45:29 [ServerInfo] CashShop loaded successfully
+08:45:29 [ServerInfo] ChaosMix loaded successfully
+08:45:29 [ServerInfo] Character loaded successfully
+08:45:29 [FakeOnline] Load Data OK
+08:45:29 [ServerInfo] Custom loaded successfully
+08:45:29 [ServerInfo] Command loaded successfully
+08:45:29 [ServerInfo] Common loaded successfully
+08:45:29 [ Crywolf ] State (0) -> NONE
+08:45:29 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:45:29 [ServerInfo] Event loaded successfully
+08:45:29 [ServerInfo] EventItemBag loaded successfully
+08:45:29 [ServerInfo] Hack loaded successfully
+08:45:29 [ServerInfo] Item loaded successfully
+08:45:29 [ServerInfo] Monster loaded successfully
+08:45:29 [ServerInfo] Move loaded successfully
+08:45:29 [ServerInfo] Quest loaded successfully
+08:45:29 [ServerInfo] Shop loaded successfully
+08:45:29 [ServerInfo] Skill loaded successfully
+08:45:29 [ServerInfo] Util loaded successfully
+08:45:29 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+08:45:29 [ReadBotInfo] BotSystem loaded successfully
+08:45:29 [Swamp Event] GROUP:1 set to 12 minutes
+08:45:29 [Swamp Event] GROUP:2 set to 10 minutes
+08:45:29 [Swamp Event] GROUP:3 set to 4 minutes
+08:45:29 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+08:45:29 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+08:45:29 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+08:45:29 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+08:45:29 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+08:45:29 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+08:45:29 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+08:45:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:45:29 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+08:45:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:45:29 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+08:45:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:45:29 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+08:45:29 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+08:45:29 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+08:45:29 [ServerInfo] SkyEvent Event loaded successfully
+08:45:30 [Swamp Event] Sync Start Time. [524] min remain
+08:45:30 [Swamp Event] SetState EMPTY
+08:45:30 [SkyEvent] Sync Start Time. [494] min remain
+08:45:30 [SkyEvent] SetState_EMPTY
+08:45:31 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+08:45:31 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+08:45:37 [Obj][15000] AddClient (177.75.155.16)
+08:45:37 [Obj][15000] AddAccount (1)
+08:45:37 [Obj][15000] LogInCharacter (Polidoro)
+08:45:45 [Obj][15000] LogOutCharacter (Polidoro)
+08:45:45 [Obj][15000] LogOutCharacter ()
+08:45:46 [Obj][15000] DelAccount (1)
+08:45:46 [Obj][15000] DelClient (177.75.155.16)
+08:46:38 [Obj][15000] AddClient (177.75.155.16)
+08:46:39 [Obj][15000] AddAccount (1)
+08:46:39 [Obj][15000] LogInCharacter (Polidoro)
+09:03:55 [ServerInfo] CashShop loaded successfully
+09:03:55 [ServerInfo] ChaosMix loaded successfully
+09:03:55 [ServerInfo] Character loaded successfully
+09:03:55 [FakeOnline] Load Data OK
+09:03:55 [ServerInfo] Custom loaded successfully
+09:03:55 [ServerInfo] Command loaded successfully
+09:03:55 [ServerInfo] Common loaded successfully
+09:03:55 [ Crywolf ] State (0) -> NONE
+09:03:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:03:55 [ServerInfo] Event loaded successfully
+09:03:55 [ServerInfo] EventItemBag loaded successfully
+09:03:55 [ServerInfo] Hack loaded successfully
+09:03:55 [ServerInfo] Item loaded successfully
+09:03:55 [ServerInfo] Monster loaded successfully
+09:03:55 [ServerInfo] Move loaded successfully
+09:03:55 [ServerInfo] Quest loaded successfully
+09:03:55 [ServerInfo] Shop loaded successfully
+09:03:55 [ServerInfo] Skill loaded successfully
+09:03:55 [ServerInfo] Util loaded successfully
+09:03:55 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:03:55 [ReadBotInfo] BotSystem loaded successfully
+09:03:55 [Swamp Event] GROUP:1 set to 12 minutes
+09:03:55 [Swamp Event] GROUP:2 set to 10 minutes
+09:03:55 [Swamp Event] GROUP:3 set to 4 minutes
+09:03:55 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:03:55 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:03:55 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:03:55 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:03:55 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:03:55 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:03:55 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:03:55 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:03:55 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:03:55 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:03:55 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:03:55 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:03:55 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:03:55 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:03:55 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:03:55 [ServerInfo] SkyEvent Event loaded successfully
+09:03:57 [Swamp Event] Sync Start Time. [506] min remain
+09:03:57 [Swamp Event] SetState EMPTY
+09:03:57 [SkyEvent] Sync Start Time. [476] min remain
+09:03:57 [SkyEvent] SetState_EMPTY
+09:03:58 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:04:16 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:07:06 [ServerInfo] CashShop loaded successfully
+09:07:06 [ServerInfo] ChaosMix loaded successfully
+09:07:06 [ServerInfo] Character loaded successfully
+09:07:06 [FakeOnline] Load Data OK
+09:07:06 [ServerInfo] Custom loaded successfully
+09:07:06 [ServerInfo] Command loaded successfully
+09:07:06 [ServerInfo] Common loaded successfully
+09:07:07 [ Crywolf ] State (0) -> NONE
+09:07:07 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:07:07 [ServerInfo] Event loaded successfully
+09:07:07 [ServerInfo] EventItemBag loaded successfully
+09:07:07 [ServerInfo] Hack loaded successfully
+09:07:07 [ServerInfo] Item loaded successfully
+09:07:07 [ServerInfo] Monster loaded successfully
+09:07:07 [ServerInfo] Move loaded successfully
+09:07:07 [ServerInfo] Quest loaded successfully
+09:07:07 [ServerInfo] Shop loaded successfully
+09:07:07 [ServerInfo] Skill loaded successfully
+09:07:07 [ServerInfo] Util loaded successfully
+09:07:07 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:07:07 [ReadBotInfo] BotSystem loaded successfully
+09:07:07 [Swamp Event] GROUP:1 set to 12 minutes
+09:07:07 [Swamp Event] GROUP:2 set to 10 minutes
+09:07:07 [Swamp Event] GROUP:3 set to 4 minutes
+09:07:07 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:07:07 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:07:07 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:07:07 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:07:07 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:07:07 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:07:07 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:07:07 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:07:07 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:07:07 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:07:07 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:07:07 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:07:07 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:07:07 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:07:07 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:07:07 [ServerInfo] SkyEvent Event loaded successfully
+09:07:08 [Swamp Event] Sync Start Time. [502] min remain
+09:07:08 [Swamp Event] SetState EMPTY
+09:07:08 [SkyEvent] Sync Start Time. [472] min remain
+09:07:08 [SkyEvent] SetState_EMPTY
+09:07:09 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:07:16 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:10:00 [CustomQuiz] Start
+09:10:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:12:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+09:12:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+09:13:00 [CustomQuiz] Finish
+09:13:48 [ServerInfo] CashShop loaded successfully
+09:13:48 [ServerInfo] ChaosMix loaded successfully
+09:13:48 [ServerInfo] Character loaded successfully
+09:13:48 [FakeOnline] Load Data OK
+09:13:48 [ServerInfo] Custom loaded successfully
+09:13:48 [ServerInfo] Command loaded successfully
+09:13:48 [ServerInfo] Common loaded successfully
+09:13:48 [ Crywolf ] State (0) -> NONE
+09:13:48 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:13:48 [ServerInfo] Event loaded successfully
+09:13:48 [ServerInfo] EventItemBag loaded successfully
+09:13:48 [ServerInfo] Hack loaded successfully
+09:13:48 [ServerInfo] Item loaded successfully
+09:13:48 [ServerInfo] Monster loaded successfully
+09:13:48 [ServerInfo] Move loaded successfully
+09:13:48 [ServerInfo] Quest loaded successfully
+09:13:48 [ServerInfo] Shop loaded successfully
+09:13:48 [ServerInfo] Skill loaded successfully
+09:13:48 [ServerInfo] Util loaded successfully
+09:13:48 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:13:48 [ReadBotInfo] BotSystem loaded successfully
+09:13:48 [Swamp Event] GROUP:1 set to 12 minutes
+09:13:48 [Swamp Event] GROUP:2 set to 10 minutes
+09:13:48 [Swamp Event] GROUP:3 set to 4 minutes
+09:13:48 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:13:48 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:13:48 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:13:48 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:13:48 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:13:48 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:13:48 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:13:48 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:13:48 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:13:48 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:13:48 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:13:48 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:13:48 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:13:48 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:13:48 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:13:48 [ServerInfo] SkyEvent Event loaded successfully
+09:13:49 [Swamp Event] Sync Start Time. [496] min remain
+09:13:49 [Swamp Event] SetState EMPTY
+09:13:49 [SkyEvent] Sync Start Time. [466] min remain
+09:13:49 [SkyEvent] SetState_EMPTY
+09:13:50 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:13:57 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:15:29 [ServerInfo] CashShop loaded successfully
+09:15:29 [ServerInfo] ChaosMix loaded successfully
+09:15:29 [ServerInfo] Character loaded successfully
+09:15:29 [FakeOnline] Load Data OK
+09:15:29 [ServerInfo] Custom loaded successfully
+09:15:29 [ServerInfo] Command loaded successfully
+09:15:29 [ServerInfo] Common loaded successfully
+09:15:29 [ Crywolf ] State (0) -> NONE
+09:15:29 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:15:29 [ServerInfo] Event loaded successfully
+09:15:29 [ServerInfo] EventItemBag loaded successfully
+09:15:29 [ServerInfo] Hack loaded successfully
+09:15:29 [ServerInfo] Item loaded successfully
+09:15:29 [ServerInfo] Monster loaded successfully
+09:15:29 [ServerInfo] Move loaded successfully
+09:15:29 [ServerInfo] Quest loaded successfully
+09:15:29 [ServerInfo] Shop loaded successfully
+09:15:29 [ServerInfo] Skill loaded successfully
+09:15:29 [ServerInfo] Util loaded successfully
+09:15:29 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:15:29 [ReadBotInfo] BotSystem loaded successfully
+09:15:29 [Swamp Event] GROUP:1 set to 12 minutes
+09:15:29 [Swamp Event] GROUP:2 set to 10 minutes
+09:15:29 [Swamp Event] GROUP:3 set to 4 minutes
+09:15:29 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:15:29 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:15:29 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:15:29 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:15:29 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:15:29 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:15:29 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:15:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:15:29 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:15:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:15:29 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:15:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:15:29 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:15:29 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:15:29 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:15:29 [ServerInfo] SkyEvent Event loaded successfully
+09:15:30 [Swamp Event] Sync Start Time. [494] min remain
+09:15:30 [Swamp Event] SetState EMPTY
+09:15:30 [SkyEvent] Sync Start Time. [464] min remain
+09:15:30 [SkyEvent] SetState_EMPTY
+09:15:31 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:15:45 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:16:28 [ServerInfo] CashShop loaded successfully
+09:16:28 [ServerInfo] ChaosMix loaded successfully
+09:16:28 [ServerInfo] Character loaded successfully
+09:16:28 [FakeOnline] Load Data OK
+09:16:28 [ServerInfo] Custom loaded successfully
+09:16:28 [ServerInfo] Command loaded successfully
+09:16:28 [ServerInfo] Common loaded successfully
+09:16:28 [ Crywolf ] State (0) -> NONE
+09:16:28 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:16:28 [ServerInfo] Event loaded successfully
+09:16:28 [ServerInfo] EventItemBag loaded successfully
+09:16:28 [ServerInfo] Hack loaded successfully
+09:16:28 [ServerInfo] Item loaded successfully
+09:16:28 [ServerInfo] Monster loaded successfully
+09:16:28 [ServerInfo] Move loaded successfully
+09:16:28 [ServerInfo] Quest loaded successfully
+09:16:28 [ServerInfo] Shop loaded successfully
+09:16:28 [ServerInfo] Skill loaded successfully
+09:16:28 [ServerInfo] Util loaded successfully
+09:16:28 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:16:28 [ReadBotInfo] BotSystem loaded successfully
+09:16:28 [Swamp Event] GROUP:1 set to 12 minutes
+09:16:28 [Swamp Event] GROUP:2 set to 10 minutes
+09:16:28 [Swamp Event] GROUP:3 set to 4 minutes
+09:16:28 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:16:28 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:16:28 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:16:28 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:16:28 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:16:28 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:16:28 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:16:28 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:16:28 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:16:28 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:16:28 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:16:28 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:16:28 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:16:28 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:16:28 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:16:28 [ServerInfo] SkyEvent Event loaded successfully
+09:16:29 [Swamp Event] Sync Start Time. [493] min remain
+09:16:29 [Swamp Event] SetState EMPTY
+09:16:29 [SkyEvent] Sync Start Time. [463] min remain
+09:16:29 [SkyEvent] SetState_EMPTY
+09:16:30 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:16:36 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:17:50 [ServerInfo] CashShop loaded successfully
+09:17:50 [ServerInfo] ChaosMix loaded successfully
+09:17:50 [ServerInfo] Character loaded successfully
+09:17:50 [FakeOnline] Load Data OK
+09:17:50 [ServerInfo] Custom loaded successfully
+09:17:50 [ServerInfo] Command loaded successfully
+09:17:50 [ServerInfo] Common loaded successfully
+09:17:50 [ Crywolf ] State (0) -> NONE
+09:17:50 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:17:50 [ServerInfo] Event loaded successfully
+09:17:50 [ServerInfo] EventItemBag loaded successfully
+09:17:50 [ServerInfo] Hack loaded successfully
+09:17:50 [ServerInfo] Item loaded successfully
+09:17:50 [ServerInfo] Monster loaded successfully
+09:17:50 [ServerInfo] Move loaded successfully
+09:17:50 [ServerInfo] Quest loaded successfully
+09:17:50 [ServerInfo] Shop loaded successfully
+09:17:50 [ServerInfo] Skill loaded successfully
+09:17:50 [ServerInfo] Util loaded successfully
+09:17:50 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:17:50 [ReadBotInfo] BotSystem loaded successfully
+09:17:50 [Swamp Event] GROUP:1 set to 12 minutes
+09:17:50 [Swamp Event] GROUP:2 set to 10 minutes
+09:17:50 [Swamp Event] GROUP:3 set to 4 minutes
+09:17:50 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:17:50 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:17:50 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:17:50 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:17:50 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:17:50 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:17:50 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:17:50 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:17:50 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:17:50 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:17:50 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:17:50 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:17:50 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:17:50 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:17:50 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:17:50 [ServerInfo] SkyEvent Event loaded successfully
+09:17:51 [Swamp Event] Sync Start Time. [492] min remain
+09:17:51 [Swamp Event] SetState EMPTY
+09:17:51 [SkyEvent] Sync Start Time. [462] min remain
+09:17:51 [SkyEvent] SetState_EMPTY
+09:17:52 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:17:59 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:18:00 [Obj][15000] AddClient (177.75.155.16)
+09:18:01 [Obj][15000] AddAccount (1)
+09:18:04 [Obj][15000] LogInCharacter (Polidoro)
+09:18:22 [Obj][15000] LogOutCharacter (Polidoro)
+09:18:22 [Obj][15000] LogOutCharacter ()
+09:18:22 [Obj][15000] DelAccount (1)
+09:18:22 [Obj][15000] DelClient (177.75.155.16)
+09:18:56 [Obj][15000] AddClient (177.75.155.16)
+09:18:57 [Obj][15000] AddAccount (1)
+09:19:00 [Obj][15000] LogInCharacter (Polidoro)
+09:19:15 [Obj][15000] LogOutCharacter (Polidoro)
+09:19:15 [Obj][15000] LogOutCharacter ()
+09:19:15 [Obj][15000] DelAccount (1)
+09:19:15 [Obj][15000] DelClient (177.75.155.16)
+09:22:27 [ServerInfo] CashShop loaded successfully
+09:22:27 [ServerInfo] ChaosMix loaded successfully
+09:22:27 [ServerInfo] Character loaded successfully
+09:22:27 [FakeOnline] Load Data OK
+09:22:27 [ServerInfo] Custom loaded successfully
+09:22:27 [ServerInfo] Command loaded successfully
+09:22:27 [ServerInfo] Common loaded successfully
+09:22:28 [ Crywolf ] State (0) -> NONE
+09:22:28 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:22:28 [ServerInfo] Event loaded successfully
+09:22:28 [ServerInfo] EventItemBag loaded successfully
+09:22:28 [ServerInfo] Hack loaded successfully
+09:22:28 [ServerInfo] Item loaded successfully
+09:22:28 [ServerInfo] Monster loaded successfully
+09:22:28 [ServerInfo] Move loaded successfully
+09:22:28 [ServerInfo] Quest loaded successfully
+09:22:28 [ServerInfo] Shop loaded successfully
+09:22:28 [ServerInfo] Skill loaded successfully
+09:22:28 [ServerInfo] Util loaded successfully
+09:22:28 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:22:28 [ReadBotInfo] BotSystem loaded successfully
+09:22:28 [Swamp Event] GROUP:1 set to 12 minutes
+09:22:28 [Swamp Event] GROUP:2 set to 10 minutes
+09:22:28 [Swamp Event] GROUP:3 set to 4 minutes
+09:22:28 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:22:28 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:22:28 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:22:28 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:22:28 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:22:28 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:22:28 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:22:28 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:22:28 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:22:28 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:22:28 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:22:28 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:22:28 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:22:28 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:22:28 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:22:28 [ServerInfo] SkyEvent Event loaded successfully
+09:22:28 [Swamp Event] Sync Start Time. [487] min remain
+09:22:28 [Swamp Event] SetState EMPTY
+09:22:28 [SkyEvent] Sync Start Time. [457] min remain
+09:22:28 [SkyEvent] SetState_EMPTY
+09:22:30 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:22:38 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:22:42 [Obj][15000] AddClient (177.75.155.16)
+09:22:44 [Obj][15000] AddAccount (1)
+09:22:46 [Obj][15000] LogInCharacter (Polidoro)
+09:22:56 [Obj][15000] LogOutCharacter (Polidoro)
+09:22:56 [Obj][15000] LogOutCharacter ()
+09:22:56 [Obj][15000] DelAccount (1)
+09:22:56 [Obj][15000] DelClient (177.75.155.16)
+09:23:20 [ServerInfo] CashShop loaded successfully
+09:23:20 [ServerInfo] ChaosMix loaded successfully
+09:23:20 [ServerInfo] Character loaded successfully
+09:23:20 [FakeOnline] Load Data OK
+09:23:20 [ServerInfo] Custom loaded successfully
+09:23:20 [ServerInfo] Command loaded successfully
+09:23:20 [ServerInfo] Common loaded successfully
+09:23:20 [ Crywolf ] State (0) -> NONE
+09:23:20 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:23:20 [ServerInfo] Event loaded successfully
+09:23:20 [ServerInfo] EventItemBag loaded successfully
+09:23:20 [ServerInfo] Hack loaded successfully
+09:23:20 [ServerInfo] Item loaded successfully
+09:23:20 [ServerInfo] Monster loaded successfully
+09:23:20 [ServerInfo] Move loaded successfully
+09:23:20 [ServerInfo] Quest loaded successfully
+09:23:20 [ServerInfo] Shop loaded successfully
+09:23:20 [ServerInfo] Skill loaded successfully
+09:23:20 [ServerInfo] Util loaded successfully
+09:23:20 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:23:20 [ReadBotInfo] BotSystem loaded successfully
+09:23:20 [Swamp Event] GROUP:1 set to 12 minutes
+09:23:20 [Swamp Event] GROUP:2 set to 10 minutes
+09:23:20 [Swamp Event] GROUP:3 set to 4 minutes
+09:23:20 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:23:20 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:23:20 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:23:20 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:23:20 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:23:20 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:23:20 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:23:20 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:23:20 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:23:20 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:23:20 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:23:20 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:23:20 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:23:20 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:23:20 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:23:20 [ServerInfo] SkyEvent Event loaded successfully
+09:23:21 [Swamp Event] Sync Start Time. [486] min remain
+09:23:21 [Swamp Event] SetState EMPTY
+09:23:21 [SkyEvent] Sync Start Time. [456] min remain
+09:23:21 [SkyEvent] SetState_EMPTY
+09:23:22 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:23:28 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:23:49 [Obj][15000] AddClient (177.75.155.16)
+09:23:50 [Obj][15000] AddAccount (1)
+09:23:53 [Obj][15000] LogInCharacter (Polidoro)
+09:24:09 [Obj][15000] LogOutCharacter (Polidoro)
+09:24:09 [Obj][15000] LogOutCharacter ()
+09:24:09 [Obj][15000] DelAccount (1)
+09:24:09 [Obj][15000] DelClient (177.75.155.16)
+09:26:49 [ServerInfo] CashShop loaded successfully
+09:26:50 [ServerInfo] ChaosMix loaded successfully
+09:26:50 [ServerInfo] Character loaded successfully
+09:26:50 [FakeOnline] Load Data OK
+09:26:50 [ServerInfo] Custom loaded successfully
+09:26:50 [ServerInfo] Command loaded successfully
+09:26:50 [ServerInfo] Common loaded successfully
+09:26:50 [ Crywolf ] State (0) -> NONE
+09:26:50 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:26:50 [ServerInfo] Event loaded successfully
+09:26:50 [ServerInfo] EventItemBag loaded successfully
+09:26:50 [ServerInfo] Hack loaded successfully
+09:26:50 [ServerInfo] Item loaded successfully
+09:26:50 [ServerInfo] Monster loaded successfully
+09:26:50 [ServerInfo] Move loaded successfully
+09:26:50 [ServerInfo] Quest loaded successfully
+09:26:50 [ServerInfo] Shop loaded successfully
+09:26:50 [ServerInfo] Skill loaded successfully
+09:26:50 [ServerInfo] Util loaded successfully
+09:26:50 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:26:50 [ReadBotInfo] BotSystem loaded successfully
+09:26:50 [Swamp Event] GROUP:1 set to 12 minutes
+09:26:50 [Swamp Event] GROUP:2 set to 10 minutes
+09:26:50 [Swamp Event] GROUP:3 set to 4 minutes
+09:26:50 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:26:50 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:26:50 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:26:50 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:26:50 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:26:50 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:26:50 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:26:50 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:26:50 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:26:50 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:26:50 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:26:50 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:26:50 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:26:50 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:26:50 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:26:50 [ServerInfo] SkyEvent Event loaded successfully
+09:26:50 [Swamp Event] Sync Start Time. [483] min remain
+09:26:50 [Swamp Event] SetState EMPTY
+09:26:50 [SkyEvent] Sync Start Time. [453] min remain
+09:26:50 [SkyEvent] SetState_EMPTY
+09:26:52 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:26:59 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:27:13 [Obj][15000] AddClient (177.75.155.16)
+09:27:14 [Obj][15000] AddAccount (1)
+09:27:17 [Obj][15000] LogInCharacter (Polidoro)
+09:27:23 [Obj][15000] LogOutCharacter (Polidoro)
+09:27:23 [Obj][15000] LogOutCharacter ()
+09:27:23 [Obj][15000] DelAccount (1)
+09:27:23 [Obj][15000] DelClient (177.75.155.16)
+09:28:07 [ServerInfo] Util loaded successfully
+09:28:17 [Obj][15000] AddClient (177.75.155.16)
+09:28:17 [Obj][15000] AddAccount (1)
+09:28:17 [Obj][15000] LogInCharacter (Polidoro)
+09:28:27 [Obj][15000] LogOutCharacter (Polidoro)
+09:28:27 [Obj][15000] LogOutCharacter ()
+09:28:27 [Obj][15000] DelAccount (1)
+09:28:27 [Obj][15000] DelClient (177.75.155.16)
+09:30:01 [ServerInfo] CashShop loaded successfully
+09:30:01 [ServerInfo] ChaosMix loaded successfully
+09:30:01 [ServerInfo] Character loaded successfully
+09:30:01 [FakeOnline] Load Data OK
+09:30:01 [ServerInfo] Custom loaded successfully
+09:30:01 [ServerInfo] Command loaded successfully
+09:30:01 [ServerInfo] Common loaded successfully
+09:30:01 [ Crywolf ] State (0) -> NONE
+09:30:01 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:30:01 [ServerInfo] Event loaded successfully
+09:30:01 [ServerInfo] EventItemBag loaded successfully
+09:30:01 [ServerInfo] Hack loaded successfully
+09:30:01 [ServerInfo] Item loaded successfully
+09:30:01 [ServerInfo] Monster loaded successfully
+09:30:01 [ServerInfo] Move loaded successfully
+09:30:01 [ServerInfo] Quest loaded successfully
+09:30:01 [ServerInfo] Shop loaded successfully
+09:30:01 [ServerInfo] Skill loaded successfully
+09:30:01 [ServerInfo] Util loaded successfully
+09:30:01 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:30:01 [ReadBotInfo] BotSystem loaded successfully
+09:30:01 [Swamp Event] GROUP:1 set to 12 minutes
+09:30:01 [Swamp Event] GROUP:2 set to 10 minutes
+09:30:01 [Swamp Event] GROUP:3 set to 4 minutes
+09:30:01 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:30:01 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:30:01 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:30:01 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:30:01 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:30:01 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:30:01 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:30:01 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:30:01 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:30:01 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:30:01 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:30:01 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:30:01 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:30:01 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:30:01 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:30:01 [ServerInfo] SkyEvent Event loaded successfully
+09:30:02 [Swamp Event] Sync Start Time. [479] min remain
+09:30:02 [Swamp Event] SetState EMPTY
+09:30:02 [SkyEvent] Sync Start Time. [449] min remain
+09:30:02 [SkyEvent] SetState_EMPTY
+09:30:03 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:30:08 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:30:54 [ServerInfo] CashShop loaded successfully
+09:30:54 [ServerInfo] ChaosMix loaded successfully
+09:30:55 [ServerInfo] Character loaded successfully
+09:30:55 [FakeOnline] Load Data OK
+09:30:55 [ServerInfo] Custom loaded successfully
+09:30:55 [ServerInfo] Command loaded successfully
+09:30:55 [ServerInfo] Common loaded successfully
+09:30:55 [ Crywolf ] State (0) -> NONE
+09:30:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:30:55 [ServerInfo] Event loaded successfully
+09:30:55 [ServerInfo] EventItemBag loaded successfully
+09:30:55 [ServerInfo] Hack loaded successfully
+09:30:55 [ServerInfo] Item loaded successfully
+09:30:55 [ServerInfo] Monster loaded successfully
+09:30:55 [ServerInfo] Move loaded successfully
+09:30:55 [ServerInfo] Quest loaded successfully
+09:30:55 [ServerInfo] Shop loaded successfully
+09:30:55 [ServerInfo] Skill loaded successfully
+09:30:55 [ServerInfo] Util loaded successfully
+09:30:55 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:30:55 [ReadBotInfo] BotSystem loaded successfully
+09:30:55 [Swamp Event] GROUP:1 set to 12 minutes
+09:30:55 [Swamp Event] GROUP:2 set to 10 minutes
+09:30:55 [Swamp Event] GROUP:3 set to 4 minutes
+09:30:55 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:30:55 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:30:55 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:30:55 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:30:55 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:30:55 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:30:55 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:30:55 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:30:55 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:30:55 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:30:55 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:30:55 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:30:55 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:30:55 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:30:55 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:30:55 [ServerInfo] SkyEvent Event loaded successfully
+09:30:56 [Swamp Event] Sync Start Time. [479] min remain
+09:30:56 [Swamp Event] SetState EMPTY
+09:30:56 [SkyEvent] Sync Start Time. [449] min remain
+09:30:56 [SkyEvent] SetState_EMPTY
+09:31:34 [ServerInfo] CashShop loaded successfully
+09:31:34 [ServerInfo] ChaosMix loaded successfully
+09:31:34 [ServerInfo] Character loaded successfully
+09:31:34 [FakeOnline] Load Data OK
+09:31:34 [ServerInfo] Custom loaded successfully
+09:31:34 [ServerInfo] Command loaded successfully
+09:31:34 [ServerInfo] Common loaded successfully
+09:31:34 [ Crywolf ] State (0) -> NONE
+09:31:34 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:31:34 [ServerInfo] Event loaded successfully
+09:31:34 [ServerInfo] EventItemBag loaded successfully
+09:31:34 [ServerInfo] Hack loaded successfully
+09:31:34 [ServerInfo] Item loaded successfully
+09:31:34 [ServerInfo] Monster loaded successfully
+09:31:34 [ServerInfo] Move loaded successfully
+09:31:34 [ServerInfo] Quest loaded successfully
+09:31:34 [ServerInfo] Shop loaded successfully
+09:31:34 [ServerInfo] Skill loaded successfully
+09:31:34 [ServerInfo] Util loaded successfully
+09:31:34 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:31:34 [ReadBotInfo] BotSystem loaded successfully
+09:31:34 [Swamp Event] GROUP:1 set to 12 minutes
+09:31:34 [Swamp Event] GROUP:2 set to 10 minutes
+09:31:34 [Swamp Event] GROUP:3 set to 4 minutes
+09:31:34 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:31:34 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:31:34 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:31:34 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:31:34 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:31:34 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:31:34 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:31:34 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:31:34 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:31:34 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:31:34 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:31:34 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:31:34 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:31:34 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:31:34 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:31:34 [ServerInfo] SkyEvent Event loaded successfully
+09:31:35 [Swamp Event] Sync Start Time. [478] min remain
+09:31:35 [Swamp Event] SetState EMPTY
+09:31:35 [SkyEvent] Sync Start Time. [448] min remain
+09:31:35 [SkyEvent] SetState_EMPTY
+09:31:36 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:31:41 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:32:21 [ServerInfo] CashShop loaded successfully
+09:32:22 [ServerInfo] ChaosMix loaded successfully
+09:32:22 [ServerInfo] Character loaded successfully
+09:32:22 [FakeOnline] Load Data OK
+09:32:22 [ServerInfo] Custom loaded successfully
+09:32:22 [ServerInfo] Command loaded successfully
+09:32:22 [ServerInfo] Common loaded successfully
+09:32:22 [ Crywolf ] State (0) -> NONE
+09:32:22 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:32:22 [ServerInfo] Event loaded successfully
+09:32:22 [ServerInfo] EventItemBag loaded successfully
+09:32:22 [ServerInfo] Hack loaded successfully
+09:32:22 [ServerInfo] Item loaded successfully
+09:32:22 [ServerInfo] Monster loaded successfully
+09:32:22 [ServerInfo] Move loaded successfully
+09:32:22 [ServerInfo] Quest loaded successfully
+09:32:22 [ServerInfo] Shop loaded successfully
+09:32:22 [ServerInfo] Skill loaded successfully
+09:32:22 [ServerInfo] Util loaded successfully
+09:32:22 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:32:22 [ReadBotInfo] BotSystem loaded successfully
+09:32:22 [Swamp Event] GROUP:1 set to 12 minutes
+09:32:22 [Swamp Event] GROUP:2 set to 10 minutes
+09:32:22 [Swamp Event] GROUP:3 set to 4 minutes
+09:32:22 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:32:22 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:32:22 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:32:22 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:32:22 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:32:22 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:32:22 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:32:22 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:32:22 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:32:22 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:32:22 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:32:22 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:32:22 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:32:22 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:32:22 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:32:22 [ServerInfo] SkyEvent Event loaded successfully
+09:32:23 [Swamp Event] Sync Start Time. [477] min remain
+09:32:23 [Swamp Event] SetState EMPTY
+09:32:23 [SkyEvent] Sync Start Time. [447] min remain
+09:32:23 [SkyEvent] SetState_EMPTY
+09:32:24 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:32:32 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:32:46 [Obj][15000] AddClient (177.75.155.16)
+09:32:48 [Obj][15000] AddAccount (1)
+09:32:51 [Obj][15000] LogInCharacter (Polidoro)
+09:33:12 [Obj][15000] LogOutCharacter (Polidoro)
+09:33:12 [Obj][15000] LogOutCharacter ()
+09:33:12 [Obj][15000] DelAccount (1)
+09:33:12 [Obj][15000] DelClient (177.75.155.16)
+09:34:29 [ServerInfo] CashShop loaded successfully
+09:34:29 [ServerInfo] ChaosMix loaded successfully
+09:34:29 [ServerInfo] Character loaded successfully
+09:34:29 [FakeOnline] Load Data OK
+09:34:29 [ServerInfo] Custom loaded successfully
+09:34:29 [ServerInfo] Command loaded successfully
+09:34:29 [ServerInfo] Common loaded successfully
+09:34:29 [ Crywolf ] State (0) -> NONE
+09:34:29 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:34:29 [ServerInfo] Event loaded successfully
+09:34:29 [ServerInfo] EventItemBag loaded successfully
+09:34:29 [ServerInfo] Hack loaded successfully
+09:34:29 [ServerInfo] Item loaded successfully
+09:34:29 [ServerInfo] Monster loaded successfully
+09:34:29 [ServerInfo] Move loaded successfully
+09:34:29 [ServerInfo] Quest loaded successfully
+09:34:29 [ServerInfo] Shop loaded successfully
+09:34:29 [ServerInfo] Skill loaded successfully
+09:34:29 [ServerInfo] Util loaded successfully
+09:34:29 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:34:29 [ReadBotInfo] BotSystem loaded successfully
+09:34:29 [Swamp Event] GROUP:1 set to 12 minutes
+09:34:29 [Swamp Event] GROUP:2 set to 10 minutes
+09:34:29 [Swamp Event] GROUP:3 set to 4 minutes
+09:34:29 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:34:29 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:34:29 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:34:29 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:34:29 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:34:29 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:34:29 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:34:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:34:29 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:34:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:34:29 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:34:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:34:29 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:34:29 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:34:29 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:34:29 [ServerInfo] SkyEvent Event loaded successfully
+09:34:30 [Swamp Event] Sync Start Time. [475] min remain
+09:34:30 [Swamp Event] SetState EMPTY
+09:34:30 [SkyEvent] Sync Start Time. [445] min remain
+09:34:30 [SkyEvent] SetState_EMPTY
+09:34:31 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:34:37 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:34:54 [Obj][15000] AddClient (177.75.155.16)
+09:35:04 [Obj][15000] AddAccount (1)
+09:35:04 [Obj][15000] LogInCharacter (Polidoro)
+09:35:12 [Obj][15000] LogOutCharacter (Polidoro)
+09:35:12 [Obj][15000] LogOutCharacter ()
+09:35:13 [Obj][15000] DelAccount (1)
+09:35:13 [Obj][15000] DelClient (177.75.155.16)
+09:35:13 [Obj][15001] AddClient (177.75.155.16)
+09:35:13 [Obj][15001] AddAccount (1)
+09:35:13 [Obj][15001] LogInCharacter (Polidoro)
+09:35:51 [ServerInfo] CashShop loaded successfully
+09:35:51 [ServerInfo] ChaosMix loaded successfully
+09:35:51 [ServerInfo] Character loaded successfully
+09:35:51 [FakeOnline] Load Data OK
+09:35:51 [ServerInfo] Custom loaded successfully
+09:35:51 [ServerInfo] Command loaded successfully
+09:35:51 [ServerInfo] Common loaded successfully
+09:35:52 [ Crywolf ] State (0) -> NONE
+09:35:52 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:35:52 [ServerInfo] Event loaded successfully
+09:35:52 [ServerInfo] EventItemBag loaded successfully
+09:35:52 [ServerInfo] Hack loaded successfully
+09:35:52 [ServerInfo] Item loaded successfully
+09:35:53 [ServerInfo] Monster loaded successfully
+09:35:53 [ServerInfo] Move loaded successfully
+09:35:53 [ServerInfo] Quest loaded successfully
+09:35:53 [ServerInfo] Shop loaded successfully
+09:35:53 [ServerInfo] Skill loaded successfully
+09:35:53 [ServerInfo] Util loaded successfully
+09:35:53 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:35:53 [ReadBotInfo] BotSystem loaded successfully
+09:35:53 [Swamp Event] GROUP:1 set to 12 minutes
+09:35:53 [Swamp Event] GROUP:2 set to 10 minutes
+09:35:53 [Swamp Event] GROUP:3 set to 4 minutes
+09:35:53 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:35:53 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:35:53 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:35:53 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:35:53 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:35:53 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:35:53 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:35:53 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:35:53 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:35:53 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:35:53 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:35:53 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:35:53 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:35:53 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:35:53 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:35:53 [ServerInfo] SkyEvent Event loaded successfully
+09:35:55 [Swamp Event] Sync Start Time. [474] min remain
+09:35:55 [Swamp Event] SetState EMPTY
+09:35:55 [SkyEvent] Sync Start Time. [444] min remain
+09:35:55 [SkyEvent] SetState_EMPTY
+09:35:56 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:35:57 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:36:01 [OnlineLoterry] No Winner
+09:39:01 [ServerInfo] CashShop loaded successfully
+09:39:01 [ServerInfo] ChaosMix loaded successfully
+09:39:02 [ServerInfo] Character loaded successfully
+09:39:02 [FakeOnline] Load Data OK
+09:39:02 [ServerInfo] Custom loaded successfully
+09:39:02 [ServerInfo] Command loaded successfully
+09:39:02 [ServerInfo] Common loaded successfully
+09:39:02 [ Crywolf ] State (0) -> NONE
+09:39:02 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:39:02 [ServerInfo] Event loaded successfully
+09:39:02 [ServerInfo] EventItemBag loaded successfully
+09:39:02 [ServerInfo] Hack loaded successfully
+09:39:02 [ServerInfo] Item loaded successfully
+09:39:02 [ServerInfo] Monster loaded successfully
+09:39:02 [ServerInfo] Move loaded successfully
+09:39:02 [ServerInfo] Quest loaded successfully
+09:39:02 [ServerInfo] Shop loaded successfully
+09:39:02 [ServerInfo] Skill loaded successfully
+09:39:02 [ServerInfo] Util loaded successfully
+09:39:02 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:39:02 [ReadBotInfo] BotSystem loaded successfully
+09:39:02 [Swamp Event] GROUP:1 set to 12 minutes
+09:39:02 [Swamp Event] GROUP:2 set to 10 minutes
+09:39:02 [Swamp Event] GROUP:3 set to 4 minutes
+09:39:02 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:39:02 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:39:02 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:39:02 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:39:02 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:39:02 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:39:02 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:39:02 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:39:02 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:39:02 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:39:02 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:39:02 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:39:02 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:39:02 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:39:02 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:39:02 [ServerInfo] SkyEvent Event loaded successfully
+09:39:03 [Swamp Event] Sync Start Time. [470] min remain
+09:39:03 [Swamp Event] SetState EMPTY
+09:39:03 [SkyEvent] Sync Start Time. [440] min remain
+09:39:03 [SkyEvent] SetState_EMPTY
+09:39:04 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:39:11 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:40:29 [Obj][15000] AddClient (177.75.155.16)
+09:40:30 [Obj][15000] AddAccount (1)
+09:40:33 [Obj][15000] LogInCharacter (Polidoro)
+09:40:48 [Obj][15000] LogOutCharacter (Polidoro)
+09:40:48 [Obj][15000] LogOutCharacter ()
+09:40:48 [Obj][15000] DelAccount (1)
+09:40:48 [Obj][15000] DelClient (177.75.155.16)
+09:42:26 [ServerInfo] CashShop loaded successfully
+09:42:26 [ServerInfo] ChaosMix loaded successfully
+09:42:26 [ServerInfo] Character loaded successfully
+09:42:26 [FakeOnline] Load Data OK
+09:42:26 [ServerInfo] Custom loaded successfully
+09:42:26 [ServerInfo] Command loaded successfully
+09:42:26 [ServerInfo] Common loaded successfully
+09:42:26 [ Crywolf ] State (0) -> NONE
+09:42:26 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:42:26 [ServerInfo] Event loaded successfully
+09:42:26 [ServerInfo] EventItemBag loaded successfully
+09:42:26 [ServerInfo] Hack loaded successfully
+09:42:26 [ServerInfo] Item loaded successfully
+09:42:26 [ServerInfo] Monster loaded successfully
+09:42:26 [ServerInfo] Move loaded successfully
+09:42:26 [ServerInfo] Quest loaded successfully
+09:42:26 [ServerInfo] Shop loaded successfully
+09:42:26 [ServerInfo] Skill loaded successfully
+09:42:26 [ServerInfo] Util loaded successfully
+09:42:26 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:42:26 [ReadBotInfo] BotSystem loaded successfully
+09:42:26 [Swamp Event] GROUP:1 set to 12 minutes
+09:42:26 [Swamp Event] GROUP:2 set to 10 minutes
+09:42:26 [Swamp Event] GROUP:3 set to 4 minutes
+09:42:26 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:42:26 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:42:26 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:42:26 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:42:26 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:42:26 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:42:26 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:42:26 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:42:26 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:42:26 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:42:26 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:42:26 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:42:26 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:42:26 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:42:26 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:42:26 [ServerInfo] SkyEvent Event loaded successfully
+09:42:27 [Swamp Event] Sync Start Time. [467] min remain
+09:42:27 [Swamp Event] SetState EMPTY
+09:42:27 [SkyEvent] Sync Start Time. [437] min remain
+09:42:27 [SkyEvent] SetState_EMPTY
+09:42:28 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:42:35 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:42:40 [Obj][15000] AddClient (177.75.155.16)
+09:42:42 [Obj][15000] AddAccount (1)
+09:42:45 [Obj][15000] LogInCharacter (Polidoro)
+09:42:53 [Obj][15000] LogOutCharacter (Polidoro)
+09:42:53 [Obj][15000] LogOutCharacter ()
+09:42:54 [Obj][15000] DelAccount (1)
+09:42:54 [Obj][15000] DelClient (177.75.155.16)
+09:43:00 [CTC] Bat Dau Event Cong Thanh
+09:43:48 [Obj][15000] AddClient (177.75.155.16)
+09:43:48 [Obj][15000] AddAccount (1)
+09:43:48 [Obj][15000] LogInCharacter (Polidoro)
+09:45:21 [ServerInfo] CashShop loaded successfully
+09:45:21 [ServerInfo] ChaosMix loaded successfully
+09:45:21 [ServerInfo] Character loaded successfully
+09:45:21 [FakeOnline] Load Data OK
+09:45:21 [ServerInfo] Custom loaded successfully
+09:45:21 [ServerInfo] Command loaded successfully
+09:45:21 [ServerInfo] Common loaded successfully
+09:45:21 [ Crywolf ] State (0) -> NONE
+09:45:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:45:21 [ServerInfo] Event loaded successfully
+09:45:21 [ServerInfo] EventItemBag loaded successfully
+09:45:21 [ServerInfo] Hack loaded successfully
+09:45:21 [ServerInfo] Item loaded successfully
+09:45:21 [ServerInfo] Monster loaded successfully
+09:45:21 [ServerInfo] Move loaded successfully
+09:45:21 [ServerInfo] Quest loaded successfully
+09:45:21 [ServerInfo] Shop loaded successfully
+09:45:21 [ServerInfo] Skill loaded successfully
+09:45:21 [ServerInfo] Util loaded successfully
+09:45:21 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:45:21 [ReadBotInfo] BotSystem loaded successfully
+09:45:21 [Swamp Event] GROUP:1 set to 12 minutes
+09:45:21 [Swamp Event] GROUP:2 set to 10 minutes
+09:45:21 [Swamp Event] GROUP:3 set to 4 minutes
+09:45:21 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+09:45:21 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+09:45:21 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+09:45:21 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+09:45:21 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+09:45:21 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+09:45:21 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+09:45:21 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:45:21 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+09:45:21 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:45:21 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+09:45:21 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:45:21 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+09:45:21 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+09:45:21 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:45:21 [ServerInfo] SkyEvent Event loaded successfully
+09:45:22 [Swamp Event] Sync Start Time. [464] min remain
+09:45:22 [Swamp Event] SetState EMPTY
+09:45:22 [SkyEvent] Sync Start Time. [434] min remain
+09:45:22 [SkyEvent] SetState_EMPTY
+09:45:23 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:45:25 [Obj][15000] AddClient (177.75.155.16)
+09:45:30 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:45:35 [Obj][15000] AddAccount (1)
+09:45:35 [Obj][15000] LogInCharacter (Polidoro)
+09:48:14 [Obj][15000] LogOutCharacter (Polidoro)
+09:48:14 [Obj][15000] LogOutCharacter ()
+09:48:20 [Obj][15000] LogInCharacter (Relax)
+09:48:37 [Obj][15000] LogOutCharacter (Relax)
+09:48:37 [Obj][15000] LogOutCharacter ()
+09:48:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:48:44 [Obj][15000] LogInCharacter (Polidoro)
+09:49:16 [Obj][15000] LogOutCharacter (Polidoro)
+09:49:16 [Obj][15000] LogOutCharacter ()
+09:49:16 [Obj][15000] DelAccount (1)
+09:49:16 [Obj][15000] DelClient (177.75.155.16)
+09:50:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:50:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:55:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:55:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:55:25 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:00:26 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:00:26 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:01:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:03:41 [ServerInfo] CashShop loaded successfully
+10:03:41 [ServerInfo] ChaosMix loaded successfully
+10:03:41 [ServerInfo] Character loaded successfully
+10:03:41 [FakeOnline] Load Data OK
+10:03:41 [ServerInfo] Custom loaded successfully
+10:03:41 [ServerInfo] Command loaded successfully
+10:03:41 [ServerInfo] Common loaded successfully
+10:03:41 [ Crywolf ] State (0) -> NONE
+10:03:41 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:03:41 [ServerInfo] Event loaded successfully
+10:03:41 [ServerInfo] EventItemBag loaded successfully
+10:03:41 [ServerInfo] Hack loaded successfully
+10:03:41 [ServerInfo] Item loaded successfully
+10:03:42 [ServerInfo] Monster loaded successfully
+10:03:42 [ServerInfo] Move loaded successfully
+10:03:42 [ServerInfo] Quest loaded successfully
+10:03:42 [ServerInfo] Shop loaded successfully
+10:03:42 [ServerInfo] Skill loaded successfully
+10:03:42 [ServerInfo] Util loaded successfully
+10:03:42 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:03:42 [ReadBotInfo] BotSystem loaded successfully
+10:03:42 [Swamp Event] GROUP:1 set to 12 minutes
+10:03:42 [Swamp Event] GROUP:2 set to 10 minutes
+10:03:42 [Swamp Event] GROUP:3 set to 4 minutes
+10:03:42 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+10:03:42 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+10:03:42 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+10:03:42 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+10:03:42 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+10:03:42 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+10:03:42 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+10:03:42 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:03:42 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+10:03:42 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:03:42 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+10:03:42 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:03:42 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+10:03:42 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+10:03:42 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+10:03:42 [ServerInfo] SkyEvent Event loaded successfully
+10:03:43 [Swamp Event] Sync Start Time. [446] min remain
+10:03:43 [Swamp Event] SetState EMPTY
+10:03:43 [SkyEvent] Sync Start Time. [416] min remain
+10:03:43 [SkyEvent] SetState_EMPTY
+10:03:44 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:03:51 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:04:05 [Obj][15000] AddClient (177.75.155.16)
+10:04:06 [Obj][15000] AddAccount (1)
+10:04:09 [Obj][15000] LogInCharacter (Polidoro)
+10:06:12 [ServerInfo] CashShop loaded successfully
+10:06:12 [ServerInfo] ChaosMix loaded successfully
+10:06:12 [ServerInfo] Character loaded successfully
+10:06:12 [FakeOnline] Load Data OK
+10:06:12 [ServerInfo] Custom loaded successfully
+10:06:12 [ServerInfo] Command loaded successfully
+10:06:12 [ServerInfo] Common loaded successfully
+10:06:12 [ Crywolf ] State (0) -> NONE
+10:06:12 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:06:12 [ServerInfo] Event loaded successfully
+10:06:12 [ServerInfo] EventItemBag loaded successfully
+10:06:12 [ServerInfo] Hack loaded successfully
+10:06:12 [ServerInfo] Item loaded successfully
+10:06:12 [ServerInfo] Monster loaded successfully
+10:06:12 [ServerInfo] Move loaded successfully
+10:06:12 [ServerInfo] Quest loaded successfully
+10:06:12 [ServerInfo] Shop loaded successfully
+10:06:13 [ServerInfo] Skill loaded successfully
+10:06:13 [ServerInfo] Util loaded successfully
+10:06:13 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:06:13 [ReadBotInfo] BotSystem loaded successfully
+10:06:13 [Swamp Event] GROUP:1 set to 12 minutes
+10:06:13 [Swamp Event] GROUP:2 set to 10 minutes
+10:06:13 [Swamp Event] GROUP:3 set to 4 minutes
+10:06:13 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+10:06:13 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+10:06:13 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+10:06:13 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+10:06:13 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+10:06:13 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+10:06:13 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+10:06:13 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:06:13 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+10:06:13 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:06:13 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+10:06:13 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:06:13 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+10:06:13 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+10:06:13 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+10:06:13 [ServerInfo] SkyEvent Event loaded successfully
+10:06:13 [Swamp Event] Sync Start Time. [443] min remain
+10:06:13 [Swamp Event] SetState EMPTY
+10:06:13 [SkyEvent] Sync Start Time. [413] min remain
+10:06:13 [SkyEvent] SetState_EMPTY
+10:06:14 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:06:20 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:06:35 [Obj][15000] AddClient (177.75.155.16)
+10:06:37 [Obj][15000] DelClient (177.75.155.16)
+10:06:55 [Obj][15000] AddClient (177.75.155.16)
+10:06:56 [Obj][15000] AddAccount (1)
+10:06:56 [Obj][15000] LogInCharacter (Polidoro)
+10:07:44 [ServerInfo] CashShop loaded successfully
+10:07:44 [ServerInfo] ChaosMix loaded successfully
+10:07:44 [ServerInfo] Character loaded successfully
+10:07:44 [FakeOnline] Load Data OK
+10:07:44 [ServerInfo] Custom loaded successfully
+10:07:44 [ServerInfo] Command loaded successfully
+10:07:45 [ServerInfo] Common loaded successfully
+10:07:45 [ Crywolf ] State (0) -> NONE
+10:07:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:07:45 [ServerInfo] Event loaded successfully
+10:07:45 [ServerInfo] EventItemBag loaded successfully
+10:07:45 [ServerInfo] Hack loaded successfully
+10:07:45 [ServerInfo] Item loaded successfully
+10:07:45 [ServerInfo] Monster loaded successfully
+10:07:45 [ServerInfo] Move loaded successfully
+10:07:45 [ServerInfo] Quest loaded successfully
+10:07:45 [ServerInfo] Shop loaded successfully
+10:07:45 [ServerInfo] Skill loaded successfully
+10:07:45 [ServerInfo] Util loaded successfully
+10:07:45 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:07:45 [ReadBotInfo] BotSystem loaded successfully
+10:07:45 [Swamp Event] GROUP:1 set to 12 minutes
+10:07:45 [Swamp Event] GROUP:2 set to 10 minutes
+10:07:45 [Swamp Event] GROUP:3 set to 4 minutes
+10:07:45 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+10:07:45 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+10:07:45 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+10:07:45 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+10:07:45 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+10:07:45 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+10:07:45 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+10:07:45 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:07:45 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+10:07:45 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:07:45 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+10:07:45 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:07:45 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+10:07:45 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+10:07:45 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+10:07:45 [ServerInfo] SkyEvent Event loaded successfully
+10:07:46 [Swamp Event] Sync Start Time. [442] min remain
+10:07:46 [Swamp Event] SetState EMPTY
+10:07:46 [SkyEvent] Sync Start Time. [412] min remain
+10:07:46 [SkyEvent] SetState_EMPTY
+10:07:47 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:07:53 [Obj][15000] AddClient (177.75.155.16)
+10:07:54 [Obj][15000] AddAccount (1)
+10:07:55 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:07:57 [Obj][15000] LogInCharacter (Polidoro)
+10:08:14 [Obj][15000] LogOutCharacter (Polidoro)
+10:08:14 [Obj][15000] LogOutCharacter ()
+10:08:14 [Obj][15000] DelAccount (1)
+10:08:14 [Obj][15000] DelClient (177.75.155.16)
+10:09:17 [ServerInfo] CashShop loaded successfully
+10:09:17 [ServerInfo] ChaosMix loaded successfully
+10:09:17 [ServerInfo] Character loaded successfully
+10:09:17 [FakeOnline] Load Data OK
+10:09:17 [ServerInfo] Custom loaded successfully
+10:09:17 [ServerInfo] Command loaded successfully
+10:09:17 [ServerInfo] Common loaded successfully
+10:09:17 [ Crywolf ] State (0) -> NONE
+10:09:17 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:09:17 [ServerInfo] Event loaded successfully
+10:09:17 [ServerInfo] EventItemBag loaded successfully
+10:09:17 [ServerInfo] Hack loaded successfully
+10:09:17 [ServerInfo] Item loaded successfully
+10:09:17 [ServerInfo] Monster loaded successfully
+10:09:17 [ServerInfo] Move loaded successfully
+10:09:17 [ServerInfo] Quest loaded successfully
+10:09:17 [ServerInfo] Shop loaded successfully
+10:09:17 [ServerInfo] Skill loaded successfully
+10:09:17 [ServerInfo] Util loaded successfully
+10:09:17 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:09:17 [ReadBotInfo] BotSystem loaded successfully
+10:09:17 [Swamp Event] GROUP:1 set to 12 minutes
+10:09:17 [Swamp Event] GROUP:2 set to 10 minutes
+10:09:17 [Swamp Event] GROUP:3 set to 4 minutes
+10:09:17 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+10:09:17 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+10:09:17 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+10:09:17 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+10:09:17 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+10:09:17 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+10:09:17 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+10:09:17 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:09:17 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+10:09:17 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:09:17 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+10:09:17 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:09:17 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+10:09:17 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+10:09:17 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+10:09:17 [ServerInfo] SkyEvent Event loaded successfully
+10:09:18 [Swamp Event] Sync Start Time. [440] min remain
+10:09:18 [Swamp Event] SetState EMPTY
+10:09:18 [SkyEvent] Sync Start Time. [410] min remain
+10:09:18 [SkyEvent] SetState_EMPTY
+10:09:19 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:09:25 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:10:00 [CustomQuiz] Start
+10:10:10 [Obj][15000] AddClient (177.75.155.16)
+10:10:11 [Obj][15000] AddAccount (1)
+10:10:13 [Obj][15000] LogInCharacter (Polidoro)
+10:11:18 [Obj][15000] LogOutCharacter (Polidoro)
+10:11:18 [Obj][15000] LogOutCharacter ()
+10:11:20 [Obj][15000] LogOutCharacter (Revolts)
+10:11:20 [Obj][15000] LogOutCharacter ()
+10:11:21 [Obj][15000] DelAccount (1)
+10:11:21 [Obj][15000] DelClient (177.75.155.16)
+10:11:29 [Obj][15001] AddClient (177.75.155.16)
+10:11:30 [Obj][15001] AddAccount (1)
+10:11:30 [Obj][15001] LogInCharacter (Revolts)
+10:12:05 [Obj][15001] LogOutCharacter (Revolts)
+10:12:05 [Obj][15001] LogOutCharacter ()
+10:12:15 [Sky Event] will close after 5 minute(s)
+10:12:22 [Obj][15001] LogInCharacter (Polidoro)
+10:12:35 [SkyEvent] Level 1
+10:12:35 [SkyEvent] Level 2
+10:12:35 [SkyEvent] Level 3
+10:12:35 [SkyEvent] [Level 4] - TotalUser 1
+10:12:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:13:00 [CustomQuiz] Finish
+10:13:03 [Obj][15001] LogOutCharacter (Polidoro)
+10:13:03 [Obj][15001] LogOutCharacter ()
+10:13:03 [Obj][15001] DelAccount (1)
+10:13:03 [Obj][15001] DelClient (177.75.155.16)
+10:13:15 [Sky Event] will close after 4 minute(s)
+10:14:15 [Sky Event] will close after 3 minute(s)
+10:14:20 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:14:20 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:15:15 [Sky Event] will close after 2 minute(s)
+10:15:20 [Obj][15000] AddClient (177.75.155.16)
+10:15:26 [Obj][15000] AddAccount (1)
+10:15:30 [Obj][15000] LogInCharacter (Polidoro)
+10:15:55 [SkyEvent] Level 1
+10:15:55 [SkyEvent] Level 2
+10:15:55 [SkyEvent] Level 3
+10:15:55 [SkyEvent] [Level 4] - TotalUser 2
+10:16:15 [Sky Event] will close after 1 minute(s)
+10:16:17 [Obj][15000] LogOutCharacter (Polidoro)
+10:16:17 [Obj][15000] LogOutCharacter ()
+10:16:17 [Obj][15000] DelAccount (1)
+10:16:17 [Obj][15000] DelClient (177.75.155.16)
+10:18:03 [ServerInfo] CashShop loaded successfully
+10:18:03 [ServerInfo] ChaosMix loaded successfully
+10:18:03 [ServerInfo] Character loaded successfully
+10:18:03 [FakeOnline] Load Data OK
+10:18:03 [ServerInfo] Custom loaded successfully
+10:18:03 [ServerInfo] Command loaded successfully
+10:18:04 [ServerInfo] Common loaded successfully
+10:18:04 [ Crywolf ] State (0) -> NONE
+10:18:04 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:18:04 [ServerInfo] Event loaded successfully
+10:18:04 [ServerInfo] EventItemBag loaded successfully
+10:18:04 [ServerInfo] Hack loaded successfully
+10:18:04 [ServerInfo] Item loaded successfully
+10:18:04 [ServerInfo] Monster loaded successfully
+10:18:04 [ServerInfo] Move loaded successfully
+10:18:04 [ServerInfo] Quest loaded successfully
+10:18:04 [ServerInfo] Shop loaded successfully
+10:18:04 [ServerInfo] Skill loaded successfully
+10:18:04 [ServerInfo] Util loaded successfully
+10:18:04 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:18:04 [ReadBotInfo] BotSystem loaded successfully
+10:18:04 [Swamp Event] GROUP:1 set to 12 minutes
+10:18:04 [Swamp Event] GROUP:2 set to 10 minutes
+10:18:04 [Swamp Event] GROUP:3 set to 4 minutes
+10:18:04 [Swamp Section: 0] ROOM:1 [Fire Land] has 2 groups
+10:18:04 [Swamp Section: 0] ROOM:2 [Destroyed Castle] has 2 groups
+10:18:04 [Swamp Section: 0] ROOM:3 [Grave Yard] has 2 groups
+10:18:04 [Swamp Section: 0] ROOM:4 [Tree Land] has 3 groups
+10:18:04 [Swamp Section: 1] ROOM:1[1] Monster:557 Count:10
+10:18:04 [Swamp Section: 1] ROOM:2[1] Monster:444 Count:10
+10:18:04 [Swamp Section: 1] ROOM:3[1] Monster:447 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:441 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:442 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:443 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:444 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:445 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:446 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:447 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:448 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[1] Monster:449 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[2] Monster:557 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[2] Monster:558 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[2] Monster:559 Count:10
+10:18:04 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:18:04 [Swamp Section: 1] ROOM:4[3] Monster:557 Count:4
+10:18:04 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:18:04 [Swamp Section: 1] ROOM:4[3] Monster:443 Count:4
+10:18:04 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:18:04 [Swamp Section: 1] ROOM:4[3] Monster:448 Count:4
+10:18:04 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:21 Mobs:165
+10:18:04 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+10:18:04 [ServerInfo] SkyEvent Event loaded successfully
+10:18:05 [Swamp Event] Sync Start Time. [431] min remain
+10:18:05 [Swamp Event] SetState EMPTY
+10:18:05 [SkyEvent] Sync Start Time. [401] min remain
+10:18:05 [SkyEvent] SetState_EMPTY
+10:18:06 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:18:19 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:18:23 [Obj][15000] AddClient (177.75.155.16)
+10:18:24 [Obj][15000] AddAccount (1)
+10:18:27 [Obj][15000] LogInCharacter (Polidoro)
+10:18:56 [Sky Event] will close after 5 minute(s)
+10:18:58 [SkyEvent] Level 1
+10:18:58 [SkyEvent] Level 2
+10:18:58 [SkyEvent] Level 3
+10:18:58 [SkyEvent] [Level 4] - TotalUser 1
+10:19:23 [Obj][15000] LogOutCharacter (Polidoro)
+10:19:23 [Obj][15000] LogOutCharacter ()
+10:19:31 [Obj][15000] LogInCharacter (Revolts)
+10:19:42 [SkyEvent] Level 1
+10:19:42 [SkyEvent] Level 2
+10:19:42 [SkyEvent] Level 3
+10:19:42 [SkyEvent] Level 4
+10:19:42 [SkyEvent] [Level 5] - TotalUser 1
+10:19:56 [Sky Event] will close after 4 minute(s)
+10:20:36 [ServerInfo] CashShop loaded successfully
+10:20:36 [ServerInfo] ChaosMix loaded successfully
+10:20:37 [ServerInfo] Character loaded successfully
+10:20:37 [FakeOnline] Load Data OK
+10:20:37 [ServerInfo] Custom loaded successfully
+10:20:37 [ServerInfo] Command loaded successfully
+10:20:37 [ServerInfo] Common loaded successfully
+10:20:37 [ Crywolf ] State (0) -> NONE
+10:20:37 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:20:37 [ServerInfo] Event loaded successfully
+10:20:37 [Obj][15000] AddClient (177.75.155.16)
+10:20:37 [ServerInfo] EventItemBag loaded successfully
+10:20:37 [ServerInfo] Hack loaded successfully
+10:20:37 [ServerInfo] Item loaded successfully
+10:20:38 [ServerInfo] Monster loaded successfully
+10:20:39 [ServerInfo] Move loaded successfully
+10:20:39 [ServerInfo] Quest loaded successfully
+10:20:39 [ServerInfo] Shop loaded successfully
+10:20:39 [ServerInfo] Skill loaded successfully
+10:20:39 [ServerInfo] Util loaded successfully
+10:20:39 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:20:39 [ReadBotInfo] BotSystem loaded successfully
+10:20:39 [Swamp Event] GROUP:1 set to 10 minutes
+10:20:39 [Swamp Event] GROUP:2 set to 10 minutes
+10:20:39 [Swamp Event] GROUP:3 set to 10 minutes
+10:20:39 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+10:20:39 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+10:20:39 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+10:20:39 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+10:20:39 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+10:20:39 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+10:20:39 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:20:39 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+10:20:39 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+10:20:39 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+10:20:39 [ServerInfo] SkyEvent Event loaded successfully
+10:20:43 [Swamp Event] Sync Start Time. [444] min remain
+10:20:43 [Swamp Event] SetState EMPTY
+10:20:43 [SkyEvent] Sync Start Time. [879] min remain
+10:20:43 [SkyEvent] SetState_EMPTY
+10:20:44 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:20:56 [Obj][15000] AddAccount (1)
+10:21:03 [Obj][15000] LogInCharacter (Revolts)
+10:21:03 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:21:08 [Sky Event] will close after 5 minute(s)
+10:21:34 [SkyEvent] Level 1
+10:21:34 [SkyEvent] Level 2
+10:21:34 [SkyEvent] Level 3
+10:21:34 [SkyEvent] Level 4
+10:21:34 [SkyEvent] [Level 5] - TotalUser 1
+10:22:17 [ServerInfo] CashShop loaded successfully
+10:22:17 [ServerInfo] ChaosMix loaded successfully
+10:22:17 [ServerInfo] Character loaded successfully
+10:22:17 [FakeOnline] Load Data OK
+10:22:17 [ServerInfo] Custom loaded successfully
+10:22:17 [ServerInfo] Command loaded successfully
+10:22:17 [ServerInfo] Common loaded successfully
+10:22:17 [ Crywolf ] State (0) -> NONE
+10:22:17 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:22:17 [ServerInfo] Event loaded successfully
+10:22:17 [ServerInfo] EventItemBag loaded successfully
+10:22:17 [ServerInfo] Hack loaded successfully
+10:22:18 [ServerInfo] Item loaded successfully
+10:22:18 [ServerInfo] Monster loaded successfully
+10:22:18 [ServerInfo] Move loaded successfully
+10:22:18 [ServerInfo] Quest loaded successfully
+10:22:18 [ServerInfo] Shop loaded successfully
+10:22:18 [ServerInfo] Skill loaded successfully
+10:22:18 [ServerInfo] Util loaded successfully
+10:22:18 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:22:18 [ReadBotInfo] BotSystem loaded successfully
+10:22:18 [Swamp Event] GROUP:1 set to 10 minutes
+10:22:18 [Swamp Event] GROUP:2 set to 10 minutes
+10:22:18 [Swamp Event] GROUP:3 set to 10 minutes
+10:22:18 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+10:22:18 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+10:22:18 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+10:22:18 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+10:22:18 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+10:22:18 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+10:22:18 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:22:18 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+10:22:18 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+10:22:18 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+10:22:18 [ServerInfo] SkyEvent Event loaded successfully
+10:22:18 [Swamp Event] Sync Start Time. [442] min remain
+10:22:18 [Swamp Event] SetState EMPTY
+10:22:18 [SkyEvent] Sync Start Time. [877] min remain
+10:22:18 [SkyEvent] SetState_EMPTY
+10:22:20 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:22:24 [Obj][15000] AddClient (177.75.155.16)
+10:22:25 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:22:34 [Obj][15000] AddAccount (1)
+10:22:34 [Sky Event] will close after 5 minute(s)
+10:22:34 [Obj][15000] LogInCharacter (Revolts)
+10:22:50 [SkyEvent] Level 1
+10:22:50 [SkyEvent] Level 2
+10:22:50 [SkyEvent] Level 3
+10:22:50 [SkyEvent] Level 4
+10:22:50 [SkyEvent] [Level 5] - TotalUser 1
+10:23:01 [Obj][15000] LogOutCharacter (Revolts)
+10:23:01 [Obj][15000] LogOutCharacter ()
+10:23:01 [Obj][15000] DelAccount (1)
+10:23:01 [Obj][15000] DelClient (177.75.155.16)
+10:24:02 [ServerInfo] CashShop loaded successfully
+10:24:02 [ServerInfo] ChaosMix loaded successfully
+10:24:02 [ServerInfo] Character loaded successfully
+10:24:02 [FakeOnline] Load Data OK
+10:24:02 [ServerInfo] Custom loaded successfully
+10:24:02 [ServerInfo] Command loaded successfully
+10:24:02 [ServerInfo] Common loaded successfully
+10:24:02 [ Crywolf ] State (0) -> NONE
+10:24:02 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:24:02 [ServerInfo] Event loaded successfully
+10:24:02 [ServerInfo] EventItemBag loaded successfully
+10:24:02 [ServerInfo] Hack loaded successfully
+10:24:02 [ServerInfo] Item loaded successfully
+10:24:02 [ServerInfo] Monster loaded successfully
+10:24:02 [ServerInfo] Move loaded successfully
+10:24:02 [ServerInfo] Quest loaded successfully
+10:24:02 [ServerInfo] Shop loaded successfully
+10:24:02 [ServerInfo] Skill loaded successfully
+10:24:02 [ServerInfo] Util loaded successfully
+10:24:02 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:24:02 [ReadBotInfo] BotSystem loaded successfully
+10:24:02 [Swamp Event] GROUP:1 set to 10 minutes
+10:24:02 [Swamp Event] GROUP:2 set to 10 minutes
+10:24:02 [Swamp Event] GROUP:3 set to 10 minutes
+10:24:02 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+10:24:02 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+10:24:02 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+10:24:02 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+10:24:02 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+10:24:02 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+10:24:02 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+10:24:02 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+10:24:02 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+10:24:02 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+10:24:02 [ServerInfo] SkyEvent Event loaded successfully
+10:24:03 [Swamp Event] Sync Start Time. [440] min remain
+10:24:03 [Swamp Event] SetState EMPTY
+10:24:03 [SkyEvent] Sync Start Time. [875] min remain
+10:24:03 [SkyEvent] SetState_EMPTY
+10:24:04 [01:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:24:16 [Obj][15000] AddClient (177.75.155.16)
+10:24:21 [Obj][15000] AddAccount (1)
+10:24:28 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:24:31 [Obj][15000] LogInCharacter (Revolts)
+10:24:49 [Sky Event] will close after 5 minute(s)
+10:25:23 [Obj][15000] LogOutCharacter (Revolts)
+10:25:23 [Obj][15000] LogOutCharacter ()
+10:25:29 [Obj][15000] LogInCharacter (Polidoro)
+10:25:49 [Sky Event] will close after 4 minute(s)
+10:26:04 [SkyEvent] Level 1
+10:26:04 [SkyEvent] Level 2
+10:26:04 [SkyEvent] Level 3
+10:26:04 [SkyEvent] [Level 4] - TotalUser 1
+10:26:49 [Sky Event] will close after 3 minute(s)
+10:27:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:27:49 [Sky Event] will close after 2 minute(s)
+10:28:49 [Sky Event] will close after 1 minute(s)
+10:29:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:29:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:29:49 [Sky Event] Event entrance is closed!
+10:32:49 [Sky Event] Event End
+10:33:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:34:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:34:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:36:01 [OnlineLoterry] No Winner
+10:38:21 [Obj][15000] LogOutCharacter (Polidoro)
+10:38:21 [Obj][15000] LogOutCharacter ()
+10:38:21 [Obj][15000] DelAccount (1)
+10:38:21 [Obj][15000] DelClient (177.75.155.16)
+10:39:08 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:39:08 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:40:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:43:00 [CTC] Bat Dau Event Cong Thanh
+10:44:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:44:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:46:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:47:41 [Obj][15000] AddClient (177.75.155.16)
+10:47:42 [Obj][15000] AddAccount (1)
+10:47:49 [Obj][15000] LogInCharacter (Polidoro)
+10:48:00 [CTC] Finish 2
+10:49:10 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:49:10 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 196 Y: 83)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 196 Y: 83)
+10:52:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:54:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:54:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:59:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:59:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:59:12 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:04:13 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:04:13 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:05:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:09:14 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:09:14 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:10:00 [CustomQuiz] Start
+11:11:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:13:00 [CustomQuiz] Finish
+11:14:15 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:14:15 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:17:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:19:16 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:19:16 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:24:17 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:24:17 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:24:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:29:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:29:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:30:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:34:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:34:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:36:01 [OnlineLoterry] No Winner
+11:36:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:39:20 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:39:20 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:43:00 [CTC] Bat Dau Event Cong Thanh
+11:43:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:44:21 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:44:21 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:48:00 [CTC] Finish 2
+11:49:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:49:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:49:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:54:23 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:54:23 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:55:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:59:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:59:24 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:02:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:04:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:04:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 196 Y: 75)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 196 Y: 75)
+12:08:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:09:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:09:26 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:10:00 [CustomQuiz] Start
+12:13:00 [CustomQuiz] Finish
+12:14:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:14:27 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:14:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 13 Y: 87)
+12:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 13 Y: 87)
+12:19:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:19:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:21:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:24:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:24:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 146 Y: 107)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 146 Y: 107)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 34 Y: 209)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 34 Y: 209)
+12:27:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:29:31 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:29:31 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:33:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:34:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:34:34 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:36:02 [OnlineLoterry] No Winner
+12:39:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:39:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:40:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:43:00 [CTC] Bat Dau Event Cong Thanh
+12:44:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:44:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:46:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:48:00 [CTC] Finish 2
+12:49:37 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:49:37 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 163 Y: 14)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 163 Y: 14)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 166 Y: 15)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 166 Y: 15)
+12:51:20 [Obj][15000] LogOutCharacter (Polidoro)
+12:51:20 [Obj][15000] LogOutCharacter ()
+12:51:20 [Obj][15000] DelAccount (1)
+12:51:20 [Obj][15000] DelClient (177.75.155.16)
+12:52:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:54:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:54:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:59:35 [ServerInfo] CashShop loaded successfully
+12:59:35 [ServerInfo] ChaosMix loaded successfully
+12:59:35 [ServerInfo] Character loaded successfully
+12:59:35 [FakeOnline] Load Data OK
+12:59:35 [ServerInfo] Custom loaded successfully
+12:59:35 [ServerInfo] Command loaded successfully
+12:59:35 [ServerInfo] Common loaded successfully
+12:59:35 [ Crywolf ] State (0) -> NONE
+12:59:35 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:59:35 [ServerInfo] Event loaded successfully
+12:59:35 [ServerInfo] EventItemBag loaded successfully
+12:59:35 [ServerInfo] Hack loaded successfully
+12:59:35 [ServerInfo] Item loaded successfully
+12:59:35 [ServerInfo] Monster loaded successfully
+12:59:35 [ServerInfo] Move loaded successfully
+12:59:35 [ServerInfo] Quest loaded successfully
+12:59:35 [ServerInfo] Shop loaded successfully
+12:59:35 [ServerInfo] Skill loaded successfully
+12:59:35 [ServerInfo] Util loaded successfully
+12:59:35 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+12:59:35 [ReadBotInfo] BotSystem loaded successfully
+12:59:35 [Swamp Event] GROUP:1 set to 10 minutes
+12:59:35 [Swamp Event] GROUP:2 set to 10 minutes
+12:59:35 [Swamp Event] GROUP:3 set to 10 minutes
+12:59:35 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+12:59:35 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+12:59:35 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+12:59:35 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+12:59:35 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+12:59:35 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+12:59:35 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+12:59:35 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+12:59:35 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+12:59:35 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+12:59:35 [ServerInfo] SkyEvent Event loaded successfully
+12:59:36 [Swamp Event] Sync Start Time. [285] min remain
+12:59:36 [Swamp Event] SetState EMPTY
+12:59:36 [SkyEvent] Sync Start Time. [720] min remain
+12:59:36 [SkyEvent] SetState_EMPTY
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 56 Y: 107)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 56 Y: 107)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 54 Y: 112)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 54 Y: 112)
+13:22:43 [ServerInfo] CashShop loaded successfully
+13:22:43 [ServerInfo] ChaosMix loaded successfully
+13:22:43 [ServerInfo] Character loaded successfully
+13:22:43 [FakeOnline] Load Data OK
+13:22:43 [ServerInfo] Custom loaded successfully
+13:22:43 [ServerInfo] Command loaded successfully
+13:22:43 [ServerInfo] Common loaded successfully
+13:22:43 [ Crywolf ] State (0) -> NONE
+13:22:43 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:22:43 [ServerInfo] Event loaded successfully
+13:22:43 [ServerInfo] EventItemBag loaded successfully
+13:22:43 [ServerInfo] Hack loaded successfully
+13:22:43 [ServerInfo] Item loaded successfully
+13:22:44 [ServerInfo] Monster loaded successfully
+13:22:44 [ServerInfo] Move loaded successfully
+13:22:44 [ServerInfo] Quest loaded successfully
+13:22:44 [ServerInfo] Shop loaded successfully
+13:22:44 [ServerInfo] Skill loaded successfully
+13:22:44 [ServerInfo] Util loaded successfully
+13:22:44 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+13:22:44 [ReadBotInfo] BotSystem loaded successfully
+13:22:44 [Swamp Event] GROUP:1 set to 10 minutes
+13:22:44 [Swamp Event] GROUP:2 set to 10 minutes
+13:22:44 [Swamp Event] GROUP:3 set to 10 minutes
+13:22:44 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+13:22:44 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+13:22:44 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+13:22:44 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+13:22:44 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+13:22:44 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+13:22:44 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+13:22:44 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+13:22:44 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+13:22:44 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+13:22:44 [ServerInfo] SkyEvent Event loaded successfully
+13:22:44 [Swamp Event] Sync Start Time. [262] min remain
+13:22:44 [Swamp Event] SetState EMPTY
+13:22:44 [SkyEvent] Sync Start Time. [697] min remain
+13:22:44 [SkyEvent] SetState_EMPTY
+13:26:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:27:47 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:27:47 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:32:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:32:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:32:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:36:01 [OnlineLoterry] No Winner
+13:36:34 [ServerInfo] CashShop loaded successfully
+13:36:34 [ServerInfo] ChaosMix loaded successfully
+13:36:34 [ServerInfo] Character loaded successfully
+13:36:34 [FakeOnline] Load Data OK
+13:36:34 [ServerInfo] Custom loaded successfully
+13:36:34 [ServerInfo] Command loaded successfully
+13:36:34 [ServerInfo] Common loaded successfully
+13:36:34 [ Crywolf ] State (0) -> NONE
+13:36:34 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+13:36:34 [ServerInfo] Event loaded successfully
+13:36:34 [ServerInfo] EventItemBag loaded successfully
+13:36:34 [ServerInfo] Hack loaded successfully
+13:36:34 [ServerInfo] Item loaded successfully
+13:36:34 [ServerInfo] Monster loaded successfully
+13:36:34 [ServerInfo] Move loaded successfully
+13:36:34 [ServerInfo] Quest loaded successfully
+13:36:34 [ServerInfo] Shop loaded successfully
+13:36:34 [ServerInfo] Skill loaded successfully
+13:36:34 [ServerInfo] Util loaded successfully
+13:36:34 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+13:36:34 [ReadBotInfo] BotSystem loaded successfully
+13:36:34 [Swamp Event] GROUP:1 set to 10 minutes
+13:36:34 [Swamp Event] GROUP:2 set to 10 minutes
+13:36:34 [Swamp Event] GROUP:3 set to 10 minutes
+13:36:34 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+13:36:34 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+13:36:34 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+13:36:34 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+13:36:34 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+13:36:34 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+13:36:34 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+13:36:34 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+13:36:34 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+13:36:34 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+13:36:34 [ServerInfo] SkyEvent Event loaded successfully
+13:36:35 [Swamp Event] Sync Start Time. [248] min remain
+13:36:35 [Swamp Event] SetState EMPTY
+13:36:35 [SkyEvent] Sync Start Time. [683] min remain
+13:36:35 [SkyEvent] SetState_EMPTY
+13:39:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:41:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:41:37 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:43:00 [CTC] Bat Dau Event Cong Thanh
+13:46:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:46:38 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:46:38 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:48:00 [CTC] Finish 2
+13:51:39 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:51:39 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:52:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:56:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:56:40 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:58:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:01:41 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:01:41 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:05:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:06:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:06:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:10:03 [ServerInfo] CashShop loaded successfully
+14:10:03 [ServerInfo] ChaosMix loaded successfully
+14:10:03 [ServerInfo] Character loaded successfully
+14:10:03 [FakeOnline] Load Data OK
+14:10:03 [ServerInfo] Custom loaded successfully
+14:10:03 [ServerInfo] Command loaded successfully
+14:10:03 [ServerInfo] Common loaded successfully
+14:10:03 [ Crywolf ] State (0) -> NONE
+14:10:03 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:10:03 [ServerInfo] Event loaded successfully
+14:10:03 [ServerInfo] EventItemBag loaded successfully
+14:10:03 [ServerInfo] Hack loaded successfully
+14:10:03 [ServerInfo] Item loaded successfully
+14:10:03 [ServerInfo] Monster loaded successfully
+14:10:03 [ServerInfo] Move loaded successfully
+14:10:03 [ServerInfo] Quest loaded successfully
+14:10:03 [ServerInfo] Shop loaded successfully
+14:10:03 [ServerInfo] Skill loaded successfully
+14:10:03 [ServerInfo] Util loaded successfully
+14:10:03 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+14:10:03 [ReadBotInfo] BotSystem loaded successfully
+14:10:03 [Swamp Event] GROUP:1 set to 10 minutes
+14:10:03 [Swamp Event] GROUP:2 set to 10 minutes
+14:10:03 [Swamp Event] GROUP:3 set to 10 minutes
+14:10:03 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+14:10:03 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+14:10:03 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+14:10:03 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+14:10:03 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+14:10:03 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+14:10:03 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+14:10:03 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+14:10:03 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+14:10:03 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+14:10:03 [ServerInfo] SkyEvent Event loaded successfully
+14:10:04 [Swamp Event] Sync Start Time. [214] min remain
+14:10:04 [Swamp Event] SetState EMPTY
+14:10:04 [SkyEvent] Sync Start Time. [649] min remain
+14:10:04 [SkyEvent] SetState_EMPTY
+14:13:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:15:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:15:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:15:52 [ServerInfo] CashShop loaded successfully
+14:15:52 [ServerInfo] ChaosMix loaded successfully
+14:15:52 [ServerInfo] Character loaded successfully
+14:15:52 [FakeOnline] Load Data OK
+14:15:52 [ServerInfo] Custom loaded successfully
+14:15:52 [ServerInfo] Command loaded successfully
+14:15:53 [ServerInfo] Common loaded successfully
+14:15:53 [ Crywolf ] State (0) -> NONE
+14:15:53 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:15:53 [ServerInfo] Event loaded successfully
+14:15:53 [ServerInfo] EventItemBag loaded successfully
+14:15:53 [ServerInfo] Hack loaded successfully
+14:15:53 [ServerInfo] Item loaded successfully
+14:15:53 [ServerInfo] Monster loaded successfully
+14:15:53 [ServerInfo] Move loaded successfully
+14:15:53 [ServerInfo] Quest loaded successfully
+14:15:53 [ServerInfo] Shop loaded successfully
+14:15:53 [ServerInfo] Skill loaded successfully
+14:15:53 [ServerInfo] Util loaded successfully
+14:15:53 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+14:15:53 [ReadBotInfo] BotSystem loaded successfully
+14:15:53 [Swamp Event] GROUP:1 set to 10 minutes
+14:15:53 [Swamp Event] GROUP:2 set to 10 minutes
+14:15:53 [Swamp Event] GROUP:3 set to 10 minutes
+14:15:53 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+14:15:53 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+14:15:53 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+14:15:53 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+14:15:53 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+14:15:53 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+14:15:53 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+14:15:53 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+14:15:53 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+14:15:53 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+14:15:53 [ServerInfo] SkyEvent Event loaded successfully
+14:15:55 [Swamp Event] Sync Start Time. [209] min remain
+14:15:55 [Swamp Event] SetState EMPTY
+14:15:55 [SkyEvent] Sync Start Time. [644] min remain
+14:15:55 [SkyEvent] SetState_EMPTY
+14:17:41 [ServerInfo] CashShop loaded successfully
+14:17:41 [ServerInfo] ChaosMix loaded successfully
+14:17:41 [ServerInfo] Character loaded successfully
+14:17:42 [FakeOnline] Load Data OK
+14:17:42 [ServerInfo] Custom loaded successfully
+14:17:42 [ServerInfo] Command loaded successfully
+14:17:42 [ServerInfo] Common loaded successfully
+14:17:42 [ Crywolf ] State (0) -> NONE
+14:17:42 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:17:42 [ServerInfo] Event loaded successfully
+14:17:42 [ServerInfo] EventItemBag loaded successfully
+14:17:42 [ServerInfo] Hack loaded successfully
+14:17:42 [ServerInfo] Item loaded successfully
+14:17:42 [ServerInfo] Monster loaded successfully
+14:17:42 [ServerInfo] Move loaded successfully
+14:17:42 [ServerInfo] Quest loaded successfully
+14:17:42 [ServerInfo] Shop loaded successfully
+14:17:42 [ServerInfo] Skill loaded successfully
+14:17:42 [ServerInfo] Util loaded successfully
+14:17:42 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+14:17:42 [ReadBotInfo] BotSystem loaded successfully
+14:17:42 [Swamp Event] GROUP:1 set to 10 minutes
+14:17:42 [Swamp Event] GROUP:2 set to 10 minutes
+14:17:42 [Swamp Event] GROUP:3 set to 10 minutes
+14:17:42 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+14:17:42 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+14:17:42 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+14:17:42 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+14:17:42 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+14:17:42 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+14:17:42 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+14:17:42 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+14:17:42 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+14:17:42 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+14:17:42 [ServerInfo] SkyEvent Event loaded successfully
+14:17:43 [Swamp Event] Sync Start Time. [207] min remain
+14:17:43 [Swamp Event] SetState EMPTY
+14:17:43 [SkyEvent] Sync Start Time. [642] min remain
+14:17:43 [SkyEvent] SetState_EMPTY
+14:17:44 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+14:17:50 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+14:19:17 [Obj][15000] AddClient (177.75.155.16)
+14:19:18 [Obj][15000] AddAccount (1)
+14:19:24 [Obj][15000] LogInCharacter (Polidoro)
+14:19:32 [Obj][15000] LogOutCharacter (Polidoro)
+14:19:32 [Obj][15000] LogOutCharacter ()
+14:19:32 [Obj][15000] DelAccount (1)
+14:19:32 [Obj][15000] DelClient (177.75.155.16)
+14:19:51 [Obj][15000] AddClient (177.75.155.16)
+14:19:51 [Obj][15000] AddAccount (1)
+14:19:51 [Obj][15000] LogInCharacter (Polidoro)
+14:22:54 [ServerInfo] CashShop loaded successfully
+14:22:54 [ServerInfo] ChaosMix loaded successfully
+14:22:54 [ServerInfo] Character loaded successfully
+14:22:55 [FakeOnline] Load Data OK
+14:22:55 [ServerInfo] Custom loaded successfully
+14:22:55 [ServerInfo] Command loaded successfully
+14:22:55 [ServerInfo] Common loaded successfully
+14:22:55 [ Crywolf ] State (0) -> NONE
+14:22:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:22:55 [ServerInfo] Event loaded successfully
+14:22:55 [ServerInfo] EventItemBag loaded successfully
+14:22:55 [ServerInfo] Hack loaded successfully
+14:22:55 [ServerInfo] Item loaded successfully
+14:22:55 [ServerInfo] Monster loaded successfully
+14:22:55 [ServerInfo] Move loaded successfully
+14:22:55 [ServerInfo] Quest loaded successfully
+14:22:55 [ServerInfo] Shop loaded successfully
+14:22:55 [ServerInfo] Skill loaded successfully
+14:22:55 [ServerInfo] Util loaded successfully
+14:22:55 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+14:22:55 [ReadBotInfo] BotSystem loaded successfully
+14:22:55 [Swamp Event] GROUP:1 set to 10 minutes
+14:22:55 [Swamp Event] GROUP:2 set to 10 minutes
+14:22:55 [Swamp Event] GROUP:3 set to 10 minutes
+14:22:55 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+14:22:55 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+14:22:55 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+14:22:55 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+14:22:55 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+14:22:55 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+14:22:55 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+14:22:55 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+14:22:55 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+14:22:55 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+14:22:55 [ServerInfo] SkyEvent Event loaded successfully
+14:22:56 [Swamp Event] Sync Start Time. [202] min remain
+14:22:56 [Swamp Event] SetState EMPTY
+14:22:56 [SkyEvent] Sync Start Time. [637] min remain
+14:22:56 [SkyEvent] SetState_EMPTY
+14:22:57 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+14:23:02 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+14:23:49 [Obj][15000] AddClient (177.75.155.16)
+14:23:51 [Obj][15000] AddAccount (1)
+14:23:55 [Obj][15000] LogInCharacter (Polidoro)
+14:24:16 [Set Invasion Start] Index 15 At 14:26:00
+14:26:00 [Invasion Manager] Index(15) Boss Position (Map: 0 X: 143 Y: 66)
+14:26:00 [Invasion Manager] Index(15) Boss Position (Map: 0 X: 143 Y: 66)
+14:26:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:26:26 [Sky Event] will close after 5 minute(s)
+14:26:39 [SkyEvent] Level 1
+14:26:39 [SkyEvent] Level 2
+14:26:39 [SkyEvent] Level 3
+14:26:39 [SkyEvent] [Level 4] - TotalUser 1
+14:27:03 [Obj][15000] LogOutCharacter (Polidoro)
+14:27:03 [Obj][15000] LogOutCharacter ()
+14:27:03 [Obj][15000] DelAccount (1)
+14:27:03 [Obj][15000] DelClient (177.75.155.16)
+14:27:26 [Sky Event] will close after 4 minute(s)
+14:27:57 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:27:57 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:28:26 [Sky Event] will close after 3 minute(s)
+14:29:57 [ServerInfo] CashShop loaded successfully
+14:29:57 [ServerInfo] ChaosMix loaded successfully
+14:29:57 [ServerInfo] Character loaded successfully
+14:29:57 [FakeOnline] Load Data OK
+14:29:57 [ServerInfo] Custom loaded successfully
+14:29:57 [ServerInfo] Command loaded successfully
+14:29:57 [ServerInfo] Common loaded successfully
+14:29:57 [ Crywolf ] State (0) -> NONE
+14:29:57 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:29:57 [ServerInfo] Event loaded successfully
+14:29:57 [ServerInfo] EventItemBag loaded successfully
+14:29:57 [ServerInfo] Hack loaded successfully
+14:29:57 [ServerInfo] Item loaded successfully
+14:29:57 [ServerInfo] Monster loaded successfully
+14:29:57 [ServerInfo] Move loaded successfully
+14:29:57 [ServerInfo] Quest loaded successfully
+14:29:57 [ServerInfo] Shop loaded successfully
+14:29:57 [ServerInfo] Skill loaded successfully
+14:29:57 [ServerInfo] Util loaded successfully
+14:29:57 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+14:29:57 [ReadBotInfo] BotSystem loaded successfully
+14:29:57 [Swamp Event] GROUP:1 set to 10 minutes
+14:29:57 [Swamp Event] GROUP:2 set to 10 minutes
+14:29:57 [Swamp Event] GROUP:3 set to 10 minutes
+14:29:57 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+14:29:57 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+14:29:57 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+14:29:57 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+14:29:57 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+14:29:57 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+14:29:57 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+14:29:57 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+14:29:57 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+14:29:57 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+14:29:57 [ServerInfo] SkyEvent Event loaded successfully
+14:29:58 [Swamp Event] Sync Start Time. [195] min remain
+14:29:58 [Swamp Event] SetState EMPTY
+14:29:58 [SkyEvent] Sync Start Time. [630] min remain
+14:29:58 [SkyEvent] SetState_EMPTY
+14:29:59 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+14:30:05 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+14:31:29 [Obj][15000] AddClient (177.75.155.16)
+14:31:31 [Obj][15000] DelClient (177.75.155.16)
+14:33:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:34:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:34:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:04:32 [ServerInfo] CashShop loaded successfully
+15:04:33 [ServerInfo] ChaosMix loaded successfully
+15:04:33 [ServerInfo] Character loaded successfully
+15:04:33 [FakeOnline] Load Data OK
+15:04:33 [ServerInfo] Custom loaded successfully
+15:04:33 [ServerInfo] Command loaded successfully
+15:04:33 [ServerInfo] Common loaded successfully
+15:04:33 [ Crywolf ] State (0) -> NONE
+15:04:33 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:04:33 [ServerInfo] Event loaded successfully
+15:04:33 [ServerInfo] EventItemBag loaded successfully
+15:04:33 [ServerInfo] Hack loaded successfully
+15:04:33 [ServerInfo] Item loaded successfully
+15:04:33 [ServerInfo] Monster loaded successfully
+15:04:33 [ServerInfo] Move loaded successfully
+15:04:33 [ServerInfo] Quest loaded successfully
+15:04:33 [ServerInfo] Shop loaded successfully
+15:04:33 [ServerInfo] Skill loaded successfully
+15:04:33 [ServerInfo] Util loaded successfully
+15:04:33 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:04:33 [ReadBotInfo] BotSystem loaded successfully
+15:04:33 [Swamp Event] GROUP:1 set to 10 minutes
+15:04:33 [Swamp Event] GROUP:2 set to 10 minutes
+15:04:33 [Swamp Event] GROUP:3 set to 10 minutes
+15:04:33 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:04:33 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:04:33 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:04:33 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:04:33 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:04:33 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:04:33 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:04:33 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:04:33 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:04:33 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:04:33 [ServerInfo] SkyEvent Event loaded successfully
+15:04:35 [Swamp Event] Sync Start Time. [160] min remain
+15:04:35 [Swamp Event] SetState EMPTY
+15:04:35 [SkyEvent] Sync Start Time. [595] min remain
+15:04:35 [SkyEvent] SetState_EMPTY
+15:07:45 [ServerInfo] CashShop loaded successfully
+15:07:45 [ServerInfo] ChaosMix loaded successfully
+15:07:45 [ServerInfo] Character loaded successfully
+15:07:45 [FakeOnline] Load Data OK
+15:07:45 [ServerInfo] Custom loaded successfully
+15:07:45 [ServerInfo] Command loaded successfully
+15:07:45 [ServerInfo] Common loaded successfully
+15:07:45 [ Crywolf ] State (0) -> NONE
+15:07:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:07:46 [ServerInfo] Event loaded successfully
+15:07:46 [ServerInfo] EventItemBag loaded successfully
+15:07:46 [ServerInfo] Hack loaded successfully
+15:07:46 [ServerInfo] Item loaded successfully
+15:07:46 [ServerInfo] Monster loaded successfully
+15:07:46 [ServerInfo] Move loaded successfully
+15:07:46 [ServerInfo] Quest loaded successfully
+15:07:46 [ServerInfo] Shop loaded successfully
+15:07:46 [ServerInfo] Skill loaded successfully
+15:07:46 [ServerInfo] Util loaded successfully
+15:07:46 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:07:46 [ReadBotInfo] BotSystem loaded successfully
+15:07:46 [Swamp Event] GROUP:1 set to 10 minutes
+15:07:46 [Swamp Event] GROUP:2 set to 10 minutes
+15:07:46 [Swamp Event] GROUP:3 set to 10 minutes
+15:07:46 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:07:46 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:07:46 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:07:46 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:07:46 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:07:46 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:07:46 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:07:46 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:07:46 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:07:46 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:07:46 [ServerInfo] SkyEvent Event loaded successfully
+15:07:48 [Swamp Event] Sync Start Time. [157] min remain
+15:07:48 [Swamp Event] SetState EMPTY
+15:07:48 [SkyEvent] Sync Start Time. [592] min remain
+15:07:48 [SkyEvent] SetState_EMPTY
+15:10:00 [CustomQuiz] Start
+15:11:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:12:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:12:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:13:00 [CustomQuiz] Finish
+15:17:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:17:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:17:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:20:24 [ServerInfo] CashShop loaded successfully
+15:20:24 [ServerInfo] ChaosMix loaded successfully
+15:20:24 [ServerInfo] Character loaded successfully
+15:20:24 [FakeOnline] Load Data OK
+15:20:24 [ServerInfo] Custom loaded successfully
+15:20:24 [ServerInfo] Command loaded successfully
+15:20:24 [ServerInfo] Common loaded successfully
+15:20:24 [ Crywolf ] State (0) -> NONE
+15:20:24 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:20:24 [ServerInfo] Event loaded successfully
+15:20:25 [ServerInfo] EventItemBag loaded successfully
+15:20:25 [ServerInfo] Hack loaded successfully
+15:20:25 [ServerInfo] Item loaded successfully
+15:20:25 [ServerInfo] Monster loaded successfully
+15:20:25 [ServerInfo] Move loaded successfully
+15:20:25 [ServerInfo] Quest loaded successfully
+15:20:25 [ServerInfo] Shop loaded successfully
+15:20:25 [ServerInfo] Skill loaded successfully
+15:20:25 [ServerInfo] Util loaded successfully
+15:20:25 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:20:25 [ReadBotInfo] BotSystem loaded successfully
+15:20:25 [Swamp Event] GROUP:1 set to 10 minutes
+15:20:25 [Swamp Event] GROUP:2 set to 10 minutes
+15:20:25 [Swamp Event] GROUP:3 set to 10 minutes
+15:20:25 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:20:25 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:20:25 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:20:25 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:20:25 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:20:25 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:20:25 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:20:25 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:20:25 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:20:25 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:20:25 [ServerInfo] SkyEvent Event loaded successfully
+15:20:26 [Swamp Event] Sync Start Time. [144] min remain
+15:20:26 [Swamp Event] SetState EMPTY
+15:20:26 [SkyEvent] Sync Start Time. [579] min remain
+15:20:26 [SkyEvent] SetState_EMPTY
+15:23:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:25:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:25:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:26:02 [ServerInfo] CashShop loaded successfully
+15:26:02 [ServerInfo] ChaosMix loaded successfully
+15:26:02 [ServerInfo] Character loaded successfully
+15:26:02 [FakeOnline] Load Data OK
+15:26:02 [ServerInfo] Custom loaded successfully
+15:26:02 [ServerInfo] Command loaded successfully
+15:26:03 [ServerInfo] Common loaded successfully
+15:26:03 [ Crywolf ] State (0) -> NONE
+15:26:03 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:26:03 [ServerInfo] Event loaded successfully
+15:26:03 [ServerInfo] EventItemBag loaded successfully
+15:26:03 [ServerInfo] Hack loaded successfully
+15:26:03 [ServerInfo] Item loaded successfully
+15:26:03 [ServerInfo] Monster loaded successfully
+15:26:03 [ServerInfo] Move loaded successfully
+15:26:03 [ServerInfo] Quest loaded successfully
+15:26:03 [ServerInfo] Shop loaded successfully
+15:26:03 [ServerInfo] Skill loaded successfully
+15:26:03 [ServerInfo] Util loaded successfully
+15:26:03 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:26:03 [ReadBotInfo] BotSystem loaded successfully
+15:26:03 [Swamp Event] GROUP:1 set to 10 minutes
+15:26:03 [Swamp Event] GROUP:2 set to 10 minutes
+15:26:03 [Swamp Event] GROUP:3 set to 10 minutes
+15:26:03 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:26:03 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:26:03 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:26:03 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:26:03 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:26:03 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:26:03 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:26:03 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:26:03 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:26:03 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:26:03 [ServerInfo] SkyEvent Event loaded successfully
+15:26:04 [Swamp Event] Sync Start Time. [138] min remain
+15:26:04 [Swamp Event] SetState EMPTY
+15:26:04 [SkyEvent] Sync Start Time. [573] min remain
+15:26:04 [SkyEvent] SetState_EMPTY
+15:27:27 [ServerInfo] CashShop loaded successfully
+15:27:27 [ServerInfo] ChaosMix loaded successfully
+15:27:27 [ServerInfo] Character loaded successfully
+15:27:27 [FakeOnline] Load Data OK
+15:27:27 [ServerInfo] Custom loaded successfully
+15:27:27 [ServerInfo] Command loaded successfully
+15:27:27 [ServerInfo] Common loaded successfully
+15:27:27 [ Crywolf ] State (0) -> NONE
+15:27:27 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:27:27 [ServerInfo] Event loaded successfully
+15:27:27 [ServerInfo] EventItemBag loaded successfully
+15:27:27 [ServerInfo] Hack loaded successfully
+15:27:27 [ServerInfo] Item loaded successfully
+15:27:27 [ServerInfo] Monster loaded successfully
+15:27:27 [ServerInfo] Move loaded successfully
+15:27:27 [ServerInfo] Quest loaded successfully
+15:27:27 [ServerInfo] Shop loaded successfully
+15:27:27 [ServerInfo] Skill loaded successfully
+15:27:27 [ServerInfo] Util loaded successfully
+15:27:27 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:27:27 [ReadBotInfo] BotSystem loaded successfully
+15:27:27 [Swamp Event] GROUP:1 set to 10 minutes
+15:27:27 [Swamp Event] GROUP:2 set to 10 minutes
+15:27:27 [Swamp Event] GROUP:3 set to 10 minutes
+15:27:27 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:27:27 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:27:27 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:27:27 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:27:27 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:27:27 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:27:27 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:27:27 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:27:27 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:27:27 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:27:27 [ServerInfo] SkyEvent Event loaded successfully
+15:27:28 [Swamp Event] Sync Start Time. [137] min remain
+15:27:28 [Swamp Event] SetState EMPTY
+15:27:28 [SkyEvent] Sync Start Time. [572] min remain
+15:27:28 [SkyEvent] SetState_EMPTY
+15:27:29 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:27:36 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+15:28:56 [Obj][15000] AddClient (177.75.155.16)
+15:28:58 [Obj][15000] AddAccount (1)
+15:29:03 [Obj][15000] LogInCharacter (Polidoro)
+15:29:14 [Sky Event] will close after 5 minute(s)
+15:29:36 [SkyEvent] Level 1
+15:29:36 [SkyEvent] Level 2
+15:29:36 [SkyEvent] Level 3
+15:29:36 [SkyEvent] [Level 4] - TotalUser 1
+15:29:43 [Obj][15000] LogOutCharacter (Polidoro)
+15:29:43 [Obj][15000] LogOutCharacter ()
+15:29:43 [Obj][15000] DelAccount (1)
+15:29:43 [Obj][15000] DelClient (177.75.155.16)
+15:29:59 [Set Invasion Start] Index 2 At 15:31:00
+15:30:14 [Sky Event] will close after 4 minute(s)
+15:30:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:30:51 [Set DS Start] At 15:32:00
+15:31:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 231 Y: 123)
+15:31:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 231 Y: 123)
+15:31:14 [Sky Event] will close after 3 minute(s)
+15:32:14 [Sky Event] will close after 2 minute(s)
+15:32:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:32:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:33:14 [Sky Event] will close after 1 minute(s)
+15:34:14 [Sky Event] Event entrance is closed!
+15:34:14 [Sky Event] Event End
+15:35:30 [ServerInfo] CashShop loaded successfully
+15:35:30 [ServerInfo] ChaosMix loaded successfully
+15:35:30 [ServerInfo] Character loaded successfully
+15:35:30 [FakeOnline] Load Data OK
+15:35:30 [ServerInfo] Custom loaded successfully
+15:35:30 [ServerInfo] Command loaded successfully
+15:35:30 [ServerInfo] Common loaded successfully
+15:35:30 [ Crywolf ] State (0) -> NONE
+15:35:30 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:35:31 [ServerInfo] Event loaded successfully
+15:35:31 [ServerInfo] EventItemBag loaded successfully
+15:35:31 [ServerInfo] Hack loaded successfully
+15:35:31 [ServerInfo] Item loaded successfully
+15:35:31 [ServerInfo] Monster loaded successfully
+15:35:31 [ServerInfo] Move loaded successfully
+15:35:31 [ServerInfo] Quest loaded successfully
+15:35:31 [ServerInfo] Shop loaded successfully
+15:35:31 [ServerInfo] Skill loaded successfully
+15:35:31 [ServerInfo] Util loaded successfully
+15:35:31 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:35:31 [ReadBotInfo] BotSystem loaded successfully
+15:35:31 [Swamp Event] GROUP:1 set to 10 minutes
+15:35:31 [Swamp Event] GROUP:2 set to 10 minutes
+15:35:31 [Swamp Event] GROUP:3 set to 10 minutes
+15:35:31 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:35:31 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:35:31 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:35:31 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:35:31 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:35:31 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:35:31 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:35:31 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:35:31 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:35:31 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:35:31 [ServerInfo] SkyEvent Event loaded successfully
+15:35:32 [Swamp Event] Sync Start Time. [129] min remain
+15:35:32 [Swamp Event] SetState EMPTY
+15:35:32 [SkyEvent] Sync Start Time. [564] min remain
+15:35:32 [SkyEvent] SetState_EMPTY
+15:36:01 [OnlineLoterry] No Winner
+15:38:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:40:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:40:34 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:42:28 [ServerInfo] CashShop loaded successfully
+15:42:28 [ServerInfo] ChaosMix loaded successfully
+15:42:29 [ServerInfo] Character loaded successfully
+15:42:29 [FakeOnline] Load Data OK
+15:42:29 [ServerInfo] Custom loaded successfully
+15:42:29 [ServerInfo] Command loaded successfully
+15:42:29 [ServerInfo] Common loaded successfully
+15:42:29 [ Crywolf ] State (0) -> NONE
+15:42:29 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:42:29 [ServerInfo] Event loaded successfully
+15:42:29 [ServerInfo] EventItemBag loaded successfully
+15:42:29 [ServerInfo] Hack loaded successfully
+15:42:29 [ServerInfo] Item loaded successfully
+15:42:29 [ServerInfo] Monster loaded successfully
+15:42:29 [ServerInfo] Move loaded successfully
+15:42:29 [ServerInfo] Quest loaded successfully
+15:42:29 [ServerInfo] Shop loaded successfully
+15:42:29 [ServerInfo] Skill loaded successfully
+15:42:29 [ServerInfo] Util loaded successfully
+15:42:29 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:42:29 [ReadBotInfo] BotSystem loaded successfully
+15:42:29 [Swamp Event] GROUP:1 set to 10 minutes
+15:42:29 [Swamp Event] GROUP:2 set to 10 minutes
+15:42:29 [Swamp Event] GROUP:3 set to 10 minutes
+15:42:29 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:42:29 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:42:29 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:42:29 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:42:29 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:42:29 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:42:29 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:42:29 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:42:29 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:42:29 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:42:29 [ServerInfo] SkyEvent Event loaded successfully
+15:42:30 [Swamp Event] Sync Start Time. [122] min remain
+15:42:30 [Swamp Event] SetState EMPTY
+15:42:30 [SkyEvent] Sync Start Time. [557] min remain
+15:42:30 [SkyEvent] SetState_EMPTY
+15:42:39 [Sky Event] will close after 5 minute(s)
+16:13:37 [ServerInfo] CashShop loaded successfully
+16:13:37 [ServerInfo] ChaosMix loaded successfully
+16:13:37 [ServerInfo] Character loaded successfully
+16:13:37 [FakeOnline] Load Data OK
+16:13:37 [ServerInfo] Custom loaded successfully
+16:13:37 [ServerInfo] Command loaded successfully
+16:13:37 [ServerInfo] Common loaded successfully
+16:13:37 [ Crywolf ] State (0) -> NONE
+16:13:37 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+16:13:37 [ServerInfo] Event loaded successfully
+16:13:37 [ServerInfo] EventItemBag loaded successfully
+16:13:37 [ServerInfo] Hack loaded successfully
+16:13:37 [ServerInfo] Item loaded successfully
+16:13:37 [ServerInfo] Monster loaded successfully
+16:13:37 [ServerInfo] Move loaded successfully
+16:13:37 [ServerInfo] Quest loaded successfully
+16:13:37 [ServerInfo] Shop loaded successfully
+16:13:37 [ServerInfo] Skill loaded successfully
+16:13:37 [ServerInfo] Util loaded successfully
+16:13:37 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+16:13:37 [ReadBotInfo] BotSystem loaded successfully
+16:13:37 [Swamp Event] GROUP:1 set to 10 minutes
+16:13:37 [Swamp Event] GROUP:2 set to 10 minutes
+16:13:37 [Swamp Event] GROUP:3 set to 10 minutes
+16:13:37 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+16:13:37 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+16:13:37 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+16:13:37 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+16:13:37 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+16:13:37 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+16:13:37 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+16:13:37 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+16:13:37 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+16:13:37 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+16:13:37 [ServerInfo] SkyEvent Event loaded successfully
+16:13:38 [Swamp Event] Sync Start Time. [91] min remain
+16:13:38 [Swamp Event] SetState EMPTY
+16:13:38 [SkyEvent] Sync Start Time. [526] min remain
+16:13:38 [SkyEvent] SetState_EMPTY
+16:41:56 [ServerInfo] CashShop loaded successfully
+16:41:56 [ServerInfo] ChaosMix loaded successfully
+16:41:56 [ServerInfo] Character loaded successfully
+16:41:56 [FakeOnline] Load Data OK
+16:41:56 [ServerInfo] Custom loaded successfully
+16:41:56 [ServerInfo] Command loaded successfully
+16:41:56 [ServerInfo] Common loaded successfully
+16:41:56 [ Crywolf ] State (0) -> NONE
+16:41:56 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+16:41:56 [ServerInfo] Event loaded successfully
+16:41:56 [ServerInfo] EventItemBag loaded successfully
+16:41:56 [ServerInfo] Hack loaded successfully
+16:41:56 [ServerInfo] Item loaded successfully
+16:41:57 [ServerInfo] Monster loaded successfully
+16:41:57 [ServerInfo] Move loaded successfully
+16:41:57 [ServerInfo] Quest loaded successfully
+16:41:57 [ServerInfo] Shop loaded successfully
+16:41:57 [ServerInfo] Skill loaded successfully
+16:41:57 [ServerInfo] Util loaded successfully
+16:41:57 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+16:41:57 [ReadBotInfo] BotSystem loaded successfully
+16:41:57 [Swamp Event] GROUP:1 set to 10 minutes
+16:41:57 [Swamp Event] GROUP:2 set to 10 minutes
+16:41:57 [Swamp Event] GROUP:3 set to 10 minutes
+16:41:57 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+16:41:57 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+16:41:57 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+16:41:57 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+16:41:57 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+16:41:57 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+16:41:57 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+16:41:57 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+16:41:57 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+16:41:57 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+16:41:57 [ServerInfo] SkyEvent Event loaded successfully
+16:41:59 [Swamp Event] Sync Start Time. [63] min remain
+16:41:59 [Swamp Event] SetState EMPTY
+16:41:59 [SkyEvent] Sync Start Time. [498] min remain
+16:41:59 [SkyEvent] SetState_EMPTY
+16:42:01 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+16:42:06 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+16:43:00 [CTC] Bat Dau Event Cong Thanh
+16:43:57 [Obj][15000] AddClient (177.75.155.16)
+16:44:00 [Obj][15000] AddAccount (admin)
+16:44:08 [Obj][15000] LogInCharacter (Admin)
+16:45:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:45:45 [Obj][15000] LogOutCharacter (Admin)
+16:45:45 [Obj][15000] LogOutCharacter ()
+16:45:45 [Obj][15000] DelAccount (admin)
+16:45:45 [Obj][15000] DelClient (177.75.155.16)
+16:47:00 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:47:00 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:48:00 [CTC] Finish 2
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 164 Y: 19)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 164 Y: 19)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 166 Y: 14)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 166 Y: 14)
+16:51:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:52:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:52:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:52:23 [ServerInfo] Monster loaded successfully
+16:53:45 [Obj][15000] AddClient (177.75.155.16)
+16:53:47 [Obj][15000] AddAccount (admin)
+16:53:51 [Obj][15000] LogInCharacter (Admin)
+16:54:55 [Obj][15000] LogOutCharacter (Admin)
+16:54:55 [Obj][15000] LogOutCharacter ()
+16:54:55 [Obj][15000] DelAccount (admin)
+16:54:55 [Obj][15000] DelClient (177.75.155.16)
+16:55:57 [ServerInfo] Monster loaded successfully
+16:56:46 [Obj][15000] AddClient (177.75.155.16)
+16:56:50 [Obj][15000] AddAccount (admin)
+16:56:58 [Obj][15000] LogInCharacter (Admin)
+16:57:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:57:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:57:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 156 Y: 17)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 156 Y: 17)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 151 Y: 13)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 151 Y: 13)
+17:00:24 [Obj][15000] LogOutCharacter (Admin)
+17:00:24 [Obj][15000] LogOutCharacter ()
+17:00:24 [Obj][15000] DelAccount (admin)
+17:00:24 [Obj][15000] DelClient (177.75.155.16)
+17:01:03 [ServerInfo] Monster loaded successfully
+17:02:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:02:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:02:12 [Obj][15000] AddClient (177.75.155.16)
+17:02:14 [Obj][15000] AddAccount (admin)
+17:02:19 [Obj][15000] LogInCharacter (Admin)
+17:04:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:05:36 [Obj][15000] LogOutCharacter (Admin)
+17:05:36 [Obj][15000] LogOutCharacter ()
+17:05:36 [Obj][15000] DelAccount (admin)
+17:05:36 [Obj][15000] DelClient (177.75.155.16)
+17:07:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:07:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:10:00 [CustomQuiz] Start
+17:10:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:12:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:12:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:13:00 [CustomQuiz] Finish
+17:16:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:17:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:17:07 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:22:08 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:22:08 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:23:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:25:42 [ServerInfo] CashShop loaded successfully
+17:25:42 [ServerInfo] ChaosMix loaded successfully
+17:25:42 [ServerInfo] Character loaded successfully
+17:25:43 [FakeOnline] Load Data OK
+17:25:43 [ServerInfo] Custom loaded successfully
+17:25:43 [ServerInfo] Command loaded successfully
+17:25:43 [ServerInfo] Common loaded successfully
+17:25:43 [ Crywolf ] State (0) -> NONE
+17:25:43 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+17:25:43 [ServerInfo] Event loaded successfully
+17:25:43 [ServerInfo] EventItemBag loaded successfully
+17:25:43 [ServerInfo] Hack loaded successfully
+17:25:43 [ServerInfo] Item loaded successfully
+17:25:43 [ServerInfo] Monster loaded successfully
+17:25:43 [ServerInfo] Move loaded successfully
+17:25:43 [ServerInfo] Quest loaded successfully
+17:25:43 [ServerInfo] Shop loaded successfully
+17:25:43 [ServerInfo] Skill loaded successfully
+17:25:43 [ServerInfo] Util loaded successfully
+17:25:43 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+17:25:43 [ReadBotInfo] BotSystem loaded successfully
+17:25:43 [Swamp Event] GROUP:1 set to 10 minutes
+17:25:43 [Swamp Event] GROUP:2 set to 10 minutes
+17:25:43 [Swamp Event] GROUP:3 set to 10 minutes
+17:25:43 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+17:25:43 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+17:25:43 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+17:25:43 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+17:25:43 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+17:25:43 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+17:25:43 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+17:25:43 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+17:25:43 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+17:25:43 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+17:25:43 [ServerInfo] SkyEvent Event loaded successfully
+17:25:43 [Swamp Event] Sync Start Time. [19] min remain
+17:25:43 [Swamp Event] SetState EMPTY
+17:25:43 [SkyEvent] Sync Start Time. [454] min remain
+17:25:43 [SkyEvent] SetState_EMPTY
+17:25:45 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+17:25:51 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:29:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:29:30 [Obj][15000] AddClient (177.75.155.16)
+17:29:32 [Obj][15000] AddAccount (admin)
+17:29:40 [Obj][15000] LogInCharacter (Admin)
+17:30:45 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:30:45 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:33:31 [Obj][15000] LogOutCharacter (Admin)
+17:33:31 [Obj][15000] LogOutCharacter ()
+17:33:31 [Obj][15000] DelAccount (admin)
+17:33:31 [Obj][15000] DelClient (177.75.155.16)
+17:35:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:35:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:35:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:36:01 [OnlineLoterry] No Winner
+17:36:19 [Obj][15000] AddClient (177.75.155.16)
+17:36:21 [Obj][15000] AddAccount (admin)
+17:36:30 [Obj][15000] LogInCharacter (Admin)
+17:38:20 [Obj][15000] LogOutCharacter (Admin)
+17:38:20 [Obj][15000] LogOutCharacter ()
+17:38:20 [Obj][15000] DelAccount (admin)
+17:38:20 [Obj][15000] DelClient (177.75.155.16)
+17:39:24 [Obj][15000] AddClient (177.75.155.16)
+17:39:29 [Obj][15000] AddAccount (admin)
+17:39:34 [Obj][15000] LogInCharacter (Admin)
+17:39:48 [Obj][15000] LogOutCharacter (Admin)
+17:39:48 [Obj][15000] LogOutCharacter ()
+17:39:48 [Obj][15000] DelAccount (admin)
+17:39:48 [Obj][15000] DelClient (177.75.155.16)
+17:40:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:40:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:41:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:43:00 [CTC] Bat Dau Event Cong Thanh
+17:45:00 [SwampEvent] PREPARING EVENT
+17:45:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:45:48 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:46:00 [SwampEvent] Started in 5 Minutos
+17:47:00 [SwampEvent] Started in 4 Minutos
+17:48:00 [CTC] Finish 2
+17:48:00 [SwampEvent] Started in 3 Minutos
+17:48:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:48:44 [Obj][15000] AddClient (177.75.155.16)
+17:48:53 [Obj][15000] AddAccount (admin)
+17:48:59 [Obj][15000] LogInCharacter (Admin)
+17:49:00 [SwampEvent] Started in 2 Minutos
+17:49:47 [Obj][15000] LogOutCharacter (Admin)
+17:49:47 [Obj][15000] LogOutCharacter ()
+17:49:47 [Obj][15000] DelAccount (admin)
+17:49:47 [Obj][15000] DelClient (177.75.155.16)
+17:50:00 [SwampEvent] Started in 1 Minutos
+17:50:37 [ServerInfo] CashShop loaded successfully
+17:50:37 [ServerInfo] ChaosMix loaded successfully
+17:50:37 [ServerInfo] Character loaded successfully
+17:50:37 [FakeOnline] Load Data OK
+17:50:37 [ServerInfo] Custom loaded successfully
+17:50:37 [ServerInfo] Command loaded successfully
+17:50:37 [ServerInfo] Common loaded successfully
+17:50:37 [ Crywolf ] State (0) -> NONE
+17:50:37 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+17:50:37 [ServerInfo] Event loaded successfully
+17:50:37 [ServerInfo] EventItemBag loaded successfully
+17:50:37 [ServerInfo] Hack loaded successfully
+17:50:37 [ServerInfo] Item loaded successfully
+17:50:37 [ServerInfo] Monster loaded successfully
+17:50:37 [ServerInfo] Move loaded successfully
+17:50:37 [ServerInfo] Quest loaded successfully
+17:50:37 [ServerInfo] Shop loaded successfully
+17:50:37 [ServerInfo] Skill loaded successfully
+17:50:37 [ServerInfo] Util loaded successfully
+17:50:37 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+17:50:37 [ReadBotInfo] BotSystem loaded successfully
+17:50:37 [Swamp Event] GROUP:1 set to 10 minutes
+17:50:37 [Swamp Event] GROUP:2 set to 10 minutes
+17:50:37 [Swamp Event] GROUP:3 set to 10 minutes
+17:50:37 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+17:50:37 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+17:50:37 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+17:50:37 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+17:50:37 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+17:50:37 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+17:50:37 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+17:50:37 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+17:50:37 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+17:50:37 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+17:50:37 [ServerInfo] SkyEvent Event loaded successfully
+17:50:38 [Swamp Event] Sync Start Time. [1434] min remain
+17:50:38 [Swamp Event] SetState EMPTY
+17:50:38 [SkyEvent] Sync Start Time. [429] min remain
+17:50:38 [SkyEvent] SetState_EMPTY
+17:50:39 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+17:50:45 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:52:03 [Obj][15000] AddClient (177.75.155.16)
+17:52:06 [Obj][15000] AddAccount (admin)
+17:52:10 [Obj][15000] LogInCharacter (Admin)
+17:53:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:54:53 [Obj][15000] LogOutCharacter (Admin)
+17:54:53 [Obj][15000] LogOutCharacter ()
+17:54:53 [Obj][15000] DelAccount (admin)
+17:54:53 [Obj][15000] DelClient (177.75.155.16)
+17:55:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:55:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+17:55:58 [Obj][15000] AddClient (177.75.155.16)
+17:56:28 [Obj][15000] DelClient (177.75.155.16)
+17:56:28 Response error after connection causes conclusion [15000][][][177.75.155.16]
+17:57:31 [Obj][15000] AddClient (177.75.155.16)
+17:57:33 [Obj][15000] AddAccount (admin)
+17:57:49 [Obj][15000] LogInCharacter (Admin)
+17:58:34 [Obj][15000] LogOutCharacter (Admin)
+17:58:34 [Obj][15000] LogOutCharacter ()
+17:58:34 [Obj][15000] DelAccount (admin)
+17:58:34 [Obj][15000] DelClient (177.75.155.16)
+18:00:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:00:40 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:00:40 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:00:41 [Obj][15000] AddClient (177.75.155.16)
+18:00:54 [Obj][15000] AddAccount (admin)
+18:00:59 [Obj][15000] LogInCharacter (Admin)
+18:02:50 [Obj][15000] LogOutCharacter (Admin)
+18:02:50 [Obj][15000] LogOutCharacter ()
+18:02:50 [Obj][15000] DelAccount (admin)
+18:02:50 [Obj][15000] DelClient (177.75.155.16)
+18:05:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:05:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:06:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:10:00 [CustomQuiz] Start
+18:10:42 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:10:42 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:12:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:13:00 [CustomQuiz] Finish
+18:15:43 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:15:43 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:17:28 [Obj][15000] AddClient (177.75.155.16)
+18:17:32 [Obj][15000] AddAccount (admin)
+18:17:36 [Obj][15000] LogInCharacter (Admin)
+18:18:04 [Obj][15000] LogOutCharacter (Admin)
+18:18:04 [Obj][15000] LogOutCharacter ()
+18:18:04 [Obj][15000] DelAccount (admin)
+18:18:04 [Obj][15000] DelClient (177.75.155.16)
+18:18:38 [ServerInfo] CashShop loaded successfully
+18:18:38 [ServerInfo] ChaosMix loaded successfully
+18:18:38 [ServerInfo] Character loaded successfully
+18:18:38 [FakeOnline] Load Data OK
+18:18:38 [ServerInfo] Custom loaded successfully
+18:18:38 [ServerInfo] Command loaded successfully
+18:18:38 [ServerInfo] Common loaded successfully
+18:18:38 [ Crywolf ] State (0) -> NONE
+18:18:38 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+18:18:38 [ServerInfo] Event loaded successfully
+18:18:38 [ServerInfo] EventItemBag loaded successfully
+18:18:38 [ServerInfo] Hack loaded successfully
+18:18:38 [ServerInfo] Item loaded successfully
+18:18:38 [ServerInfo] Monster loaded successfully
+18:18:38 [ServerInfo] Move loaded successfully
+18:18:38 [ServerInfo] Quest loaded successfully
+18:18:38 [ServerInfo] Shop loaded successfully
+18:18:38 [ServerInfo] Skill loaded successfully
+18:18:38 [ServerInfo] Util loaded successfully
+18:18:38 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+18:18:38 [ReadBotInfo] BotSystem loaded successfully
+18:18:38 [Swamp Event] GROUP:1 set to 10 minutes
+18:18:38 [Swamp Event] GROUP:2 set to 10 minutes
+18:18:38 [Swamp Event] GROUP:3 set to 10 minutes
+18:18:38 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+18:18:38 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+18:18:38 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+18:18:38 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+18:18:38 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+18:18:38 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+18:18:38 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+18:18:38 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+18:18:38 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+18:18:38 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+18:18:38 [ServerInfo] SkyEvent Event loaded successfully
+18:18:38 [Swamp Event] Sync Start Time. [1406] min remain
+18:18:38 [Swamp Event] SetState EMPTY
+18:18:38 [SkyEvent] Sync Start Time. [401] min remain
+18:18:38 [SkyEvent] SetState_EMPTY
+18:18:40 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+18:18:45 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:19:12 [Obj][15000] AddClient (177.75.155.16)
+18:19:15 [Obj][15000] AddAccount (admin)
+18:19:20 [Obj][15000] LogInCharacter (Admin)
+18:21:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:22:44 [ServerInfo] CashShop loaded successfully
+18:22:44 [ServerInfo] ChaosMix loaded successfully
+18:22:45 [ServerInfo] Character loaded successfully
+18:22:45 [FakeOnline] Load Data OK
+18:22:45 [ServerInfo] Custom loaded successfully
+18:22:45 [ServerInfo] Command loaded successfully
+18:22:45 [ServerInfo] Common loaded successfully
+18:22:45 [ Crywolf ] State (0) -> NONE
+18:22:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+18:22:45 [ServerInfo] Event loaded successfully
+18:22:45 [ServerInfo] EventItemBag loaded successfully
+18:22:45 [ServerInfo] Hack loaded successfully
+18:22:45 [ServerInfo] Item loaded successfully
+18:22:45 [ServerInfo] Monster loaded successfully
+18:22:45 [ServerInfo] Move loaded successfully
+18:22:45 [ServerInfo] Quest loaded successfully
+18:22:45 [ServerInfo] Shop loaded successfully
+18:22:45 [ServerInfo] Skill loaded successfully
+18:22:45 [ServerInfo] Util loaded successfully
+18:22:45 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+18:22:45 [ReadBotInfo] BotSystem loaded successfully
+18:22:45 [Swamp Event] GROUP:1 set to 10 minutes
+18:22:45 [Swamp Event] GROUP:2 set to 10 minutes
+18:22:45 [Swamp Event] GROUP:3 set to 10 minutes
+18:22:45 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+18:22:45 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+18:22:45 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+18:22:45 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+18:22:45 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+18:22:45 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+18:22:45 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+18:22:45 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+18:22:45 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+18:22:45 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+18:22:45 [ServerInfo] SkyEvent Event loaded successfully
+18:22:45 [Swamp Event] Sync Start Time. [1402] min remain
+18:22:45 [Swamp Event] SetState EMPTY
+18:22:45 [SkyEvent] Sync Start Time. [397] min remain
+18:22:45 [SkyEvent] SetState_EMPTY
+18:22:46 [02:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+18:22:51 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:23:10 [Obj][15000] AddClient (177.75.155.16)
+18:23:20 [Obj][15000] AddAccount (admin)
+18:23:20 [Obj][15000] LogInCharacter (Admin)
+18:25:14 [Obj][15001] AddClient (177.75.155.16)
+18:25:22 [Obj][15000] LogOutCharacter (Admin)
+18:25:22 [Obj][15000] LogOutCharacter ()
+18:25:22 [Obj][15000] DelAccount (admin)
+18:25:22 [Obj][15000] DelClient (177.75.155.16)
+18:25:41 [Obj][15001] AddAccount (admin)
+18:25:56 [Obj][15000] AddClient (177.75.155.16)
+18:25:58 [Obj][15000] AddAccount (1)
+18:26:03 [Obj][15001] LogInCharacter (Admin)
+18:26:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:26:10 [Obj][15000] DelAccount (1)
+18:26:10 [Obj][15000] DelClient (177.75.155.16)
+18:26:36 [Obj][15001] LogOutCharacter (Admin)
+18:26:36 [Obj][15001] LogOutCharacter ()
+18:26:36 [Obj][15001] DelAccount (admin)
+18:26:36 [Obj][15001] DelClient (177.75.155.16)
+18:27:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:27:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:29:31 [Obj][15000] AddClient (177.75.155.16)
+18:29:33 [Obj][15000] AddAccount (admin)
+18:29:39 [Obj][15000] LogInCharacter (Admin)
+18:30:59 [Obj][15000] LogOutCharacter (Admin)
+18:30:59 [Obj][15000] LogOutCharacter ()
+18:30:59 [Obj][15000] DelAccount (admin)
+18:30:59 [Obj][15000] DelClient (177.75.155.16)
+18:32:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:32:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:32:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+18:36:01 [OnlineLoterry] No Winner
+18:37:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:37:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:38:45 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:42:49 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:42:49 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:43:00 [CTC] Bat Dau Event Cong Thanh
+18:45:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:47:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:47:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:48:00 [CTC] Finish 2
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 166 Y: 22)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 166 Y: 22)
+18:51:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:52:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:52:51 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+18:57:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:57:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:57:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:02:53 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:02:53 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:04:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:07:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:07:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:10:00 [CustomQuiz] Start
+19:10:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:12:55 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:12:55 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:13:00 [CustomQuiz] Finish
+19:16:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:17:56 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:17:56 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:22:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:22:57 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:23:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:27:58 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:27:58 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:29:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:32:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:32:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:35:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:36:01 [OnlineLoterry] No Winner
+19:38:00 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:38:00 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:42:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:43:00 [CTC] Bat Dau Event Cong Thanh
+19:43:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:43:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:48:00 [CTC] Finish 2
+19:48:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:48:02 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:48:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:53:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:53:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:54:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:58:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:58:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:00:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:03:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:03:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 71)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 198 Y: 71)
+20:07:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:08:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:08:06 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:10:00 [CustomQuiz] Start
+20:13:00 [CustomQuiz] Finish
+20:13:07 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:13:07 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:13:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 54 Y: 235)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 54 Y: 235)
+20:18:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:18:08 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:19:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:23:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:23:09 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 80 Y: 173)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 80 Y: 173)
+20:26:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:28:10 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:28:10 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:32:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:33:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:33:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:36:01 [OnlineLoterry] No Winner
+20:38:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:38:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:38:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:43:00 [CTC] Bat Dau Event Cong Thanh
+20:43:13 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:43:13 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:45:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:48:00 [CTC] Finish 2
+20:48:14 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:48:14 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 157 Y: 50)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 157 Y: 50)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 155 Y: 48)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 155 Y: 48)
+20:51:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:53:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:53:15 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:57:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:58:16 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:58:16 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 155 Y: 11)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 155 Y: 11)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 154 Y: 10)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 154 Y: 10)
+21:00:00 [Invasion Manager] Index(9) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(9) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(10) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(10) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(11) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(11) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(12) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(12) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(13) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(13) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(15) Boss Position (Map: 0 X: 143 Y: 66)
+21:00:00 [Invasion Manager] Index(15) Boss Position (Map: 0 X: 143 Y: 66)
+21:03:17 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:03:17 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:04:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:08:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:08:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:10:00 [CustomQuiz] Start
+21:10:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:13:00 [CustomQuiz] Finish
+21:13:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:13:19 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:16:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:18:20 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:18:20 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:23:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:23:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:23:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:28:22 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:28:22 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:29:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:33:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:33:23 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:35:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:36:01 [OnlineLoterry] No Winner
+21:38:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:38:24 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:42:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:43:00 [CTC] Bat Dau Event Cong Thanh
+21:43:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:43:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:48:00 [CTC] Finish 2
+21:48:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:48:26 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:48:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:53:27 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:53:27 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:54:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:58:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:58:28 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:01:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:03:29 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:03:29 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:07:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:08:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:08:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:10:00 [CustomQuiz] Start
+22:13:00 [CustomQuiz] Finish
+22:13:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:13:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:13:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:18:32 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:18:32 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:20:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:23:33 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:23:33 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:26:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:28:34 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:28:34 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:32:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:33:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:33:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:36:01 [OnlineLoterry] No Winner
+22:38:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:38:36 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:39:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:43:00 [CTC] Bat Dau Event Cong Thanh
+22:43:37 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:43:37 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:45:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:48:00 [CTC] Finish 2
+22:48:38 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:48:38 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 163 Y: 22)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 163 Y: 22)
+22:51:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:53:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:53:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:58:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:58:40 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:58:40 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:03:41 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:03:41 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:04:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:08:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:08:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:10:00 [CustomQuiz] Start
+23:10:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:13:00 [CustomQuiz] Finish
+23:13:43 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:13:43 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:17:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:18:44 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:18:44 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:23:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:23:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:23:45 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:28:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:28:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:29:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:33:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:33:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:36:01 [OnlineLoterry] No Winner
+23:36:07 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:38:48 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:38:48 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:42:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:43:00 [CTC] Bat Dau Event Cong Thanh
+23:43:49 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:43:49 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:48:01 [CTC] Finish 2
+23:48:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:48:50 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:48:50 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:53:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:53:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:55:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:58:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:58:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47

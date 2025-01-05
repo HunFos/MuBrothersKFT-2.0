@@ -1,0 +1,10 @@
+0
+//EventName              DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks	
+"Aracness"	         1000	   10000		  1	      100		    0		   1
+end
+
+1
+//Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
+14           164     0          0          0       0      0        0
+
+end

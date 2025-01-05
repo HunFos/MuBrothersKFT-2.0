@@ -1,0 +1,33 @@
+<CTCMini>
+    <!-- Time Event -->
+	<EventTime>
+        <Time Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="-1" Minute="43" Second="-1" />
+	</EventTime>
+	<!-- Config -->
+	<NPCTalk>
+        <NPC Class="380" Map="0" X="143" Y="139" />
+	</NPCTalk>	
+	<!-- Config -->
+	<TimeSetting>
+	    <Config  Enabled="1" WarningTime = "2" EventTime = "5" WinnerTime="2" GuildMinPlayer="1"/>
+	</TimeSetting>
+	<!-- Config -->
+	<GateConfig>
+	    <Config Gate1="814" Gate2="815" Gate3="816" Gate4="817" Gate5="818"/>
+	</GateConfig>	
+	<!-- Bonus 
+		BonusAllGuild : Regular guild or staff members
+		IndexItemBag : Index in Eventitembag for drop item
+	-->
+	<BreakTheGates>
+	    <Config WCoin="1000" WCoinP="1000"  GobinP="1000" Ruud="1" BonusAllGuild="0" />
+    </BreakTheGates>	
+	<!-- Config -->
+	<DestroyTurrets>
+	    <Config WCoin="1000" WCoinP="1000"  GobinP="1000" Ruud="1" BonusAllGuild="0" />
+    </DestroyTurrets>
+	<!-- Config -->
+	<GuidWin>
+	    <Config WCoin="1000" WCoinP="1000"  GobinP="1000" Ruud="1" IndexItemBag="0" />
+    </GuidWin>		
+</CTCMini>

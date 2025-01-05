@@ -1,0 +1,36 @@
+12:14:42 [SocketManager] Server started at port [55970]
+12:14:47 [ServerManager][0] AddServer (127.0.0.1)
+12:14:47 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+12:14:48 [ServerManager][1] AddServer (127.0.0.1)
+12:14:48 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+12:15:57 [SocketManager] Server started at port [55970]
+12:16:02 [ServerManager][0] AddServer (127.0.0.1)
+12:16:02 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+12:16:04 [ServerManager][1] AddServer (127.0.0.1)
+12:16:04 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+12:18:49 [SocketManager] Server started at port [55970]
+12:18:51 [ServerManager][0] AddServer (127.0.0.1)
+12:18:51 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+12:18:54 [ServerManager][1] AddServer (127.0.0.1)
+12:18:54 [ServerManager][1] ServerInfo (Server2) (55902) (1)
+12:18:56 [ServerManager][2] AddServer (127.0.0.1)
+12:18:56 [ServerManager][2] ServerInfo (Server_1_CS) (55919) (19)
+12:23:16 [SocketManager] Server started at port [55970]
+12:23:18 [ServerManager][0] AddServer (127.0.0.1)
+12:23:18 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+12:23:21 [ServerManager][1] AddServer (127.0.0.1)
+12:23:21 [ServerManager][1] ServerInfo (Server2) (55902) (1)
+12:23:23 [ServerManager][2] AddServer (127.0.0.1)
+12:23:23 [ServerManager][2] ServerInfo (Server_1_CS) (55919) (19)
+12:41:46 [SocketManager] Server started at port [55970]
+12:41:48 [ServerManager][0] AddServer (127.0.0.1)
+12:41:48 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+12:41:51 [ServerManager][1] AddServer (127.0.0.1)
+12:41:51 [ServerManager][1] ServerInfo (Server2) (55902) (1)
+12:41:53 [ServerManager][2] AddServer (127.0.0.1)
+12:41:53 [ServerManager][2] ServerInfo (Server_1_CS) (55919) (19)
+17:42:47 [SocketManager] Server started at port [55970]
+17:42:52 [ServerManager][0] AddServer (127.0.0.1)
+17:42:52 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+17:42:53 [ServerManager][1] AddServer (127.0.0.1)
+17:42:53 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)

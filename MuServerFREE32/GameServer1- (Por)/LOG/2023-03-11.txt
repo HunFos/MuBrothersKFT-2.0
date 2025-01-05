@@ -1,0 +1,39 @@
+09:34:12 [ServerInfo] CashShop loaded successfully
+09:34:12 [ServerInfo] ChaosMix loaded successfully
+09:34:12 [ServerInfo] Character loaded successfully
+09:34:12 [FakeOnline] Load Data OK
+09:34:12 [ServerInfo] Custom loaded successfully
+09:34:12 [ServerInfo] Command loaded successfully
+09:34:12 [ServerInfo] Common loaded successfully
+09:34:13 [ Crywolf ] State (0) -> NONE
+09:34:13 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:34:13 [ServerInfo] Event loaded successfully
+09:34:13 [ServerInfo] EventItemBag loaded successfully
+09:34:13 [ServerInfo] Hack loaded successfully
+09:34:14 [ServerInfo] Item loaded successfully
+09:34:15 [ServerInfo] Monster loaded successfully
+09:34:15 [ServerInfo] Move loaded successfully
+09:34:15 [ServerInfo] Quest loaded successfully
+09:34:16 [ServerInfo] Shop loaded successfully
+09:34:16 [ServerInfo] Skill loaded successfully
+09:34:16 [ServerInfo] Util loaded successfully
+09:34:16 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:34:16 [ReadBotInfo] BotSystem loaded successfully
+09:34:16 [Swamp Event] GROUP:1 set to 10 minutes
+09:34:16 [Swamp Event] GROUP:2 set to 10 minutes
+09:34:16 [Swamp Event] GROUP:3 set to 10 minutes
+09:34:16 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+09:34:16 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+09:34:16 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+09:34:16 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+09:34:16 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+09:34:16 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+09:34:16 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+09:34:16 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+09:34:16 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+09:34:16 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+09:34:16 [ServerInfo] SkyEvent Event loaded successfully
+09:34:16 [Swamp Event] Sync Start Time. [490] min remain
+09:34:16 [Swamp Event] SetState EMPTY
+09:34:16 [SkyEvent] Sync Start Time. [925] min remain
+09:34:16 [SkyEvent] SetState_EMPTY

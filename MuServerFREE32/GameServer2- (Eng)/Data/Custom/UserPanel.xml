@@ -1,0 +1,21 @@
+<!--
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == UserPanel Configuration
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-->
+
+<UserPanelSettings>
+	<button name="Tempo dos Eventos" active="1"/>
+	<button name="Comprar  Vip" active="1"/>
+	<button name="Banco de Joias" active="1"/>
+	<button name="Configuração" active="1"/>
+	<button name="Conquistas" active="1"/>
+	<button name="Configurar Party" active="1"/>
+	<button name="Trocar de Classe" active="1"/>
+	<button name="Banco de Frutas" active="1"/>
+	<button name="Ranking" active="1"/>
+	<button name="Commandos" active="1"/>
+	<button name="Forjar Item" active="1"/>
+	<button name="Roleta da Sorte" active="1"/>
+	<button name="Loja Online" active="1"/>
+</UserPanelSettings>

@@ -1,0 +1,95 @@
+15:04:42 [SocketManager] Server started at port [55964]
+15:04:47 [ServerManager][0] AddServer (127.0.0.1)
+15:04:47 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+15:07:54 [SocketManager] Server started at port [55964]
+15:07:56 [ServerManager][0] AddServer (127.0.0.1)
+15:07:56 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+15:08:19 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+15:08:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+15:08:19 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+15:08:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+15:08:19 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+15:08:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+15:08:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+15:08:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+15:08:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+15:08:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+15:08:28 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+15:08:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+15:08:28 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+15:08:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+15:08:28 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+15:08:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+15:08:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+15:08:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+15:08:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+15:08:28 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+15:09:51 [SocketManager] Server started at port [55964]
+15:09:53 [ServerManager][0] AddServer (127.0.0.1)
+15:09:53 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+15:10:05 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+15:10:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+15:10:05 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+15:10:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+15:10:05 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+15:10:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+15:10:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+15:10:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+15:10:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+15:10:05 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+15:10:09 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+15:10:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+15:10:09 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+15:10:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+15:10:09 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+15:10:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+15:10:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+15:10:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+15:10:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+15:10:09 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+15:11:13 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+15:11:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+15:11:13 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+15:11:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+15:11:13 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+15:11:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+15:11:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+15:11:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+15:11:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+15:11:13 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+15:11:18 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+15:11:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+15:11:18 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+15:11:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+15:11:18 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+15:11:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+15:11:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+15:11:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+15:11:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+15:11:18 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+15:21:01 [SocketManager] Server started at port [55964]
+15:21:03 [ServerManager][0] AddServer (127.0.0.1)
+15:21:03 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+15:21:19 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+15:21:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+15:21:19 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+15:21:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+15:21:19 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+15:21:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+15:21:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+15:21:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+15:21:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+15:21:19 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+15:21:23 UPDATE Character SET rMuaVip=0 WHERE AccountID='admin' AND Name='Admin'
+15:21:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+15:21:23 UPDATE Character SET rDanhHieu=0 WHERE AccountID='admin' AND Name='Admin'
+15:21:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+15:21:23 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='admin' AND Name='Admin'
+15:21:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+15:21:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+15:21:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+15:21:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+15:21:23 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+17:02:02 [SocketManager] Server started at port [55964]
+17:02:04 [ServerManager][0] AddServer (127.0.0.1)
+17:02:04 [ServerManager][0] ServerInfo (Server2) (55902) (1)

@@ -1,0 +1,38 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.fb.com/igkgamers
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 002 - Pasi the Wizard
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Acc	JoH	Oex	Sck[1]	Sck[2]	Sck[3]	Sck[4]	Sck[5]	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+15	0	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Poison
+15	1	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Meteorite
+15	2	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Lighting
+15	3	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Fire Ball
+15	4	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Flame
+15	5	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Teleport
+15	6	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Ice
+15	7	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Twister
+15	8	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Evil Spirit
+15	9	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Hellfire
+15	10	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Power Wave
+15	11	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Aqua Beam
+15	12	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Cometfall
+15	13	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Inferno
+15	14	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Teleport Ally
+15	15	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Soul Barrier
+15	16	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Decay
+15	17	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Ice Storm
+15	18	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Nova
+15	28	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Wizardry Enhance
+15	29	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Scroll of Gigantic Storm
+14	10	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Town Portal Scroll
+6	20	7	0	0	0	0	0	0	0	0	255	255	255	255	255	//Guardian Shield
+5	5	7	0	0	1	1	0	0	0	0	255	255	255	255	255	//Legendary Staff
+5	6	7	0	0	0	1	0	0	0	0	255	255	255	255	255	//Staff of Resurrection
+5	7	7	0	0	0	1	0	0	0	0	255	255	255	255	255	//Chaos Lighting Staff
+5	9	7	0	0	0	1	0	0	0	0	255	255	255	255	255	//Dragon Soul Staff
+end

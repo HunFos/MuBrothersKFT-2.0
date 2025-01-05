@@ -1,0 +1,679 @@
+//0 Zen
+//1 WCoinC
+//2 WcoinP
+//3 Goblin Points
+//4 Ruud
+0 
+//PriceType	Enable	NPCClass   NPCMap	NPCX	NPCY	AllowAncExc   	MaxLevel   LevelPrice   LuckPrice   AddPrice   Opt1Price   Opt2Price   Opt3Price   Opt4Price   Opt5Price   Opt6Price	MaxExcOpt   	AncPrice   SocketPrice
+1		1	613	   0		131	134	1               15         10           100         10         150         150         150         150         150         150         	2		3000       1000	
+end
+
+1
+//Type   Index   Price
+7        2       100 //pad 
+7        4       225 //bone
+7        7       300 //sphinks
+7        3       400 //legendary
+7        18      500 //grand soul
+7        22      650 //dark soul
+7        30      800 //venom
+7        35      1000 //eclips
+7        52      1200 //hades
+7        102     1500 //dark devil
+7        112     1600 //dark wiz
+7        116     2500 //Mercury
+8        2       100 //pad
+8        4       225 //bone
+8        7       300 //sphinks
+8        3       400 //legendary
+8        18      500 //grand soul
+8        22      650 //dark soul
+8        30      800 //venom
+8        35      1000 //eclips
+8        52      1200 //hades
+8        102     1500 //dark devil
+8        112     1600 //dark wiz
+8        116     2500 //Mercury
+9        2       100 //pad
+9        4       225 //bone
+9        7       300 //sphinks
+9        3       400 //legendary
+9        18      500 //grand soul
+9        22      650 //dark soul
+9        30      800 //venom
+9        35      1000 //eclips
+9        52      1200 //hades
+9        102     1500 //dark devil
+9        112     1600 //dark wiz
+9        116     2500 //Mercury
+10        2       100 //pad
+10        4       225 //bone
+10        7       300 //sphinks
+10        3       400 //legendary
+10        18      500 //grand soul
+10        22      650 //dark soul
+10        30      800 //venom
+10        35      1000 //eclips
+10        52      1200 //hades
+10        102     1500 //dark devil
+10        112     1600 //dark wiz
+10        116     2500 //Mercury
+11        2       100 //pad
+11        4       225 //bone
+11        7       300 //sphinks
+11        3       400 //legendary
+11        18      500 //grand soul
+11        22      650 //dark soul
+11        30      800 //venom
+11        35      1000 //eclips
+11        52      1200 //hades
+11        102     1500 //dark devil
+11        112     1600 //dark wiz
+11        116     2500 //Mercury
+//shields
+6       0       100 //small
+6       4       150 //buckler
+6       6       175 //skull
+6       14      400 //legendary
+6       15      500 //grand soul
+6       20      600 //guardian
+6       102      700 //dark devil
+6       106      800 //dark angel
+//weapons
+5      1       200 //Angelic Staff
+5      3       300 //Thunder Staff
+5      4       450 //Gorgon Staff
+5      5       600 //Legendary Staff
+5      6       700 //Staff of Resurrection
+5      8       1000 //Staff of Destruction
+5      9       2000 //Dragon Soul Staff
+5      10       3000 //Divine Staff of Archangel
+5      11       3500 //Staff of Kundun
+5      12       4000 //Grand Viper Staff
+5      13       4500 //Platina Staff"
+5      33       5000 //Chromatic Staff
+5      102      5500 //Dark Devil Staff
+5      105      6000 //Darkangel Wizard
+//Wings
+12      1       1000 //Wings
+12      4       1500 //Wings
+12      37      4000 //Wings
+12      205     8000 //Wings
+12      203     30000 //5 wings
+//Ring and Pend
+13      8       1000 //Ring of Ice
+13      9       1000 //Ring of Poison
+13      21       1000 //Ring of Fire
+13      22       1000 //Ring of Earth
+13      23       1000 //Ring of Wind
+13      24       1000 //Ring of Magic
+13      25       1000 //Pendant of Ice
+13      26       1000 //Pendant of Wind
+13      27       1000 //Pendant of Water
+13      28       1000 //Pendant of Ability
+13      12       1000 //Pendant of Lighting
+13      13       1000 //Pendant of Fire
+end
+
+2
+//Type   Index   Price
+7        5       100 //leather
+7        0       200 //bronze
+7        6       225 //skale
+7        8       300 //brass
+7        1       400 //dragon
+7        9       425 //plate
+7        16      450  //black dragon
+7        17      500  //dark phoenix
+7        21      650 //great dr
+7        29      800 //dragon knight
+7        34      1000 //ascrow
+7        45      1200 //titan
+7        46      1250 //brave
+7        101     1500 //lazy wind
+7        111     1600 //brave
+7        117     2500 //Gold Lion
+8        5       100 //leather
+8        0       200 //bronze
+8        6       225 //skale
+8        8       300 //brass
+8        1       400 //dragon
+8        9       425 //plate
+8        16      450  //black dragon
+8        17      500  //dark phoenix
+8        21      650 //great dr
+8        29      800 //dragon knight
+8        34      1000 //ascrow
+8        45      1200 //titan
+8        46      1250 //brave
+8        101     1500 //lazy wind
+8        111     1600 //brave
+8        117     2500 //Gold Lion
+9        5       100 //leather
+9        0       200 //bronze
+9        6       225 //skale
+9        8       300 //brass
+9        1       400 //dragon
+9        9       425 //plate
+9        16      450  //black dragon
+9        17      500  //dark phoenix
+9        21      650 //great dr
+9        29      800 //dragon knight
+9        34      1000 //ascrow
+9        45      1200 //titan
+9        46      1250 //brave
+9        101     1500 //lazy wind
+9        111     1600 //brave
+9        117     2500 //Gold Lion
+10        5       100 //leather
+10        0       200 //bronze
+10        6       225 //skale
+10        8       300 //brass
+10        1       400 //dragon
+10        9       425 //plate
+10        16      450  //black dragon
+10        17      500  //dark phoenix
+10        21      650 //great dr
+10        29      800 //dragon knight
+10        34      1000 //ascrow
+10        45      1200 //titan
+10        46      1250 //brave
+10        101     1500 //lazy wind
+10        111     1650 //brave
+10        117     2500 //Gold Lion
+11        5       100 //leather
+11        0       200 //bronze
+11        6       225 //skale
+11        8       300 //brass
+11        1       400 //dragon
+11        9       425 //plate
+11        16      450  //black dragon
+11        17      500  //dark phoenix
+11        21      650 //great dr
+11        29      800 //dragon knight
+11        34      1000 //ascrow
+11        45      1200 //titan
+11        46      1250 //brave
+11        101     1500 //lazy wind
+11        111     1600 //brave
+11        117     2500 //Gold Lion
+//shields
+6       0       100 //small
+6       1       100 //horn
+6       2       150 //Kite Shield
+6       5       175 //Dragon Slayer
+6       7       200  //Spiked
+6       8       350 //Tower Shield
+6       12      400 //bronze
+6       13      500 //Dragon Shield
+6       17      600 //Crimson Glory
+6       100      700 //dark devil
+6       105      800 //dark angel
+//weapons
+0      2         200 //Rapier
+0      5         500 //Blad
+0      11        750 //Legendary Sword
+0      16        1000 //Sword of Destruction
+0      17        2000 //Dark Breaker
+0      19        2500 //Divine Sword of Archangel
+0      20        3000 //Knight Blade
+0      22        3500 //Bone Blade
+0      24        4000 //Daybreak
+0      26        4500 //Flameberge
+0      27        5000 //Sword Breake
+0      105       5500 //Angelic Staff
+2      102       5000 //New Mace
+0      107       6000 //Darkangel Knight Blade
+//Wings
+12      2       1000 //Wings
+12      5       1500 //Wings
+12      36      4000 //Wings
+12      204     8000 //Wings
+12      203     30000 //5 wings
+//Ring and Pend
+13      8       1000 //Ring of Ice
+13      9       1000 //Ring of Poison
+13      21       1000 //Ring of Fire
+13      22       1000 //Ring of Earth
+13      23       1000 //Ring of Wind
+13      24       1000 //Ring of Magic
+13      25       1000 //Pendant of Ice
+13      26       1000 //Pendant of Wind
+13      27       1000 //Pendant of Water
+13      28       1000 //Pendant of Ability
+13      12       1000 //Pendant of Lighting
+13      13       1000 //Pendant of Fire
+end
+
+3
+//Type   Index   Price
+7        10      100 //vine
+7        11      200 //silk
+7        12      225 //wind
+7        13      300 //spirit
+7        14      400 //guardian
+7        19      500 //divine
+7        24       650  //red spirit
+7        31       800 //sylpray
+7        36       1000  //iris
+7        49       1200  //serafim
+7        50       1250 //divine
+7        103      1500 //freya
+7        113      1600 //dark devil
+7        118      2500 //Imperial
+8        10      100 //vine
+8        11      200 //silk
+8        12      225 //wind
+8        13      300 //spirit
+8        14      400 //guardian
+8        19      500 //divine
+8        24       650  //red spirit
+8        31       800 //sylpray
+8        36       1000  //iris
+8        49       1200  //serafim
+8        50       1250 //divine
+8        103      1500 //freya
+8        113      1600 //dark devil
+8        118      2500 //Imperial
+9        10      100 //vine
+9        11      200 //silk
+9        12      225 //wind
+9        13      300 //spirit
+9        14      400 //guardian
+9        19      500 //divine
+9        24       650  //red spirit
+9        31       800 //sylpray
+9        36       1000  //iris
+9        49       1200  //serafim
+9        50       1250 //divine
+9        103      1500 //freya
+9        113      1600 //dark devil
+9        118      2500 //Imperial
+10        10      100 //vine
+10        11      200 //silk
+10        12      225 //wind
+10        13      300 //spirit
+10        14      400 //guardian
+10        19      500 //divine
+10        24       650  //red spirit
+10        31       800 //sylpray
+10        36       1000  //iris
+10        49       1200  //serafim
+10        50       1250 //divine
+10        103      1500 //freya
+10        113      1600 //dark devil
+10        118      2500 //Imperial
+11        10      100 //vine
+11        11      200 //silk
+11        12      225 //wind
+11        13      300 //spirit
+11        14      400 //guardian
+11        19      500 //divine
+11        24       650  //red spirit
+11        31       800 //sylpray
+11        36       1000  //iris
+11        49       1200  //serafim
+11        50       1250 //divine
+11        103      1500 //freya
+11        113      1600 //dark devil
+11        118      2500 //Imperial
+//shields
+6       0        100 //small
+6       3        300 //Elven Shield
+6       16       400 //Elemental Shield
+6       19       500 //Frost Barrier
+//weapons
+4      5         200 //Silver Bow
+4      6         500 //Chaos Nature Bow
+4      13         100 //Bluewing Crossbow
+4      16         1500 //Saint Crossbow
+4      17         2000 //Celestial Bow
+4      18         2500 //Divine Crossbow of Archangel
+4      19         3000 //Great Reign Crossbow
+4      20         3500 //Arrow Viper Bow
+4      21         4000 //Sylph Wind Bow
+4      22         4500 //Albatross Bow"
+4      22         5000 //Dark Stinger"
+4      23         5500 //Albatross Bow"
+4      24         6000 //Darkangel Elf Bow
+//Wings
+12      0       1000 //Wings
+12      3       1500 //Wings
+12      38      4000 //Wings
+12      206     8000 //Wings
+12      203     30000 //5 wings
+//Ring and Pend
+13      8       1000 //Ring of Ice
+13      9       1000 //Ring of Poison
+13      21       1000 //Ring of Fire
+13      22       1000 //Ring of Earth
+13      23       1000 //Ring of Wind
+13      24       1000 //Ring of Magic
+13      25       1000 //Pendant of Ice
+13      26       1000 //Pendant of Wind
+13      27       1000 //Pendant of Water
+13      28       1000 //Pendant of Ability
+13      12       1000 //Pendant of Lighting
+13      13       1000 //Pendant of Fire
+end
+
+4
+//Type   Index   Price
+8        5       100 //leather
+8        2       100 //pad 
+8        0       200 //bronze
+8        4       225 //bone
+8        6       225 //skale
+8        8       300 //brass
+8        7       300 //sphinks
+8        1       400 //dragon
+8        3       400 //legendary
+8        20      500 //thunder
+8        23      650 //hurricane
+8        32      800 //volcano
+8        37      1000 //valiant
+8        48      1200  //destroy
+8        49      1250  //phantom
+8        108     1500 //hellknight
+8        115     1600  //dark devil
+8        121     2500  //Sunlost
+9        5       100 //leather
+9        2       100 //pad 
+9        0       200 //bronze
+9        4       225 //bone
+9        6       225 //skale
+9        8       300 //brass
+9        7       300 //sphinks
+9        1       400 //dragon
+9        3       400 //legendary
+9        20      500 //thunder
+9        23      650 //hurricane
+9        32      800 //volcano
+9        37      1000 //valiant
+9        48      1200  //destroy
+9        49      1250  //phantom
+9        108     1500 //hellknight
+9        115     1600  //dark devil
+9        121     2500  //Sunlost
+10        5       100 //leather
+10        2       100 //pad 
+10        0       200 //bronze
+10        4       225 //bone
+10        6       225 //skale
+10        8       300 //brass
+10        7       300 //sphinks
+10        1       400 //dragon
+10        3       400 //legendary
+10        20      500 //thunder
+10        23      650 //hurricane
+10        32      800 //volcano
+10        37      1000 //valiant
+10        48      1200  //destroy
+10        49      1250  //phantom
+10        108     1500 //hellknight
+10        115     1600  //dark devil
+10        121     2500  //Sunlost
+11        5       100 //leather
+11        2       100 //pad 
+11        0       200 //bronze
+11        4       225 //bone
+11        6       225 //skale
+11        8       300 //brass
+11        7       300 //sphinks
+11        1       400 //dragon
+11        3       400 //legendary
+11        20      500 //thunder
+11        23      650 //hurricane
+11        32      800 //volcano
+11        37      1000 //valiant
+11        48      1200  //destroy
+11        49      1250  //phantom
+11        108     1500 //hellknight
+11        115     1600  //dark devil
+11        121     2500  //Sunlost
+//shields
+6       0       100 //small
+6       4       150 //buckler
+6       1       100 //horn
+6       2       150 //Kite Shield
+6       6       175 //skull
+6       5       175 //Dragon Slayer
+6       7       200  //Spiked
+6       8       350 //Tower Shield
+6       14      400 //legendary
+6       12      400 //bronze
+6       13      500 //Dragon Shield
+6       18      600 //Salamander Shield
+6       103      700 //dark devil
+6       107      800 //dark angel
+//weapons
+2      102       5000 //New Mace
+0      18        200 //Thunder Blade
+0      21        2500 //Dark Reign Blade
+0      31        3000 //Rune Blade
+0      23        3500 //Explosion Blade
+0      25        4000 //Sword Dancer
+0      28        4500 //Rune Bastard Sword
+0      101        5500 //Hell Knight Blade
+0      106        6000 //Darkangel Magic Blade 
+5      101        5500 //Hell Knight Staff
+5      104        6000 //Darkangel Magic Staff
+//Wings
+12      6       1500 //Wings
+12      39      4000 //Wings
+12      208     8000 //Wings
+12      203     30000 //5 wings
+//Ring and Pend
+13      8       1000 //Ring of Ice
+13      9       1000 //Ring of Poison
+13      21       1000 //Ring of Fire
+13      22       1000 //Ring of Earth
+13      23       1000 //Ring of Wind
+13      24       1000 //Ring of Magic
+13      25       1000 //Pendant of Ice
+13      26       1000 //Pendant of Wind
+13      27       1000 //Pendant of Water
+13      28       1000 //Pendant of Ability
+13      12       1000 //Pendant of Lighting
+13      13       1000 //Pendant of Fire
+end
+
+5
+//Type   Index   Price
+7        5       100 //leather
+7        0       200 //bronze
+7        25       400 //lightplate
+7        26       500 //adamantine
+7        27       600 //dark steel
+7        28       650 //dark master
+7        33       800 //sunlight
+7        38       1000 //glorius
+7        51       1200 //royal
+7        105      1500 //ambition
+7        114      1600 //dark angel
+7        120      2500 //Nightwish
+8        5       100 //leather
+8        0       200 //bronze
+8        25       400 //lightplate
+8        26       500 //adamantine
+8        27       600 //dark steel
+8        28       650 //dark master
+8        33       800 //sunlight
+8        38       1000 //glorius
+8        51       1200 //royal
+8        105      1500 //ambition
+8        114      1600 //dark angel
+8        120      2500 //Nightwish
+9        5       100 //leather
+9        0       200 //bronze
+9        25       400 //lightplate
+9        26       500 //adamantine
+9        27       600 //dark steel
+9        28       650 //dark master
+9        33       800 //sunlight
+9        38       1000 //glorius
+9        51       1200 //royal
+9        105      1500 //ambition
+9        114      1600 //dark angel
+9        120      2500 //Nightwish
+10        5       100 //leather
+10        0       200 //bronze
+10        25       400 //lightplate
+10        26       500 //adamantine
+10        27       600 //dark steel
+10        28       650 //dark master
+10        33       800 //sunlight
+10        38       1000 //glorius
+10        51       1200 //royal
+10        105      1500 //ambition
+10        114      1600 //dark angel
+10        120      2500 //Nightwish
+11        5       100 //leather
+11        0       200 //bronze
+11        25       400 //lightplate
+11        26       500 //adamantine
+11        27       600 //dark steel
+11        28       650 //dark master
+11        33       800 //sunlight
+11        38       1000 //glorius
+11        51       1200 //royal
+11        105      1500 //ambition
+11        114      1600 //dark angel
+11        120      2500 //Nightwish
+//shields
+6       0       100 //small
+6       4       150 //buckler
+6       1       100 //horn
+6       2       150 //Kite Shield
+6       6       175 //skull
+6       5       175 //Dragon Slayer
+6       7       200  //Spiked
+6       8       350 //Tower Shield
+6       21      600 //Cross Shield
+6       104      700 //ambition
+6       108      800 //dark angel
+//weapons
+2      8        500 //Battle Scepter
+2      9       1000 //Master Scepter
+2      10        1500 //Great Scepter
+2      11        2000 //Lord Scepter
+2      12        2500 //Great Lord Scepter
+2      13        3000 //Divine Scepter of Archangel
+2      14        3200 //Soleil Scepter
+2      15        3500 //Shining Scepter
+2      16        4000 //Frost Mace
+2      17        4500 //Absolute Scepter"
+2      18        5000 //Striker Scepter
+2      100        5500 //Ambition Scepter
+2      101        6000 //Darkangel Lord Scepter
+//Wings
+13      30       1500 //Wings
+12      40      4000 //Wings
+12      207     8000 //Wings
+12      203     30000 //5 wings
+//Ring and Pend
+13      8       1000 //Ring of Ice
+13      9       1000 //Ring of Poison
+13      21       1000 //Ring of Fire
+13      22       1000 //Ring of Earth
+13      23       1000 //Ring of Wind
+13      24       1000 //Ring of Magic
+13      25       1000 //Pendant of Ice
+13      26       1000 //Pendant of Wind
+13      27       1000 //Pendant of Water
+13      28       1000 //Pendant of Ability
+13      12       1000 //Pendant of Lighting
+13      13       1000 //Pendant of Fire
+end
+
+6
+//Type   Index   Price
+7        39      200  //vilent
+7        40      350  //red violet
+7        41      400 //ancient
+7        42      650  //demonic
+7        43      800  //Storm Blitz
+7        44      1000 //eternal wing
+7        53      1200 //succubus
+7        100     1500 //freya hell
+7        110     1600 //darkangel
+7        119     2500 //Scents
+8        39      200  //vilent
+8        40      350  //red violet
+8        41      400 //ancient
+8        42      650  //demonic
+8        43      800  //Storm Blitz
+8        44      1000 //eternal wing
+8        53      1200 //succubus
+8        100     1500 //freya hell
+8        110     1600 //darkangel
+8        119     2500 //Scents
+9        39      200  //vilent
+9        40      350  //red violet
+9        41      400 //ancient
+9        42      650  //demonic
+9        43      800  //Storm Blitz
+9        44      1000 //eternal wing
+9        53      1200 //succubus
+9        100     1500 //freya hell
+9        110     1600 //darkangel
+9        119     2500 //Scents
+10        39      200  //vilent
+10        40      350  //red violet
+10        41      400 //ancient
+10        42      650  //demonic
+10        43      800  //Storm Blitz
+10        44      1000 //eternal wing
+10        53      1200 //succubus
+10        100     1500 //freya hell
+10        110     1600 //darkangel
+10        119     2500 //Scents
+11        39      200  //vilent
+11        40      350  //red violet
+11        41      400 //ancient
+11        42      650  //demonic
+11        43      800  //Storm Blitz
+11        44      1000 //eternal wing
+11        53      1200 //succubus
+11        100     1500 //freya hell
+11        110     1600 //darkangel
+11        119     2500 //Scents
+//weapons
+5      14        300 //Mystery Stick
+5      15        500 //Violent Wind Stick
+5      16        1000 //Red Wing Stick
+5      17        1500 //Ancient Stick
+5      18        3500 //Demonic Stick
+5      36        4000 //Divine Stick of the Archangel
+5      19        4500 //Storm Blitz Stick
+5      20        5000 //Eternal Wing Stick
+5      100        5500 //Freya Hell Stick
+5      103        6000 //Darkangel Sum Stic
+5      21        3000 //Book of Samut
+5      22        4000 //Book of Neil
+5      23        5000 //Book of Lagle
+//wings
+12      41       1000  //Wings
+12      42       1500  //Wings
+12      43       4000 //Wings
+12      209      8000 //Wings
+12      203      30000 //5 wings
+//Ring and Pend
+13      8       1000 //Ring of Ice
+13      9       1000 //Ring of Poison
+13      21       1000 //Ring of Fire
+13      22       1000 //Ring of Earth
+13      23       1000 //Ring of Wind
+13      24       1000 //Ring of Magic
+13      25       1000 //Pendant of Ice
+13      26       1000 //Pendant of Wind
+13      27       1000 //Pendant of Water
+13      28       1000 //Pendant of Ability
+13      12       1000 //Pendant of Lighting
+13      13       1000 //Pendant of Fire
+end
+
+7
+//Type   Index   Price
+7        6       50
+end

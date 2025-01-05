@@ -1,0 +1,67 @@
+15:43:36 [ServerInfo] CashShop loaded successfully
+15:43:36 [ServerInfo] ChaosMix loaded successfully
+15:43:36 [ServerInfo] Character loaded successfully
+15:43:36 [FakeOnline] Load Data OK
+15:43:36 [ServerInfo] Custom loaded successfully
+15:43:36 [ServerInfo] Command loaded successfully
+15:43:37 [ServerInfo] Common loaded successfully
+15:43:37 [ Crywolf ] State (0) -> NONE
+15:43:37 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+15:43:37 [ServerInfo] Event loaded successfully
+15:43:37 [ServerInfo] EventItemBag loaded successfully
+15:43:38 [ServerInfo] Hack loaded successfully
+15:43:38 [ServerInfo] Item loaded successfully
+15:43:39 [ServerInfo] Monster loaded successfully
+15:43:39 [ServerInfo] Move loaded successfully
+15:43:39 [ServerInfo] Quest loaded successfully
+15:43:40 [ServerInfo] Shop loaded successfully
+15:43:40 [ServerInfo] Skill loaded successfully
+15:43:40 [ServerInfo] Util loaded successfully
+15:43:40 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+15:43:40 [ReadBotInfo] BotSystem loaded successfully
+15:43:40 [Swamp Event] GROUP:1 set to 10 minutes
+15:43:40 [Swamp Event] GROUP:2 set to 10 minutes
+15:43:40 [Swamp Event] GROUP:3 set to 10 minutes
+15:43:40 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+15:43:40 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+15:43:40 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+15:43:40 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+15:43:40 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+15:43:40 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+15:43:40 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+15:43:40 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+15:43:40 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+15:43:40 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+15:43:40 [ServerInfo] SkyEvent Event loaded successfully
+15:43:40 [Swamp Event] Sync Start Time. [121] min remain
+15:43:40 [Swamp Event] SetState EMPTY
+15:43:40 [SkyEvent] Sync Start Time. [556] min remain
+15:43:40 [SkyEvent] SetState_EMPTY
+15:43:41 [CTC] Bat Dau Event Cong Thanh
+15:43:41 [03:02:2023][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+15:47:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:47:10 [FakeOnline] Load Data OK
+15:47:12 [FakeOnline] Load Data OK
+15:47:14 [Obj][15990] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste1 Name: Divine] Is Online on server!
+15:47:14 [Obj][15991] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste10 Name: BloodFlare] Is Online on server!
+15:47:14 [Obj][15992] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste11 Name: Hunter] Is Online on server!
+15:47:14 [Obj][15993] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste12 Name: Storm] Is Online on server!
+15:47:14 [Obj][15994] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste13 Name: Aurora] Is Online on server!
+15:47:14 [Obj][15995] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste14 Name: Killer] Is Online on server!
+15:47:14 [Obj][15996] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste15 Name: Destructor] Is Online on server!
+15:47:14 [Obj][15997] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste16 Name: Olimpia] Is Online on server!
+15:47:14 [Obj][15998] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste2 Name: Mage] Is Online on server!
+15:47:14 [Obj][15999] AddClient (127.0.0.1)
+15:47:14 [FakeOnline]  [Account: teste3 Name: Instict] Is Online on server!
+15:48:41 [CTC] Finish 2
+15:48:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:48:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25

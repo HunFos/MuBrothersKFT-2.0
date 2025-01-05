@@ -1,0 +1,425 @@
+00:43:00 [CTC] Bat Dau Event Cong Thanh
+00:48:00 [CTC] Finish 2
+01:43:00 [CTC] Bat Dau Event Cong Thanh
+01:48:00 [CTC] Finish 2
+02:43:00 [CTC] Bat Dau Event Cong Thanh
+02:48:00 [CTC] Finish 2
+03:43:00 [CTC] Bat Dau Event Cong Thanh
+03:48:00 [CTC] Finish 2
+04:43:00 [CTC] Bat Dau Event Cong Thanh
+04:48:00 [CTC] Finish 2
+05:30:00 [HappyHours] Evento Iniciado!
+05:30:00 [HappyHours] Extra Drop:10,Extra Exp:50
+05:30:00 [HappyHours] Total Drop:110,Total Exp:5050
+05:43:00 [CTC] Bat Dau Event Cong Thanh
+05:48:00 [CTC] Finish 2
+06:00:00 [HappyHours] End!
+06:43:00 [CTC] Bat Dau Event Cong Thanh
+06:48:00 [CTC] Finish 2
+07:43:00 [CTC] Bat Dau Event Cong Thanh
+07:48:00 [CTC] Finish 2
+08:30:00 [MasterHour] Evento Iniciado!
+08:30:00 [MasterHours] Extra Drop:0,Extra Exp:20
+08:30:00 [MasterHours] Total Drop:100,Total Exp:420
+08:43:00 [CTC] Bat Dau Event Cong Thanh
+08:45:00 [MasterHours] End!
+08:48:00 [CTC] Finish 2
+09:19:23 [ServerInfo] CashShop loaded successfully
+09:19:23 [ServerInfo] ChaosMix loaded successfully
+09:19:23 [ServerInfo] Character loaded successfully
+09:19:23 [FakeOnline] Load Data OK
+09:19:23 [ServerInfo] Custom loaded successfully
+09:19:23 [ServerInfo] Command loaded successfully
+09:19:23 [ServerInfo] Common loaded successfully
+09:19:23 [ Crywolf ] State (0) -> NONE
+09:19:23 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+09:19:23 [ServerInfo] Event loaded successfully
+09:19:23 [ServerInfo] EventItemBag loaded successfully
+09:19:23 [ServerInfo] Hack loaded successfully
+09:19:23 [ServerInfo] Item loaded successfully
+09:19:23 [ServerInfo] Monster loaded successfully
+09:19:23 [ServerInfo] Move loaded successfully
+09:19:23 [ServerInfo] Quest loaded successfully
+09:19:23 [ServerInfo] Shop loaded successfully
+09:19:23 [ServerInfo] Skill loaded successfully
+09:19:23 [ServerInfo] Util loaded successfully
+09:19:23 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+09:19:23 [ReadBotInfo] BotSystem loaded successfully
+09:19:23 [Swamp Event] Sync Start Time. [505] min remain
+09:19:23 [Swamp Event] SetState EMPTY
+09:19:23 [SkyEvent] SetState_BLANK
+09:19:24 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+09:19:24 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+09:19:24 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+09:19:24 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+09:19:24 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+09:19:24 [CastleSiege] CCastleSiege::Init() - START
+09:19:24 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+09:19:24 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+09:19:25 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+09:43:00 [CTC] Bat Dau Event Cong Thanh
+09:48:00 [CTC] Finish 2
+10:39:21 [ServerInfo] CashShop loaded successfully
+10:39:21 [ServerInfo] ChaosMix loaded successfully
+10:39:21 [ServerInfo] Character loaded successfully
+10:39:21 [FakeOnline] Load Data OK
+10:39:21 [ServerInfo] Custom loaded successfully
+10:39:21 [ServerInfo] Command loaded successfully
+10:39:21 [ServerInfo] Common loaded successfully
+10:39:21 [ Crywolf ] State (0) -> NONE
+10:39:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:39:21 [ServerInfo] Event loaded successfully
+10:39:21 [ServerInfo] EventItemBag loaded successfully
+10:39:21 [ServerInfo] Hack loaded successfully
+10:39:21 [ServerInfo] Item loaded successfully
+10:39:21 [ServerInfo] Monster loaded successfully
+10:39:21 [ServerInfo] Move loaded successfully
+10:39:21 [ServerInfo] Quest loaded successfully
+10:39:21 [ServerInfo] Shop loaded successfully
+10:39:22 [ServerInfo] Skill loaded successfully
+10:39:22 [ServerInfo] Util loaded successfully
+10:39:22 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:39:22 [ReadBotInfo] BotSystem loaded successfully
+10:39:22 [Swamp Event] Sync Start Time. [425] min remain
+10:39:22 [Swamp Event] SetState EMPTY
+10:39:22 [SkyEvent] SetState_BLANK
+10:39:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+10:39:23 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+10:39:23 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+10:39:23 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+10:39:23 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+10:39:23 [CastleSiege] CCastleSiege::Init() - START
+10:39:23 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+10:39:23 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:39:24 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+10:50:10 [ServerInfo] CashShop loaded successfully
+10:50:11 [ServerInfo] ChaosMix loaded successfully
+10:50:11 [ServerInfo] Character loaded successfully
+10:50:11 [FakeOnline] Load Data OK
+10:50:11 [ServerInfo] Custom loaded successfully
+10:50:11 [ServerInfo] Command loaded successfully
+10:50:11 [ServerInfo] Common loaded successfully
+10:50:11 [ Crywolf ] State (0) -> NONE
+10:50:11 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+10:50:11 [ServerInfo] Event loaded successfully
+10:50:11 [ServerInfo] EventItemBag loaded successfully
+10:50:11 [ServerInfo] Hack loaded successfully
+10:50:11 [ServerInfo] Item loaded successfully
+10:50:11 [ServerInfo] Monster loaded successfully
+10:50:11 [ServerInfo] Move loaded successfully
+10:50:11 [ServerInfo] Quest loaded successfully
+10:50:11 [ServerInfo] Shop loaded successfully
+10:50:11 [ServerInfo] Skill loaded successfully
+10:50:11 [ServerInfo] Util loaded successfully
+10:50:11 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+10:50:11 [ReadBotInfo] BotSystem loaded successfully
+10:50:11 [Swamp Event] Sync Start Time. [414] min remain
+10:50:11 [Swamp Event] SetState EMPTY
+10:50:11 [SkyEvent] SetState_BLANK
+10:50:12 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+10:50:12 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+10:50:12 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+10:50:12 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+10:50:12 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+10:50:12 [CastleSiege] CCastleSiege::Init() - START
+10:50:12 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+10:50:12 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+10:50:13 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+11:04:21 [ServerInfo] CashShop loaded successfully
+11:04:21 [ServerInfo] ChaosMix loaded successfully
+11:04:21 [ServerInfo] Character loaded successfully
+11:04:21 [FakeOnline] Load Data OK
+11:04:21 [ServerInfo] Custom loaded successfully
+11:04:21 [ServerInfo] Command loaded successfully
+11:04:21 [ServerInfo] Common loaded successfully
+11:04:21 [ Crywolf ] State (0) -> NONE
+11:04:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:04:21 [ServerInfo] Event loaded successfully
+11:04:21 [ServerInfo] EventItemBag loaded successfully
+11:04:21 [ServerInfo] Hack loaded successfully
+11:04:21 [ServerInfo] Item loaded successfully
+11:04:21 [ServerInfo] Monster loaded successfully
+11:04:21 [ServerInfo] Move loaded successfully
+11:04:21 [ServerInfo] Quest loaded successfully
+11:04:21 [ServerInfo] Shop loaded successfully
+11:04:21 [ServerInfo] Skill loaded successfully
+11:04:21 [ServerInfo] Util loaded successfully
+11:04:21 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+11:04:21 [ReadBotInfo] BotSystem loaded successfully
+11:04:21 [Swamp Event] Sync Start Time. [400] min remain
+11:04:21 [Swamp Event] SetState EMPTY
+11:04:21 [SkyEvent] SetState_BLANK
+11:04:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+11:04:22 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:04:22 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+11:04:22 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+11:04:22 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+11:04:22 [CastleSiege] CCastleSiege::Init() - START
+11:04:22 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+11:04:22 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+11:04:23 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+11:08:58 [ServerInfo] CashShop loaded successfully
+11:08:58 [ServerInfo] ChaosMix loaded successfully
+11:08:58 [ServerInfo] Character loaded successfully
+11:08:58 [FakeOnline] Load Data OK
+11:08:58 [ServerInfo] Custom loaded successfully
+11:08:58 [ServerInfo] Command loaded successfully
+11:08:58 [ServerInfo] Common loaded successfully
+11:08:58 [ Crywolf ] State (0) -> NONE
+11:08:58 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:08:58 [ServerInfo] Event loaded successfully
+11:08:58 [ServerInfo] EventItemBag loaded successfully
+11:08:58 [ServerInfo] Hack loaded successfully
+11:08:58 [ServerInfo] Item loaded successfully
+11:08:58 [ServerInfo] Monster loaded successfully
+11:08:58 [ServerInfo] Move loaded successfully
+11:08:58 [ServerInfo] Quest loaded successfully
+11:08:58 [ServerInfo] Shop loaded successfully
+11:08:59 [ServerInfo] Skill loaded successfully
+11:08:59 [ServerInfo] Util loaded successfully
+11:08:59 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+11:08:59 [ReadBotInfo] BotSystem loaded successfully
+11:08:59 [Swamp Event] Sync Start Time. [396] min remain
+11:08:59 [Swamp Event] SetState EMPTY
+11:08:59 [SkyEvent] SetState_BLANK
+11:09:00 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+11:09:00 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:09:00 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+11:09:00 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+11:09:00 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+11:09:00 [CastleSiege] CCastleSiege::Init() - START
+11:09:00 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+11:09:00 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+11:09:01 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+11:12:41 [ServerInfo] CashShop loaded successfully
+11:12:41 [ServerInfo] ChaosMix loaded successfully
+11:12:41 [ServerInfo] Character loaded successfully
+11:12:41 [FakeOnline] Load Data OK
+11:12:41 [ServerInfo] Custom loaded successfully
+11:12:41 [ServerInfo] Command loaded successfully
+11:12:41 [ServerInfo] Common loaded successfully
+11:12:41 [ Crywolf ] State (0) -> NONE
+11:12:41 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:12:41 [ServerInfo] Event loaded successfully
+11:12:41 [ServerInfo] EventItemBag loaded successfully
+11:12:41 [ServerInfo] Hack loaded successfully
+11:12:41 [ServerInfo] Item loaded successfully
+11:12:41 [ServerInfo] Monster loaded successfully
+11:12:41 [ServerInfo] Move loaded successfully
+11:12:41 [ServerInfo] Quest loaded successfully
+11:12:41 [ServerInfo] Shop loaded successfully
+11:12:41 [ServerInfo] Skill loaded successfully
+11:12:41 [ServerInfo] Util loaded successfully
+11:12:41 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+11:12:41 [ReadBotInfo] BotSystem loaded successfully
+11:12:41 [Swamp Event] Sync Start Time. [392] min remain
+11:12:41 [Swamp Event] SetState EMPTY
+11:12:41 [SkyEvent] SetState_BLANK
+11:12:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+11:12:42 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:12:42 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+11:12:42 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+11:12:42 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+11:12:42 [CastleSiege] CCastleSiege::Init() - START
+11:12:42 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+11:12:42 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+11:12:43 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+11:28:51 [ServerInfo] CashShop loaded successfully
+11:28:51 [ServerInfo] ChaosMix loaded successfully
+11:28:51 [ServerInfo] Character loaded successfully
+11:28:51 [FakeOnline] Load Data OK
+11:28:51 [ServerInfo] Custom loaded successfully
+11:28:51 [ServerInfo] Command loaded successfully
+11:28:51 [ServerInfo] Common loaded successfully
+11:28:51 [ Crywolf ] State (0) -> NONE
+11:28:51 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+11:28:51 [ServerInfo] Event loaded successfully
+11:28:51 [ServerInfo] EventItemBag loaded successfully
+11:28:51 [ServerInfo] Hack loaded successfully
+11:28:51 [ServerInfo] Item loaded successfully
+11:28:52 [ServerInfo] Monster loaded successfully
+11:28:52 [ServerInfo] Move loaded successfully
+11:28:52 [ServerInfo] Quest loaded successfully
+11:28:52 [ServerInfo] Shop loaded successfully
+11:28:52 [ServerInfo] Skill loaded successfully
+11:28:52 [ServerInfo] Util loaded successfully
+11:28:52 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+11:28:52 [ReadBotInfo] BotSystem loaded successfully
+11:28:52 [Swamp Event] Sync Start Time. [376] min remain
+11:28:52 [Swamp Event] SetState EMPTY
+11:28:52 [SkyEvent] SetState_BLANK
+11:28:53 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+11:28:53 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+11:28:53 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+11:28:53 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+11:28:53 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+11:28:53 [CastleSiege] CCastleSiege::Init() - START
+11:28:53 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+11:28:53 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+11:28:54 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+11:43:00 [CTC] Bat Dau Event Cong Thanh
+11:48:00 [CTC] Finish 2
+12:35:28 [ServerInfo] CashShop loaded successfully
+12:35:28 [ServerInfo] ChaosMix loaded successfully
+12:35:28 [ServerInfo] Character loaded successfully
+12:35:28 [FakeOnline] Load Data OK
+12:35:28 [ServerInfo] Custom loaded successfully
+12:35:28 [ServerInfo] Command loaded successfully
+12:35:28 [ServerInfo] Common loaded successfully
+12:35:28 [ Crywolf ] State (0) -> NONE
+12:35:28 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:35:28 [ServerInfo] Event loaded successfully
+12:35:28 [ServerInfo] EventItemBag loaded successfully
+12:35:28 [ServerInfo] Hack loaded successfully
+12:35:28 [ServerInfo] Item loaded successfully
+12:35:28 [ServerInfo] Monster loaded successfully
+12:35:28 [ServerInfo] Move loaded successfully
+12:35:28 [ServerInfo] Quest loaded successfully
+12:35:28 [ServerInfo] Shop loaded successfully
+12:35:28 [ServerInfo] Skill loaded successfully
+12:35:28 [ServerInfo] Util loaded successfully
+12:35:28 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+12:35:28 [ReadBotInfo] BotSystem loaded successfully
+12:35:28 [Swamp Event] Sync Start Time. [309] min remain
+12:35:28 [Swamp Event] SetState EMPTY
+12:35:28 [SkyEvent] SetState_BLANK
+12:35:29 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+12:35:29 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+12:35:29 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+12:35:29 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+12:35:29 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+12:35:29 [CastleSiege] CCastleSiege::Init() - START
+12:35:29 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+12:35:29 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+12:35:30 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+12:40:45 [ServerInfo] CashShop loaded successfully
+12:40:45 [ServerInfo] ChaosMix loaded successfully
+12:40:45 [ServerInfo] Character loaded successfully
+12:40:45 [FakeOnline] Load Data OK
+12:40:45 [ServerInfo] Custom loaded successfully
+12:40:45 [ServerInfo] Command loaded successfully
+12:40:45 [ServerInfo] Common loaded successfully
+12:40:45 [ Crywolf ] State (0) -> NONE
+12:40:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:40:45 [ServerInfo] Event loaded successfully
+12:40:45 [ServerInfo] EventItemBag loaded successfully
+12:40:45 [ServerInfo] Hack loaded successfully
+12:40:45 [ServerInfo] Item loaded successfully
+12:40:45 [ServerInfo] Monster loaded successfully
+12:40:45 [ServerInfo] Move loaded successfully
+12:40:45 [ServerInfo] Quest loaded successfully
+12:40:46 [ServerInfo] Shop loaded successfully
+12:40:46 [ServerInfo] Skill loaded successfully
+12:40:46 [ServerInfo] Util loaded successfully
+12:40:46 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+12:40:46 [ReadBotInfo] BotSystem loaded successfully
+12:40:46 [Swamp Event] Sync Start Time. [304] min remain
+12:40:46 [Swamp Event] SetState EMPTY
+12:40:46 [SkyEvent] SetState_BLANK
+12:40:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+12:40:47 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+12:40:47 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+12:40:47 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+12:40:47 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+12:40:47 [CastleSiege] CCastleSiege::Init() - START
+12:40:47 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+12:40:47 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+12:40:48 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+12:46:47 [ServerInfo] CashShop loaded successfully
+12:46:47 [ServerInfo] ChaosMix loaded successfully
+12:46:47 [ServerInfo] Character loaded successfully
+12:46:47 [FakeOnline] Load Data OK
+12:46:47 [ServerInfo] Custom loaded successfully
+12:46:47 [ServerInfo] Command loaded successfully
+12:46:47 [ServerInfo] Common loaded successfully
+12:46:47 [ Crywolf ] State (0) -> NONE
+12:46:47 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:46:47 [ServerInfo] Event loaded successfully
+12:46:47 [ServerInfo] EventItemBag loaded successfully
+12:46:47 [ServerInfo] Hack loaded successfully
+12:46:47 [ServerInfo] Item loaded successfully
+12:46:48 [ServerInfo] Monster loaded successfully
+12:46:48 [ServerInfo] Move loaded successfully
+12:46:48 [ServerInfo] Quest loaded successfully
+12:46:48 [ServerInfo] Shop loaded successfully
+12:46:48 [ServerInfo] Skill loaded successfully
+12:46:48 [ServerInfo] Util loaded successfully
+12:46:48 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+12:46:48 [ReadBotInfo] BotSystem loaded successfully
+12:46:48 [Swamp Event] Sync Start Time. [298] min remain
+12:46:48 [Swamp Event] SetState EMPTY
+12:46:48 [SkyEvent] SetState_BLANK
+12:46:49 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+12:46:49 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+12:46:49 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+12:46:49 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+12:46:49 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+12:46:49 [CastleSiege] CCastleSiege::Init() - START
+12:46:49 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+12:46:49 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+12:46:50 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+12:51:26 [ServerInfo] CashShop loaded successfully
+12:51:26 [ServerInfo] ChaosMix loaded successfully
+12:51:26 [ServerInfo] Character loaded successfully
+12:51:26 [FakeOnline] Load Data OK
+12:51:26 [ServerInfo] Custom loaded successfully
+12:51:26 [ServerInfo] Command loaded successfully
+12:51:26 [ServerInfo] Common loaded successfully
+12:51:26 [ Crywolf ] State (0) -> NONE
+12:51:26 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+12:51:27 [ServerInfo] Event loaded successfully
+12:51:27 [ServerInfo] EventItemBag loaded successfully
+12:51:27 [ServerInfo] Hack loaded successfully
+12:51:27 [ServerInfo] Item loaded successfully
+12:51:27 [ServerInfo] Monster loaded successfully
+12:51:27 [ServerInfo] Move loaded successfully
+12:51:27 [ServerInfo] Quest loaded successfully
+12:51:27 [ServerInfo] Shop loaded successfully
+12:51:27 [ServerInfo] Skill loaded successfully
+12:51:27 [ServerInfo] Util loaded successfully
+12:51:27 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+12:51:27 [ReadBotInfo] BotSystem loaded successfully
+12:51:27 [Swamp Event] Sync Start Time. [293] min remain
+12:51:27 [Swamp Event] SetState EMPTY
+12:51:27 [SkyEvent] SetState_BLANK
+12:51:28 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+12:51:28 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+12:51:28 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2022-7-10)
+12:51:28 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+12:51:28 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2022-7-17(0:0:0))
+12:51:28 [CastleSiege] CCastleSiege::Init() - START
+12:51:28 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+12:51:28 [01:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+12:51:29 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+13:43:00 [CTC] Bat Dau Event Cong Thanh
+13:48:00 [CTC] Finish 2
+14:00:02 [02:08:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+14:43:00 [CTC] Bat Dau Event Cong Thanh
+14:48:00 [CTC] Finish 2
+15:43:00 [CTC] Bat Dau Event Cong Thanh
+15:48:00 [CTC] Finish 2
+16:43:00 [CTC] Bat Dau Event Cong Thanh
+16:48:00 [CTC] Finish 2
+17:43:00 [CTC] Bat Dau Event Cong Thanh
+17:45:00 [SwampEvent] PREPARING EVENT
+17:46:00 [SwampEvent] Started in 5 Minutos
+17:47:00 [SwampEvent] Started in 4 Minutos
+17:48:00 [CTC] Finish 2
+17:48:00 [SwampEvent] Started in 3 Minutos
+17:49:00 [SwampEvent] Started in 2 Minutos
+17:50:00 [SwampEvent] Started in 1 Minutos
+17:51:00 [SwampEvent] PREPARING NEW GROUP
+17:51:00 [Swamp Event] Sync Start Time. [1434] min remain
+17:51:00 [Swamp Event] SetState EMPTY
+18:43:00 [CTC] Bat Dau Event Cong Thanh
+18:48:00 [CTC] Finish 2
+19:43:00 [CTC] Bat Dau Event Cong Thanh
+19:48:00 [CTC] Finish 2
+20:43:00 [CTC] Bat Dau Event Cong Thanh
+20:48:00 [CTC] Finish 2
+21:43:00 [CTC] Bat Dau Event Cong Thanh
+21:48:00 [CTC] Finish 2
+22:43:00 [CTC] Bat Dau Event Cong Thanh
+22:48:00 [CTC] Finish 2
+23:43:00 [CTC] Bat Dau Event Cong Thanh
+23:48:00 [CTC] Finish 2

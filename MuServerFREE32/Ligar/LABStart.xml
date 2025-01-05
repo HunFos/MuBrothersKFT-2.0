@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="C:\MuServerUp32\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuServerUp32\DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuServerUp32\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuServerUp32\GameServer1- (Por)\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuServerUp32\GameServer5- (CastleSiege)\GameServerCS.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuServerUp32\GameServer2- (Eng)\DataServer2\DataServer2.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="C:\MuServerUp32\GameServer2- (Eng)\GameServer\GameServer2.exe" Parameters="" />
+</Processes>

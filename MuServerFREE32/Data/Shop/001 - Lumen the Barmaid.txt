@@ -1,0 +1,34 @@
+/////////////////////////////////////////////////////////////////////////////
+//Shop Editor cortesia de www.fb.com/igkgamers
+///////////////////////////
+//Aporte de www.fb.com/karuritoku
+///////////////////////////
+//Shop: 001 - Lumen the Barmaid
+/////////////////////////////////////////////////////////////////////////////
+//Group	Index	Level	Dur	Skill	Luck	Opt	ExeOpt	Acc	JoH	Oex	Sck[1]	Sck[2]	Sck[3]	Sck[4]	Sck[5]	Info
+/////////////////////////////////////////////////////////////////////////////
+//
+13	18	1	0	0	0	0	0	0	0	0	255	255	255	255	255	//Invisibility Cloak
+13	18	2	0	0	0	0	0	0	0	0	255	255	255	255	255	//Invisibility Cloak
+13	18	3	0	0	0	0	0	0	0	0	255	255	255	255	255	//Invisibility Cloak
+13	18	4	0	0	0	0	0	0	0	0	255	255	255	255	255	//Invisibility Cloak
+13	18	5	0	0	0	0	0	0	0	0	255	255	255	255	255	//Invisibility Cloak
+13	18	6	0	0	0	0	0	0	0	0	255	255	255	255	255	//Invisibility Cloak
+13	18	7	0	0	0	0	0	0	0	0	255	255	255	255	255	//Invisibility Cloak
+13	18	8	0	0	0	0	0	0	0	0	255	255	255	255	255	//Invisibility Cloak
+14	19	1	0	0	0	0	0	0	0	0	255	255	255	255	255	//Devil's Invitation
+14	19	2	0	0	0	0	0	0	0	0	255	255	255	255	255	//Devil's Invitation
+14	19	3	0	0	0	0	0	0	0	0	255	255	255	255	255	//Devil's Invitation
+14	19	4	0	0	0	0	0	0	0	0	255	255	255	255	255	//Devil's Invitation
+14	19	5	0	0	0	0	0	0	0	0	255	255	255	255	255	//Devil's Invitation
+14	19	6	0	0	0	0	0	0	0	0	255	255	255	255	255	//Devil's Invitation
+14	19	7	0	0	0	0	0	0	0	0	255	255	255	255	255	//Devil's Invitation
+14	10	0	0	0	0	0	0	0	0	0	255	255	255	255	255	//Town Portal Scroll
+13	0	0	255	0	0	0	0	0	0	0	255	255	255	255	255	//Guardian Angel
+13	1	0	255	0	0	0	0	0	0	0	255	255	255	255	255	//Imp
+13	2	0	255	0	0	0	0	0	0	0	255	255	255	255	255	//Horn of Uniria
+14	3	3	100	0	0	0	0	0	0	0	255	255	255	255	255	//Large Healing Potion
+14	6	3	100	0	0	0	0	0	0	0	255	255	255	255	255	//Large Mana Potion
+14	8	3	50	0	0	0	0	0	0	0	255	255	255	255	255	//Antidote
+13	29	0	1	0	0	0	0	0	0	0	255	255	255	255	255	//Armor of Guardsman
+end

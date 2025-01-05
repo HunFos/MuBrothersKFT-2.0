@@ -1,0 +1,12 @@
+09:26:12 [SocketManager] Server started at port [55964]
+09:26:15 [ServerManager][0] AddServer (127.0.0.1)
+09:26:15 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+09:26:52 [ServerManager][0] DelServer (127.0.0.1)
+09:27:44 [SocketManager] Server started at port [55964]
+09:27:46 [ServerManager][0] AddServer (127.0.0.1)
+09:27:46 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+13:35:27 [SocketManager] Server started at port [55964]
+13:35:29 [ServerManager][0] AddServer (127.0.0.1)
+13:35:29 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+14:00:01 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+14:00:01 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.

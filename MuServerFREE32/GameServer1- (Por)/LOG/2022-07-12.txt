@@ -1,0 +1,1198 @@
+07:53:18 [ServerInfo] CashShop loaded successfully
+07:53:18 [ServerInfo] ChaosMix loaded successfully
+07:53:18 [ServerInfo] Character loaded successfully
+07:53:18 [FakeOnline] Load Data OK
+07:53:18 [ServerInfo] Custom loaded successfully
+07:53:18 [ServerInfo] Command loaded successfully
+07:53:19 [ServerInfo] Common loaded successfully
+07:53:19 [ Crywolf ] State (0) -> NONE
+07:53:19 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+07:53:19 [ServerInfo] Event loaded successfully
+07:53:19 [ServerInfo] EventItemBag loaded successfully
+07:53:19 [ServerInfo] Hack loaded successfully
+07:53:19 [ServerInfo] Item loaded successfully
+07:53:19 [ServerInfo] Monster loaded successfully
+07:53:19 [ServerInfo] Move loaded successfully
+07:53:19 [ServerInfo] Quest loaded successfully
+07:53:19 [ServerInfo] Shop loaded successfully
+07:53:19 [ServerInfo] Skill loaded successfully
+07:53:19 [ServerInfo] Util loaded successfully
+07:53:19 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+07:53:19 [ReadBotInfo] BotSystem loaded successfully
+07:53:19 [Swamp Event] GROUP:1 set to 10 minutes
+07:53:19 [Swamp Event] GROUP:2 set to 10 minutes
+07:53:19 [Swamp Event] GROUP:3 set to 10 minutes
+07:53:19 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+07:53:19 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+07:53:19 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+07:53:19 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+07:53:19 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+07:53:19 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+07:53:19 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+07:53:19 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+07:53:19 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+07:53:19 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+07:53:19 [ServerInfo] SkyEvent Event loaded successfully
+07:53:22 [Swamp Event] Sync Start Time. [591] min remain
+07:53:22 [Swamp Event] SetState EMPTY
+07:53:22 [SkyEvent] Sync Start Time. [1026] min remain
+07:53:22 [SkyEvent] SetState_EMPTY
+07:53:24 [12:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+07:53:26 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+07:54:07 [Obj][15000] AddClient (177.75.155.16)
+07:54:12 [Obj][15000] AddAccount (admin)
+07:54:16 [Obj][15000] LogInCharacter (Admin)
+07:54:18 [Obj][15000] LogOutCharacter (Admin)
+07:54:18 [Obj][15000] LogOutCharacter ()
+07:54:18 [Obj][15000] DelAccount (admin)
+07:54:18 [Obj][15000] DelClient (177.75.155.16)
+07:55:06 [Obj][15000] AddClient (177.75.155.16)
+07:55:08 [Obj][15000] AddAccount (admin)
+07:55:10 [Obj][15000] LogInCharacter (Admin)
+07:55:15 [Obj][15000] LogOutCharacter (Admin)
+07:55:15 [Obj][15000] LogOutCharacter ()
+07:55:15 [Obj][15000] DelAccount (admin)
+07:55:15 [Obj][15000] DelClient (177.75.155.16)
+07:56:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+07:58:24 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:58:24 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+07:58:53 [Obj][15000] AddClient (177.75.155.16)
+07:58:54 [Obj][15000] AddAccount (admin)
+07:58:57 [Obj][15000] LogInCharacter (Admin)
+07:59:05 [Obj][15000] LogOutCharacter (Admin)
+07:59:05 [Obj][15000] LogOutCharacter ()
+07:59:05 [Obj][15000] DelAccount (admin)
+07:59:05 [Obj][15000] DelClient (177.75.155.16)
+08:01:48 [Obj][15000] AddClient (177.75.155.16)
+08:01:49 [Obj][15000] AddAccount (admin)
+08:01:55 [Obj][15000] LogInCharacter (Lordy)
+08:02:16 [Obj][15000] LogOutCharacter (Lordy)
+08:02:16 [Obj][15000] LogOutCharacter ()
+08:02:16 [Obj][15000] DelAccount (admin)
+08:02:16 [Obj][15000] DelClient (177.75.155.16)
+08:04:23 [ServerInfo] CashShop loaded successfully
+08:04:23 [ServerInfo] ChaosMix loaded successfully
+08:04:23 [ServerInfo] Character loaded successfully
+08:04:23 [FakeOnline] Load Data OK
+08:04:23 [ServerInfo] Custom loaded successfully
+08:04:23 [ServerInfo] Command loaded successfully
+08:04:23 [ServerInfo] Common loaded successfully
+08:04:23 [ Crywolf ] State (0) -> NONE
+08:04:23 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+08:04:23 [ServerInfo] Event loaded successfully
+08:04:23 [ServerInfo] EventItemBag loaded successfully
+08:04:23 [ServerInfo] Hack loaded successfully
+08:04:23 [ServerInfo] Item loaded successfully
+08:04:24 [ServerInfo] Monster loaded successfully
+08:04:24 [ServerInfo] Move loaded successfully
+08:04:24 [ServerInfo] Quest loaded successfully
+08:04:24 [ServerInfo] Shop loaded successfully
+08:04:24 [ServerInfo] Skill loaded successfully
+08:04:24 [ServerInfo] Util loaded successfully
+08:04:24 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+08:04:24 [ReadBotInfo] BotSystem loaded successfully
+08:04:24 [Swamp Event] GROUP:1 set to 10 minutes
+08:04:24 [Swamp Event] GROUP:2 set to 10 minutes
+08:04:24 [Swamp Event] GROUP:3 set to 10 minutes
+08:04:24 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+08:04:24 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+08:04:24 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+08:04:24 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+08:04:24 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+08:04:24 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+08:04:24 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+08:04:24 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+08:04:24 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+08:04:24 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+08:04:24 [ServerInfo] SkyEvent Event loaded successfully
+08:04:24 [Swamp Event] Sync Start Time. [580] min remain
+08:04:24 [Swamp Event] SetState EMPTY
+08:04:24 [SkyEvent] Sync Start Time. [1015] min remain
+08:04:24 [SkyEvent] SetState_EMPTY
+08:04:25 [12:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+08:04:32 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 196 Y: 75)
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 196 Y: 75)
+08:07:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:09:25 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:09:25 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:10:00 [CustomQuiz] Start
+08:13:00 [CustomQuiz] Finish
+08:14:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:14:26 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:14:26 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 174 Y: 13)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 174 Y: 13)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 139 Y: 167)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 139 Y: 167)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 238 Y: 184)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 238 Y: 184)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 130 Y: 43)
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 130 Y: 43)
+08:19:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+08:19:27 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+08:20:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:24:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+08:24:28 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 152 Y: 123)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 152 Y: 123)
+08:26:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:29:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:29:29 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:30:00 [MasterHour] Evento Iniciado!
+08:30:00 [MasterHours] Extra Drop:0,Extra Exp:20
+08:30:00 [MasterHours] Total Drop:100,Total Exp:420
+08:33:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:34:30 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:34:30 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:36:01 [OnlineLoterry] No Winner
+08:39:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:39:31 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:39:31 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+08:43:00 [CTC] Bat Dau Event Cong Thanh
+08:44:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:44:32 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:45:00 [MasterHours] End!
+08:45:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:48:00 [CTC] Finish 2
+08:49:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:49:33 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 150 Y: 64)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 150 Y: 64)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 154 Y: 62)
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 154 Y: 62)
+08:52:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:54:34 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:54:34 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+08:55:15 [Obj][15000] AddClient (177.75.155.16)
+08:55:16 [Obj][15000] AddAccount (admin)
+08:55:19 [Obj][15000] LogInCharacter (Admin)
+08:55:28 [Obj][15000] LogOutCharacter (Admin)
+08:55:28 [Obj][15000] LogOutCharacter ()
+08:55:28 [Obj][15000] DelAccount (admin)
+08:55:28 [Obj][15000] DelClient (177.75.155.16)
+08:58:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+08:59:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+08:59:35 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 128 Y: 164)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 128 Y: 164)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 130 Y: 166)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 130 Y: 166)
+09:04:36 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:04:36 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:04:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:09:37 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:09:37 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:10:00 [CustomQuiz] Start
+09:11:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:13:00 [CustomQuiz] Finish
+09:14:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:14:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:17:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:19:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:19:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:23:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:24:40 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+09:24:40 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+09:29:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:29:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:30:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:34:43 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:34:43 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+09:36:01 [OnlineLoterry] No Winner
+09:36:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:39:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:39:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:42:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:43:01 [CTC] Bat Dau Event Cong Thanh
+09:44:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:44:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:48:01 [CTC] Finish 2
+09:48:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:49:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:49:47 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+09:54:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:54:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+09:55:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+09:59:50 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+09:59:50 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:01:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:04:51 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:04:51 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:07:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:09:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:09:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:10:00 [CustomQuiz] Start
+10:13:00 [CustomQuiz] Finish
+10:14:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:14:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:14:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:19:54 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:19:54 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:20:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:24:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:24:55 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+10:26:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:29:56 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:29:56 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:33:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:34:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:34:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+10:36:02 [OnlineLoterry] No Winner
+10:39:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:39:58 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:39:58 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+10:43:00 [CTC] Bat Dau Event Cong Thanh
+10:44:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:44:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:45:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:48:00 [CTC] Finish 2
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 154 Y: 50)
+10:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 154 Y: 50)
+10:50:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:50:00 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+10:52:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+10:55:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:55:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+10:58:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:00:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:00:02 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:04:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:05:03 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:05:03 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:10:00 [CustomQuiz] Start
+11:10:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:10:04 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:11:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:13:00 [CustomQuiz] Finish
+11:15:05 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:15:05 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:17:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:20:06 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:20:06 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:23:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:25:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:25:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:30:09 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:30:09 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:30:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:35:10 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:35:10 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+11:36:01 [OnlineLoterry] No Winner
+11:36:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:40:12 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:40:12 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+11:42:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:43:00 [CTC] Bat Dau Event Cong Thanh
+11:45:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:45:13 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+11:48:00 [CTC] Finish 2
+11:49:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+11:50:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:50:16 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+11:55:18 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:55:18 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+11:55:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:00:18 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:00:18 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:01:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 77)
+12:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 203 Y: 77)
+12:05:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:05:21 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:08:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:10:00 [CustomQuiz] Start
+12:10:24 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:10:24 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:13:01 [CustomQuiz] Finish
+12:13:07 [Obj][15000] AddClient (138.186.116.99)
+12:13:21 [Obj][15000] DelClient (138.186.116.99)
+12:14:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:15:01 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 43 Y: 165)
+12:15:01 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 43 Y: 165)
+12:15:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:15:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:16:14 [Obj][15000] AddClient (138.186.116.99)
+12:16:18 [Obj][15000] DelClient (138.186.116.99)
+12:19:57 [Obj][15000] AddClient (138.186.116.99)
+12:20:35 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:20:35 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+12:20:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:21:07 [Obj][15000] DelClient (138.186.116.99)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 32 Y: 223)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 32 Y: 223)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 114 Y: 32)
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 114 Y: 32)
+12:25:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:25:41 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:27:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:29:16 [Obj][15000] AddClient (138.186.116.99)
+12:30:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:30:42 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:31:15 [Obj][15000] DelClient (138.186.116.99)
+12:31:19 [Obj][15001] AddClient (138.186.116.99)
+12:32:07 [Obj][15001] DelClient (138.186.116.99)
+12:32:09 [Obj][15000] AddClient (138.186.116.99)
+12:32:22 [Obj][15000] AddAccount (marcia32)
+12:33:21 [Obj][15000] LogInCharacter (lindinha)
+12:33:32 [Obj][15000] LogOutCharacter (lindinha)
+12:33:32 [Obj][15000] LogOutCharacter ()
+12:33:32 [Obj][15000] DelAccount (marcia32)
+12:33:32 [Obj][15000] DelClient (138.186.116.99)
+12:33:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:35:43 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:35:43 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+12:36:01 [OnlineLoterry] No Winner
+12:39:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:40:02 [Obj][15001] AddClient (138.186.116.99)
+12:40:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:40:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+12:42:25 [Obj][15001] DelClient (138.186.116.99)
+12:42:28 [Obj][15000] AddClient (138.186.116.99)
+12:42:45 [Obj][15000] AddAccount (joao)
+12:43:01 [CTC] Bat Dau Event Cong Thanh
+12:43:04 [Obj][15000] DelAccount (joao)
+12:43:04 [Obj][15000] DelClient (138.186.116.99)
+12:45:25 [Obj][15001] AddClient (138.186.116.99)
+12:45:34 [Obj][15001] DelClient (138.186.116.99)
+12:45:52 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:45:52 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:46:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:46:22 [Obj][15000] AddClient (138.186.116.99)
+12:46:29 [Obj][15000] DelClient (138.186.116.99)
+12:47:43 [Obj][15001] AddClient (138.186.116.99)
+12:48:01 [CTC] Finish 2
+12:49:54 [Obj][15001] DelClient (138.186.116.99)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 166 Y: 17)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 166 Y: 17)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 162 Y: 12)
+12:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 162 Y: 12)
+12:50:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:50:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+12:52:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:55:56 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:55:56 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+12:58:55 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+12:59:58 [Obj][15000] AddClient (138.186.116.99)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 181 Y: 116)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 181 Y: 116)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 183 Y: 120)
+13:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 183 Y: 120)
+13:00:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:00:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:01:18 [Obj][15000] DelClient (138.186.116.99)
+13:02:20 [Obj][15001] AddClient (138.186.116.99)
+13:02:35 [Obj][15001] DelClient (138.186.116.99)
+13:05:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:06:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:06:01 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:10:00 [CustomQuiz] Start
+13:11:02 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:11:02 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:11:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:13:00 [CustomQuiz] Finish
+13:16:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:16:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:17:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:21:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:21:04 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:24:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:26:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:26:05 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:27:50 [Obj][15000] AddClient (138.186.116.99)
+13:28:39 [Obj][15000] AddAccount (joao)
+13:28:43 [Obj][15000] DelAccount (joao)
+13:28:43 [Obj][15000] DelClient (138.186.116.99)
+13:30:02 [Obj][15001] AddClient (138.186.116.99)
+13:30:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:30:42 [Obj][15001] DelClient (138.186.116.99)
+13:31:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:31:06 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+13:36:01 [OnlineLoterry] No Winner
+13:36:07 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:36:07 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:36:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:41:08 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:41:08 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:43:00 [CTC] Bat Dau Event Cong Thanh
+13:43:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:46:09 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:46:09 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+13:47:08 [Obj][15000] AddClient (138.186.116.99)
+13:47:22 [Obj][15000] DelClient (138.186.116.99)
+13:48:00 [CTC] Finish 2
+13:49:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:51:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:51:10 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+13:53:02 [Obj][15001] AddClient (138.186.116.99)
+13:53:57 [Obj][15001] DelClient (138.186.116.99)
+13:53:59 [Obj][15000] AddClient (138.186.116.99)
+13:54:05 [Obj][15000] AddAccount (hijo)
+13:54:17 [Obj][15000] LogInCharacter (Invocada)
+13:54:33 [Obj][15000] LogOutCharacter (Invocada)
+13:54:33 [Obj][15000] LogOutCharacter ()
+13:54:33 [Obj][15000] DelAccount (hijo)
+13:54:33 [Obj][15000] DelClient (138.186.116.99)
+13:54:37 [Obj][15001] AddClient (138.186.116.99)
+13:54:49 [Obj][15001] AddAccount (joao)
+13:55:03 [Obj][15001] DelAccount (joao)
+13:55:03 [Obj][15001] DelClient (138.186.116.99)
+13:55:06 [Obj][15000] AddClient (138.186.116.99)
+13:55:11 [Obj][15000] AddAccount (admin)
+13:55:19 [Obj][15000] DelAccount (admin)
+13:55:19 [Obj][15000] DelClient (138.186.116.99)
+13:55:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+13:56:11 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:56:11 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+13:59:54 [Obj][15001] AddClient (138.186.116.99)
+14:00:09 [13:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+14:00:30 [Obj][15001] DelClient (138.186.116.99)
+14:01:12 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:01:12 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:02:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:06:03 [Obj][15000] AddClient (138.186.116.99)
+14:06:13 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:06:13 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:06:30 [Obj][15000] DelClient (138.186.116.99)
+14:08:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:10:00 [CustomQuiz] Start
+14:11:14 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:11:14 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:12:11 [Obj][15001] AddClient (138.186.116.99)
+14:12:35 [Obj][15001] AddAccount (hijo)
+14:12:42 [Obj][15001] DelAccount (hijo)
+14:12:42 [Obj][15001] DelClient (138.186.116.99)
+14:13:00 [CustomQuiz] Finish
+14:14:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:16:16 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:16:16 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:21:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:21:18 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:21:18 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:22:20 [Obj][15000] AddClient (138.186.116.99)
+14:22:32 [Obj][15000] DelClient (138.186.116.99)
+14:25:10 [Obj][15001] AddClient (138.186.116.99)
+14:25:16 [Obj][15001] DelClient (138.186.116.99)
+14:26:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:26:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:27:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:29:21 [Obj][15000] AddClient (138.186.116.99)
+14:29:31 [Obj][15000] AddAccount (hijo)
+14:29:47 [Obj][15000] DelAccount (hijo)
+14:29:47 [Obj][15000] DelClient (138.186.116.99)
+14:29:52 [Obj][15001] AddClient (138.186.116.99)
+14:30:03 [Obj][15001] AddAccount (joao)
+14:30:21 [Obj][15001] DelAccount (joao)
+14:30:21 [Obj][15001] DelClient (138.186.116.99)
+14:30:24 [Obj][15000] AddClient (138.186.116.99)
+14:30:31 [Obj][15000] AddAccount (admin)
+14:30:34 [Obj][15000] LogInCharacter (Admin)
+14:31:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:31:20 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+14:31:49 [Obj][15000] LogOutCharacter (Admin)
+14:31:49 [Obj][15000] LogOutCharacter ()
+14:31:49 [Obj][15000] DelAccount (admin)
+14:31:49 [Obj][15000] DelClient (138.186.116.99)
+14:33:49 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:36:01 [OnlineLoterry] No Winner
+14:36:21 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:36:21 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+14:38:28 [Obj][15001] AddClient (138.186.116.99)
+14:38:41 [Obj][15001] AddAccount (admin)
+14:38:44 [Obj][15001] DelAccount (admin)
+14:38:44 [Obj][15001] DelClient (138.186.116.99)
+14:40:09 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:41:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:41:22 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:43:00 [CTC] Bat Dau Event Cong Thanh
+14:46:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:46:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:46:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:48:00 [CTC] Finish 2
+14:50:01 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 201 Y: 75)
+14:50:01 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 201 Y: 75)
+14:51:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:51:25 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+14:52:48 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+14:56:26 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:56:26 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+14:59:08 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:01:27 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:01:27 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+15:05:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:06:28 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:06:28 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:10:00 [CustomQuiz] Start
+15:11:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:11:31 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:11:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:13:00 [CustomQuiz] Finish
+15:16:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:16:32 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:18:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:21:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:21:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:24:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:26:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:26:39 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:30:00 [Invasion Manager] Index(9) Boss Position (Map: 0 X: 177 Y: 31)
+15:30:00 [Invasion Manager] Index(9) Boss Position (Map: 0 X: 177 Y: 31)
+15:30:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:31:41 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:31:41 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+15:36:01 [OnlineLoterry] No Winner
+15:36:42 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:36:42 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:37:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:41:45 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:41:45 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:43:00 [CTC] Bat Dau Event Cong Thanh
+15:43:27 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:46:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:46:48 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+15:48:00 [CTC] Finish 2
+15:49:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:51:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:51:49 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+15:56:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+15:56:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+15:56:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:00:00 [Invasion Manager] Index(10) Boss Position (Map: 51 X: 103 Y: 55)
+16:00:00 [Invasion Manager] Index(10) Boss Position (Map: 51 X: 103 Y: 55)
+16:01:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:01:54 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:02:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 125 Y: 192)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 125 Y: 192)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 136 Y: 196)
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 136 Y: 196)
+16:06:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:06:54 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:08:46 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:10:00 [CustomQuiz] Start
+16:11:57 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:11:57 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:13:00 [CustomQuiz] Finish
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 102 Y: 46)
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 102 Y: 46)
+16:15:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:16:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:16:57 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:21:25 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:21:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:21:58 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 239 Y: 125)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 239 Y: 125)
+16:26:59 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:26:59 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:27:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:32:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:32:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:34:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:36:01 [OnlineLoterry] No Winner
+16:37:01 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:37:01 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+16:40:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:42:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:42:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+16:43:00 [CTC] Bat Dau Event Cong Thanh
+16:46:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:46:56 [Obj][15000] AddClient (138.186.116.99)
+16:47:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:47:03 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+16:47:23 [Obj][15000] AddAccount (admin)
+16:47:27 [Obj][15000] LogInCharacter (Admin)
+16:48:00 [CTC] Finish 2
+16:48:26 [Obj][15000] LogOutCharacter (Admin)
+16:48:26 [Obj][15000] LogOutCharacter ()
+16:48:26 [Obj][15000] DelAccount (admin)
+16:48:26 [Obj][15000] DelClient (138.186.116.99)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 194 Y: 70)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 194 Y: 70)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 195 Y: 74)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 3 X: 195 Y: 74)
+16:50:00 [Invasion Manager] Index(11) Boss Position (Map: 90 X: 61 Y: 15)
+16:50:00 [Invasion Manager] Index(11) Boss Position (Map: 90 X: 61 Y: 15)
+16:52:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:52:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+16:53:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+16:57:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:57:05 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+16:59:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 135 Y: 163)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 135 Y: 163)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 127 Y: 165)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 127 Y: 165)
+17:02:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:02:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:04:47 [Obj][15001] AddClient (138.186.116.99)
+17:05:00 [Obj][15001] DelClient (138.186.116.99)
+17:05:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:07:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:07:08 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+17:09:13 [Obj][15000] AddClient (138.186.116.99)
+17:09:21 [Obj][15000] DelClient (138.186.116.99)
+17:10:00 [CustomQuiz] Start
+17:12:03 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:12:08 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:12:08 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+17:13:00 [CustomQuiz] Finish
+17:17:12 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:17:12 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:18:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:33:56 [ServerInfo] CashShop loaded successfully
+17:33:56 [ServerInfo] ChaosMix loaded successfully
+17:33:56 [ServerInfo] Character loaded successfully
+17:33:56 [FakeOnline] Load Data OK
+17:33:56 [ServerInfo] Custom loaded successfully
+17:33:56 [ServerInfo] Command loaded successfully
+17:33:56 [ServerInfo] Common loaded successfully
+17:33:56 [ Crywolf ] State (0) -> NONE
+17:33:56 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+17:33:56 [ServerInfo] Event loaded successfully
+17:33:56 [ServerInfo] EventItemBag loaded successfully
+17:33:56 [ServerInfo] Hack loaded successfully
+17:33:56 [ServerInfo] Item loaded successfully
+17:33:57 [ServerInfo] Monster loaded successfully
+17:33:57 [ServerInfo] Move loaded successfully
+17:33:57 [ServerInfo] Quest loaded successfully
+17:33:57 [ServerInfo] Shop loaded successfully
+17:33:57 [ServerInfo] Skill loaded successfully
+17:33:57 [ServerInfo] Util loaded successfully
+17:33:57 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+17:33:57 [ReadBotInfo] BotSystem loaded successfully
+17:33:57 [Swamp Event] GROUP:1 set to 10 minutes
+17:33:57 [Swamp Event] GROUP:2 set to 10 minutes
+17:33:57 [Swamp Event] GROUP:3 set to 10 minutes
+17:33:57 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+17:33:57 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+17:33:57 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+17:33:57 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+17:33:57 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+17:33:57 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+17:33:57 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+17:33:57 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+17:33:57 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+17:33:57 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+17:33:57 [ServerInfo] SkyEvent Event loaded successfully
+17:33:57 [Swamp Event] Sync Start Time. [11] min remain
+17:33:57 [Swamp Event] SetState EMPTY
+17:33:57 [SkyEvent] Sync Start Time. [446] min remain
+17:33:57 [SkyEvent] SetState_EMPTY
+17:33:59 [13:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+17:34:04 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:35:52 [Obj][15000] AddClient (138.186.116.99)
+17:36:01 [OnlineLoterry] No Winner
+17:36:01 [Obj][15000] DelClient (138.186.116.99)
+17:37:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:38:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:38:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+17:40:58 [Obj][15000] AddClient (138.186.116.99)
+17:41:00 [Obj][15000] AddAccount (admin)
+17:41:05 [Obj][15000] LogInCharacter (Admin)
+17:41:39 [Obj][15000] LogOutCharacter (Admin)
+17:41:39 [Obj][15000] LogOutCharacter ()
+17:41:39 [Obj][15000] DelAccount (admin)
+17:41:39 [Obj][15000] DelClient (138.186.116.99)
+17:43:00 [CTC] Bat Dau Event Cong Thanh
+17:43:06 [Obj][15000] AddClient (138.186.116.99)
+17:43:08 [Obj][15000] AddAccount (admin)
+17:43:12 [Obj][15000] LogInCharacter (Admin)
+17:43:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:43:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:43:59 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:44:03 [Obj][15000] LogOutCharacter (Admin)
+17:44:03 [Obj][15000] LogOutCharacter ()
+17:44:03 [Obj][15000] DelAccount (admin)
+17:44:03 [Obj][15000] DelClient (138.186.116.99)
+17:45:00 [SwampEvent] PREPARING EVENT
+17:46:00 [SwampEvent] Started in 5 Minutos
+17:47:00 [SwampEvent] Started in 4 Minutos
+17:48:00 [CTC] Finish 2
+17:48:00 [SwampEvent] Started in 3 Minutos
+17:50:19 [ServerInfo] CashShop loaded successfully
+17:50:19 [ServerInfo] ChaosMix loaded successfully
+17:50:19 [ServerInfo] Character loaded successfully
+17:50:19 [FakeOnline] Load Data OK
+17:50:19 [ServerInfo] Custom loaded successfully
+17:50:19 [ServerInfo] Command loaded successfully
+17:50:19 [ServerInfo] Common loaded successfully
+17:50:19 [ Crywolf ] State (0) -> NONE
+17:50:19 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+17:50:19 [ServerInfo] Event loaded successfully
+17:50:19 [ServerInfo] EventItemBag loaded successfully
+17:50:19 [ServerInfo] Hack loaded successfully
+17:50:19 [ServerInfo] Item loaded successfully
+17:50:19 [ServerInfo] Monster loaded successfully
+17:50:19 [ServerInfo] Move loaded successfully
+17:50:19 [ServerInfo] Quest loaded successfully
+17:50:19 [ServerInfo] Shop loaded successfully
+17:50:19 [ServerInfo] Skill loaded successfully
+17:50:19 [ServerInfo] Util loaded successfully
+17:50:19 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+17:50:19 [ReadBotInfo] BotSystem loaded successfully
+17:50:19 [Swamp Event] GROUP:1 set to 10 minutes
+17:50:19 [Swamp Event] GROUP:2 set to 10 minutes
+17:50:19 [Swamp Event] GROUP:3 set to 10 minutes
+17:50:19 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+17:50:19 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+17:50:19 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+17:50:19 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+17:50:19 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+17:50:19 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+17:50:19 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+17:50:19 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+17:50:19 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+17:50:19 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+17:50:19 [ServerInfo] SkyEvent Event loaded successfully
+17:50:20 [Swamp Event] Sync Start Time. [1434] min remain
+17:50:20 [Swamp Event] SetState EMPTY
+17:50:20 [SkyEvent] Sync Start Time. [429] min remain
+17:50:20 [SkyEvent] SetState_EMPTY
+17:50:21 [13:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+17:50:27 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:53:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+17:54:36 [Obj][15000] AddClient (138.186.116.99)
+17:54:49 [Obj][15000] AddAccount (admin)
+17:54:53 [Obj][15000] LogInCharacter (Admin)
+17:55:09 [Obj][15000] LogOutCharacter (Admin)
+17:55:09 [Obj][15000] LogOutCharacter ()
+17:55:09 [Obj][15000] DelAccount (admin)
+17:55:09 [Obj][15000] DelClient (138.186.116.99)
+17:55:21 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:55:21 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+17:59:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:00:40 [ServerInfo] CashShop loaded successfully
+18:00:40 [ServerInfo] ChaosMix loaded successfully
+18:00:40 [ServerInfo] Character loaded successfully
+18:00:40 [FakeOnline] Load Data OK
+18:00:40 [ServerInfo] Custom loaded successfully
+18:00:40 [ServerInfo] Command loaded successfully
+18:00:40 [ServerInfo] Common loaded successfully
+18:00:40 [ Crywolf ] State (0) -> NONE
+18:00:40 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+18:00:40 [ServerInfo] Event loaded successfully
+18:00:40 [ServerInfo] EventItemBag loaded successfully
+18:00:40 [ServerInfo] Hack loaded successfully
+18:00:40 [ServerInfo] Item loaded successfully
+18:00:40 [ServerInfo] Monster loaded successfully
+18:00:40 [ServerInfo] Move loaded successfully
+18:00:40 [ServerInfo] Quest loaded successfully
+18:00:40 [ServerInfo] Shop loaded successfully
+18:00:40 [ServerInfo] Skill loaded successfully
+18:00:40 [ServerInfo] Util loaded successfully
+18:00:40 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+18:00:40 [ReadBotInfo] BotSystem loaded successfully
+18:00:40 [Swamp Event] GROUP:1 set to 10 minutes
+18:00:40 [Swamp Event] GROUP:2 set to 10 minutes
+18:00:40 [Swamp Event] GROUP:3 set to 10 minutes
+18:00:40 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+18:00:40 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+18:00:40 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+18:00:40 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+18:00:40 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+18:00:40 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+18:00:40 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+18:00:40 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+18:00:40 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+18:00:40 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+18:00:40 [ServerInfo] SkyEvent Event loaded successfully
+18:00:40 [Swamp Event] Sync Start Time. [1424] min remain
+18:00:40 [Swamp Event] SetState EMPTY
+18:00:40 [SkyEvent] Sync Start Time. [419] min remain
+18:00:40 [SkyEvent] SetState_EMPTY
+18:00:42 [13:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+18:00:48 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:01:13 [Obj][15000] AddClient (138.186.116.99)
+18:01:15 [Obj][15000] AddAccount (admin)
+18:01:18 [Obj][15000] LogInCharacter (Admin)
+18:02:29 [Obj][15000] LogOutCharacter (Admin)
+18:02:29 [Obj][15000] LogOutCharacter ()
+18:02:29 [Obj][15000] DelAccount (admin)
+18:02:29 [Obj][15000] DelClient (138.186.116.99)
+18:04:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:05:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:05:42 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:07:15 [Obj][15000] AddClient (138.186.116.99)
+18:07:17 [Obj][15000] AddAccount (admin)
+18:07:20 [Obj][15000] LogInCharacter (Admin)
+18:07:30 [Obj][15000] LogOutCharacter (Admin)
+18:07:30 [Obj][15000] LogOutCharacter ()
+18:07:30 [Obj][15000] DelAccount (admin)
+18:07:30 [Obj][15000] DelClient (138.186.116.99)
+18:10:00 [CustomQuiz] Start
+18:10:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:10:30 [Obj][15000] AddClient (138.186.116.99)
+18:10:32 [Obj][15000] DelClient (138.186.116.99)
+18:10:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:10:43 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:13:00 [CustomQuiz] Finish
+18:14:59 [Obj][15000] AddClient (138.186.116.99)
+18:15:09 [Obj][15000] AddAccount (hijo)
+18:15:12 [Obj][15000] DelAccount (hijo)
+18:15:12 [Obj][15000] DelClient (138.186.116.99)
+18:15:44 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:15:44 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:16:40 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:20:45 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:20:45 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:23:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:25:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:25:46 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:29:19 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:30:00 [Invasion Manager] Index(14) Boss Position (Map: 10 X: 59 Y: 181)
+18:30:00 [Invasion Manager] Index(14) Boss Position (Map: 10 X: 59 Y: 181)
+18:30:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:30:47 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+18:35:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:35:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:35:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:36:01 [OnlineLoterry] No Winner
+18:40:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:40:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:41:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:43:00 [CTC] Bat Dau Event Cong Thanh
+18:45:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:45:50 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:48:00 [CTC] Finish 2
+18:48:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 159 Y: 20)
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 159 Y: 20)
+18:50:51 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:50:51 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+18:54:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+18:55:52 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:55:52 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+18:58:28 [Obj][15000] AddClient (138.186.116.99)
+18:58:31 [Obj][15000] AddAccount (hijo)
+18:58:43 [Obj][15000] DelAccount (hijo)
+18:58:43 [Obj][15000] DelClient (138.186.116.99)
+18:58:47 [Obj][15001] AddClient (138.186.116.99)
+18:58:51 [Obj][15001] AddAccount (admin)
+18:58:54 [Obj][15001] LogInCharacter (Admin)
+18:59:28 [Obj][15001] LogOutCharacter (Admin)
+18:59:28 [Obj][15001] LogOutCharacter ()
+18:59:28 [Obj][15001] DelAccount (admin)
+18:59:28 [Obj][15001] DelClient (138.186.116.99)
+19:00:53 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:00:53 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:00:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:02:25 [Obj][15000] AddClient (138.186.116.99)
+19:02:26 [Obj][15000] AddAccount (admin)
+19:02:30 [Obj][15000] LogInCharacter (Admin)
+19:02:42 [Obj][15000] LogOutCharacter (Admin)
+19:02:42 [Obj][15000] LogOutCharacter ()
+19:02:42 [Obj][15000] DelAccount (admin)
+19:02:42 [Obj][15000] DelClient (138.186.116.99)
+19:05:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:05:54 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:06:22 [Obj][15001] AddClient (138.186.116.99)
+19:06:28 [Obj][15001] AddAccount (admin)
+19:06:31 [Obj][15001] LogInCharacter (Admin)
+19:07:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:07:19 [Obj][15001] LogOutCharacter (Admin)
+19:07:19 [Obj][15001] LogOutCharacter ()
+19:07:19 [Obj][15001] DelAccount (admin)
+19:07:19 [Obj][15001] DelClient (138.186.116.99)
+19:11:26 [ServerInfo] CashShop loaded successfully
+19:11:26 [ServerInfo] ChaosMix loaded successfully
+19:11:26 [ServerInfo] Character loaded successfully
+19:11:26 [FakeOnline] Load Data OK
+19:11:26 [ServerInfo] Custom loaded successfully
+19:11:26 [ServerInfo] Command loaded successfully
+19:11:26 [ServerInfo] Common loaded successfully
+19:11:26 [ Crywolf ] State (0) -> NONE
+19:11:26 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+19:11:26 [ServerInfo] Event loaded successfully
+19:11:26 [ServerInfo] EventItemBag loaded successfully
+19:11:26 [ServerInfo] Hack loaded successfully
+19:11:26 [ServerInfo] Item loaded successfully
+19:11:26 [ServerInfo] Monster loaded successfully
+19:11:26 [ServerInfo] Move loaded successfully
+19:11:26 [ServerInfo] Quest loaded successfully
+19:11:26 [ServerInfo] Shop loaded successfully
+19:11:26 [ServerInfo] Skill loaded successfully
+19:11:26 [ServerInfo] Util loaded successfully
+19:11:26 [BotStore] Loaded Successfully ..\Data\Custom\BotSystem\BotStore.txt 
+19:11:26 [ReadBotInfo] BotSystem loaded successfully
+19:11:26 [Swamp Event] GROUP:1 set to 10 minutes
+19:11:26 [Swamp Event] GROUP:2 set to 10 minutes
+19:11:26 [Swamp Event] GROUP:3 set to 10 minutes
+19:11:26 [Swamp Section: 0] ROOM:1 [Tọa độ 68,203] has 1 groups
+19:11:26 [Swamp Section: 0] ROOM:2 [Tọa độ 68,203] has 2 groups
+19:11:26 [Swamp Section: 0] ROOM:3 [Tọa độ 68,203] has 3 groups
+19:11:26 [Swamp Section: 0] ROOM:4 [Tọa độ 68,203] has 4 groups
+19:11:26 [Swamp Section: 1] ROOM:4[1] Monster:561 Count:1
+19:11:26 [Swamp Section: 1] ROOM:4[2] Monster:561 Count:1
+19:11:26 [Swamp Section: 1] ROOM:4[3] Monster:561 Count:1
+19:11:26 [Swamp Section: 1] ROOM:4[4] Monster:561 Count:1
+19:11:26 [Swamp Event] - ..\Data\Event\SwampEvent\SwampMonsterGroup.dat file is Loaded Event Lines:4 Mobs:4
+19:11:26 [SkyEvent] - ..\Data\Event\SkyEvent\SkyMonsterGroup.dat file is Loaded
+19:11:26 [ServerInfo] SkyEvent Event loaded successfully
+19:11:27 [Swamp Event] Sync Start Time. [1353] min remain
+19:11:27 [Swamp Event] SetState EMPTY
+19:11:27 [SkyEvent] Sync Start Time. [348] min remain
+19:11:27 [SkyEvent] SetState_EMPTY
+19:11:28 [13:07:2022][GHRS] Cap nhat GHRS hom nay: 50 (Top 1 00h duoc reset +50)
+19:11:34 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+19:11:48 [Obj][15000] AddClient (138.186.116.99)
+19:11:50 [Obj][15000] AddAccount (admin)
+19:11:53 [Obj][15000] LogInCharacter (Admin)
+19:12:06 [Obj][15000] LogOutCharacter (Admin)
+19:12:06 [Obj][15000] LogOutCharacter ()
+19:12:06 [Obj][15000] DelAccount (admin)
+19:12:06 [Obj][15000] DelClient (138.186.116.99)
+19:14:47 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:15:08 [Obj][15000] AddClient (138.186.116.99)
+19:15:10 [Obj][15000] AddAccount (admin)
+19:15:13 [Obj][15000] LogInCharacter (Admin)
+19:15:22 [Obj][15000] LogOutCharacter (Admin)
+19:15:22 [Obj][15000] LogOutCharacter ()
+19:15:22 [Obj][15000] DelAccount (admin)
+19:15:22 [Obj][15000] DelClient (138.186.116.99)
+19:16:28 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:16:28 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+19:21:06 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:21:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:21:29 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:26:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:26:30 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:27:26 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:31:31 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:31:31 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+19:33:45 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:36:01 [OnlineLoterry] No Winner
+19:36:32 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:36:32 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+19:36:58 [Obj][15000] AddClient (138.186.116.99)
+19:37:10 [Obj][15000] DelClient (138.186.116.99)
+19:40:05 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:41:33 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:41:33 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:43:00 [CTC] Bat Dau Event Cong Thanh
+19:46:11 [Obj][15000] AddClient (138.186.116.99)
+19:46:13 [Obj][15000] DelClient (138.186.116.99)
+19:46:24 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:46:34 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:46:34 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:48:00 [CTC] Finish 2
+19:51:35 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:51:35 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+19:52:44 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+19:56:36 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:56:36 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+19:58:25 [Obj][15000] AddClient (138.186.116.99)
+19:58:32 [Obj][15000] DelClient (138.186.116.99)
+19:59:04 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:01:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:01:37 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 128 Y: 200)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 128 Y: 200)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 128 Y: 192)
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 128 Y: 192)
+20:05:23 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:06:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:06:38 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:10:00 [CustomQuiz] Start
+20:11:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:11:39 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:11:43 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:13:00 [CustomQuiz] Finish
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 107 Y: 98)
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 107 Y: 98)
+20:16:40 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:16:40 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:17:44 [Obj][15000] AddClient (138.186.116.99)
+20:17:46 [Obj][15000] DelClient (138.186.116.99)
+20:18:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:21:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:21:41 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:21:43 [Obj][15000] AddClient (138.186.116.99)
+20:21:49 [Obj][15000] DelClient (138.186.116.99)
+20:24:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 182 Y: 86)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 182 Y: 86)
+20:26:42 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:26:42 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:28:36 [Obj][15000] AddClient (138.186.116.99)
+20:28:40 [Obj][15000] DelClient (138.186.116.99)
+20:30:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:31:43 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:31:43 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:33:37 [Obj][15000] AddClient (138.186.116.99)
+20:33:39 [Obj][15000] DelClient (138.186.116.99)
+20:36:01 [OnlineLoterry] No Winner
+20:36:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:36:44 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+20:37:01 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:41:45 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:41:45 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+20:43:00 [CTC] Bat Dau Event Cong Thanh
+20:43:21 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:46:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:46:46 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+20:48:00 [CTC] Finish 2
+20:49:41 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:49:47 [Obj][15000] AddClient (138.186.116.99)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 155 Y: 63)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 155 Y: 63)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 161 Y: 48)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 161 Y: 48)
+20:50:08 [Obj][15000] AddAccount (admin)
+20:50:24 [Obj][15000] DelAccount (admin)
+20:50:24 [Obj][15000] DelClient (138.186.116.99)
+20:51:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:51:47 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+20:51:53 [Obj][15000] AddClient (138.186.116.99)
+20:51:57 [Obj][15000] DelClient (138.186.116.99)
+20:55:17 [Obj][15000] AddClient (138.186.116.99)
+20:55:42 [Obj][15000] DelClient (138.186.116.99)
+20:56:00 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+20:56:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:56:48 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+20:57:31 [Obj][15000] AddClient (138.186.116.99)
+20:57:42 [Obj][15000] DelClient (138.186.116.99)
+20:58:57 [Obj][15000] AddClient (138.186.116.99)
+20:59:04 [Obj][15000] DelClient (138.186.116.99)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 154 Y: 18)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 154 Y: 18)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 152 Y: 15)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 152 Y: 15)
+21:01:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:01:49 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+21:02:20 [Obj][15000] AddClient (138.186.116.99)
+21:02:20 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:03:46 [Obj][15000] DelClient (138.186.116.99)
+21:04:16 [Obj][15000] AddClient (138.186.116.99)
+21:04:39 [Obj][15000] DelClient (138.186.116.99)
+21:05:11 [Obj][15000] AddClient (138.186.116.99)
+21:06:21 [Obj][15000] DelClient (138.186.116.99)
+21:06:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:06:50 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:07:04 [Obj][15000] AddClient (138.186.116.99)
+21:07:33 [Obj][15000] DelClient (138.186.116.99)
+21:08:39 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:10:00 [CustomQuiz] Start
+21:11:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:11:51 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:13:00 [CustomQuiz] Finish
+21:14:59 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:16:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:16:52 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:17:24 [Obj][15000] AddClient (138.186.116.99)
+21:17:36 [Obj][15000] DelClient (138.186.116.99)
+21:19:00 [Obj][15000] AddClient (138.186.116.99)
+21:19:17 [Obj][15000] DelClient (138.186.116.99)
+21:20:35 [Obj][15000] AddClient (138.186.116.99)
+21:20:42 [Obj][15000] DelClient (138.186.116.99)
+21:21:18 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:21:53 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:21:53 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+21:22:09 [Obj][15000] AddClient (138.186.116.99)
+21:22:15 [Obj][15000] DelClient (138.186.116.99)
+21:24:37 [Obj][15000] AddClient (138.186.116.99)
+21:24:41 [Obj][15000] DelClient (138.186.116.99)
+21:26:54 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:26:54 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+21:27:38 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:31:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:31:55 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:33:58 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:36:01 [OnlineLoterry] No Winner
+21:36:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:36:56 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:40:17 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:41:57 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:41:57 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:43:00 [CTC] Bat Dau Event Cong Thanh
+21:46:37 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:46:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:46:58 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:48:00 [CTC] Finish 2
+21:51:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:51:59 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+21:52:57 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+21:57:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:57:00 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+21:59:16 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:02:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:02:01 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:05:36 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:07:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:07:02 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:10:00 [CustomQuiz] Start
+22:11:56 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:12:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:12:03 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+22:13:00 [CustomQuiz] Finish
+22:17:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:17:04 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:18:15 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:21:23 [Obj][15000] AddClient (138.186.116.99)
+22:21:26 [Obj][15000] DelClient (138.186.116.99)
+22:22:05 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:22:05 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:24:35 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:27:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:27:06 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+22:30:54 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:32:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:32:07 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:36:01 [OnlineLoterry] No Winner
+22:37:08 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:37:08 [TeleporMarlon] - Mapa: 0 PosicionX: 0 PosicionY: 0
+22:37:14 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:42:09 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:42:09 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:43:00 [CTC] Bat Dau Event Cong Thanh
+22:43:34 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:47:10 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:47:10 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:48:00 [CTC] Finish 2
+22:49:53 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 195 Y: 78)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 195 Y: 78)
+22:52:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:52:11 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+22:56:13 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+22:57:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+22:57:12 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:02:13 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:02:13 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:02:33 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:07:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:07:14 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:08:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:10:00 [CustomQuiz] Start
+23:12:15 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:12:15 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:13:00 [CustomQuiz] Finish
+23:15:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:17:16 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:17:16 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:21:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:22:17 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:22:17 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:27:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:27:18 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:27:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:32:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:32:19 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:34:11 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:36:01 [OnlineLoterry] No Winner
+23:37:20 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:37:20 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:40:30 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:42:21 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:42:21 [TeleporMarlon] - Mapa: 2 PosicionX: 198 PosicionY: 47
+23:43:00 [CTC] Bat Dau Event Cong Thanh
+23:46:50 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:47:23 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:47:23 [TeleporMarlon] - Mapa: 3 PosicionX: 169 PosicionY: 89
+23:48:00 [CTC] Finish 2
+23:52:24 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:52:24 [TeleporMarlon] - Mapa: 0 PosicionX: 137 PosicionY: 87
+23:53:10 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:57:25 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:57:25 [TeleporMarlon] - Mapa: 7 PosicionX: 17 PosicionY: 25
+23:59:29 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY

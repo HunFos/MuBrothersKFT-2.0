@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MSGNotify IndexMesMin="3020" IndexMesMax="3030"/>
+<!---
+SkillID = SkillID
+UseBuffs = Use Buffs Max 3
+GateNumber = Index Gate the Move Map , MapX, MapY : To X,Y
+AttackRange = Max Attack Range (6)
+MoveRange = You can set the TimeReturn if you allow Ranage to move, you can set the TimeReturn higher
+TimeReturn = Time to go back to the time interval (MapX,MapY) in Minutes
+PVPMode = 1 (Automatically hit back when hit), 2 (Kill all players in range, auto clear if PK 10), 0 Is off
+PartyMode = 1 (Automatically accept Party requests), 2 (Automatically Party surrounding players), 0 is off no Party, 3 (Only Send Party Requests if Fake Online)
+PostWhenDie = 1 (Automatically Chat Post when killed)
+-->
+<FakeOnlineData>
+<Info Account="teste1" Password="1212" Name="Divine" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="73" MapX="218" MapY="215" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste2" Password="1212" Name="Mage" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="73" MapX="218" MapY="215" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste3" Password="1212" Name="Instict" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="73" MapX="218" MapY="215" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste4" Password="1212" Name="Maxthon" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="73" MapX="218" MapY="215" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste5" Password="1212" Name="Warlock" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="68" MapY="73" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste6" Password="1212" Name="Debie" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="68" MapY="73" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste7" Password="1212" Name="Suprem" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="68" MapY="73" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste8" Password="1212" Name="Pantheon" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="68" MapY="73" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste9" Password="1212" Name="Bayssa" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="76" MapX="87" MapY="177" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste10" Password="1212" Name="BloodFlare" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="76" MapX="87" MapY="177" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste11" Password="1212" Name="Hunter" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="76" MapX="87" MapY="177" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste12" Password="1212" Name="Storm" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="76" MapX="87" MapY="177" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste13" Password="1212" Name="Aurora" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="49" MapY="57" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste14" Password="1212" Name="Killer" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="49" MapY="57" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste15" Password="1212" Name="Destructor" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="49" MapY="57" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+<Info Account="teste16" Password="1212" Name="Olimpia" SkillID="41" UseBuffs_0="-1" UseBuffs_1="-1" UseBuffs_2="-1" GateNumber="50" MapX="49" MapY="57" AttackRange="6" MoveRange="10" TimeReturn="15" PickUpItem="1" AutoReset="0" PartyMode = "2" PVPMode="1" PostWhenDie = "1" />
+
+
+
+
+
+
+
+</FakeOnlineData>

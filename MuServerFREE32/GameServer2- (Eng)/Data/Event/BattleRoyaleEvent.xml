@@ -1,0 +1,20 @@
+<BattleRoyaleEvent>
+	<!-- WCoinBuy On/Off (Amount deducted per purchase) MaxBuyDay (Maximum limit on number of purchases)) -->
+	<WCoinBuy>
+	    <Setting Enabled="1" TimeBuyMin="30" WCoinBuy="50000" MaxBuyDay="3"/>
+	</WCoinBuy>
+    	<!-- NPC BattleFieldEvent Settings -->
+	<NPCTalk>
+        <NPC Class="380" Map="0" X="145" Y="139" />
+	</NPCTalk>
+	<!-- Configuration Bonus Points PriceType 0 WC 1 WP 2 GP 3 Ruud -->
+	<PointReward>
+	    <Config PriceType = "1" PointKillMonter = "100" PartyKillPoint="50" MSG="[CTC]Você acabou de ser recompensado %d Ruudud"/>
+	</PointReward>
+	<!-- Item Bonus Configuration 
+	IndexType = Index EventBagManager.txt
+	-->
+	<ItemReward>
+	    <Config MonsterID = "10" IndexType="137" MSG="[CTC]Você acabou de receber um item de recompensa"/>
+	</ItemReward>	
+</BattleRoyaleEvent>

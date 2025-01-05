@@ -1,0 +1,33 @@
+09:12:15 [SocketManager] Server started at port [55970]
+09:12:18 [ServerManager][0] AddServer (127.0.0.1)
+09:12:18 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+09:12:21 [ServerManager][1] AddServer (127.0.0.1)
+09:12:21 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+09:12:21 [ServerManager][2] AddServer (127.0.0.1)
+09:12:21 [ServerManager][2] ServerInfo (Server2) (55902) (1)
+12:52:19 [SocketManager] Server started at port [55970]
+12:52:21 [ServerManager][0] AddServer (127.0.0.1)
+12:52:21 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+12:52:24 [ServerManager][1] AddServer (127.0.0.1)
+12:52:24 [ServerManager][1] ServerInfo (Server2) (55902) (1)
+12:52:26 [ServerManager][2] AddServer (127.0.0.1)
+12:52:26 [ServerManager][2] ServerInfo (Server_1_CS) (55919) (19)
+13:17:37 [SocketManager] Server started at port [55970]
+13:17:41 [ServerManager][0] AddServer (127.0.0.1)
+13:17:41 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+13:17:43 [ServerManager][1] AddServer (127.0.0.1)
+13:17:43 [ServerManager][1] ServerInfo (Server_1_CS) (55919) (19)
+13:23:18 [SocketManager] Server started at port [55970]
+13:23:20 [ServerManager][0] AddServer (127.0.0.1)
+13:23:20 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+13:23:23 [ServerManager][1] AddServer (127.0.0.1)
+13:23:23 [ServerManager][1] ServerInfo (Server2) (55902) (1)
+13:23:24 [ServerManager][2] AddServer (127.0.0.1)
+13:23:24 [ServerManager][2] ServerInfo (Server_1_CS) (55919) (19)
+18:11:45 [SocketManager] Server started at port [55970]
+18:11:47 [ServerManager][0] AddServer (127.0.0.1)
+18:11:47 [ServerManager][0] ServerInfo (Server1) (55901) (0)
+18:11:50 [ServerManager][1] AddServer (127.0.0.1)
+18:11:50 [ServerManager][1] ServerInfo (Server2) (55902) (1)
+18:11:52 [ServerManager][2] AddServer (127.0.0.1)
+18:11:52 [ServerManager][2] ServerInfo (Server_1_CS) (55919) (19)

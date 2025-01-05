@@ -1,0 +1,8 @@
+15:27:22 [AccountInfo] Account connected (Account: admin, IpAddress: 192.168.2.192, GameServerCode: 0)
+15:29:12 [AccountInfo] Account created (Account: hijo, Password: 1212 )
+15:29:19 [AccountInfo] Account connected (Account: hijo, IpAddress: 192.168.2.192, GameServerCode: 0)
+15:31:51 [AccountInfo] Account created (Account: marciacb, Password: 1212 )
+15:32:02 [AccountInfo] Account connected (Account: marciacb, IpAddress: 192.168.2.192, GameServerCode: 0)
+15:34:40 [AccountInfo] Account disconnected (Account: admin, IpAddress: 192.168.2.192, GameServerCode: 0)
+15:34:40 [AccountInfo] Account disconnected (Account: hijo, IpAddress: 192.168.2.192, GameServerCode: 0)
+15:34:41 [AccountInfo] Account disconnected (Account: marciacb, IpAddress: 192.168.2.192, GameServerCode: 0)
