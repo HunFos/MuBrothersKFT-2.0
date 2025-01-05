@@ -1,0 +1,59 @@
+1	"Arena"	"Arena"	2000	50	50	1000
+48	"LorenMarket"	"LorenMarket"	0	0	333	1000
+2	"Lorencia"	"Lorencia"	2000	10	17	1000
+3	"Noria"	"Noria"	2000	10	27	1000
+31	"Elbeland"	"Elbeland"	2000	10	267	1000
+32	"Elbeland2"	"Elbeland2"	2500	10	268	1000
+43	"Elbeland3"	"Elbeland3"	3000	10	269	1000
+4	"Devias"	"Devias"	2000	20	22	1000
+5	"Devias2"	"Devias2"	2500	20	72	1000
+6	"Devias3"	"Devias3"	3000	20	73	1000
+7	"Devias4"	"Devias4"	3500	20	74	1000
+8	"Dungeon"	"Dungeon"	3000	30	2	1000
+9	"Dungeon2"	"Dungeon2"	3500	40	6	1000
+10	"Dungeon3"	"Dungeon3"	4000	50	10	1000
+11	"Atlans"	"Atlans"	4000	70	49	1000
+12	"Atlans2"	"Atlans2"	4500	80	75	1000
+13	"Atlans3"	"Atlans3"	5000	90	76	1000
+14	"LostTower"	"LostTower"	5000	50	42	1000
+15	"LostTower2"	"LostTower2"	5500	50	31	1000
+16	"LostTower3"	"LostTower3"	6000	50	33	1000
+17	"LostTower4"	"LostTower4"	6500	60	35	1000
+18	"LostTower5"	"LostTower5"	7000	60	37	1000
+19	"LostTower6"	"LostTower6"	7500	70	39	1000
+20	"LostTower7"	"LostTower7"	8000	70	41	1000
+21	"Tarkan"	"Tarkan"	8000	140	57	1000
+22	"Tarkan2"	"Tarkan2"	8500	140	77	1000
+25	"Aida1"	"Aida1"	8500	150	119	1000
+27	"Aida2"	"Aida2"	8500	150	140	1000
+23	"Icarus"	"Icarus"	10000	170	63	1000
+28	"KanturuRuins1"	"Kanturu_ruin1"	9000	160	138	1000
+29	"KanturuRuins2"	"Kanturu_ruin2"	9000	160	141	1000
+45	"KanturuRuins3"	"Kanturu_ruin_island"	15000	160	334	1000
+30	"KanturuRelics"	"Kanturu_Remain"	12000	230	139	1000
+46	"Karutan1"	"Karutan1"	13000	170	335	1000
+47	"Karutan2"	"Karutan2"	14000	170	344	1000
+34	"LaCleon"	"LaCleon"	15000	280	287	1000
+33	"Swamp of Peace"	"Swamp of Peace"	15000	400	273	1000
+42	"Vulcanus"	"Vulcanus"	15000	30	294	1000
+24	"LorenDeep"	"LorenDeep"	0	150	106	1000
+26	"Crywolf"	"Crywolf"	27000	150	118	1000
+53	"Barracks"	"Barracks"	28000	150	256	1000
+66	"Acheron"	"Acheron"	55000	250	465	1000
+79	"Debenter"	"Debenter"	45000	50	554	1000
+68	"Nars"	"Nars"	55000	250	503	1000
+69	"Uruk Mountain"	"Uruk Mountain"	55000	250	505	1000
+62	"Ferea"	"Ferea"	55000	250	461	1000
+63	"Nixies Lake"	"Nixies Lake"	55000	250	462	1000
+64	"Swamp Of Darkness"	"SwampDarkness"	95000	280	463	1000
+67	"Kubera Mine"	"Kubera Mine"	75000	260	488	1000
+70	"Deep Dungeon 1"	"Deep Dungeon 1"	140000	400	490	1000
+71	"Deep Dungeon 2"	"Deep Dungeon 2"	140000	400	491	1000
+72	"Deep Dungeon 3"	"Deep Dungeon 3"	140000	400	492	1000
+73	"Deep Dungeon 4"	"Deep Dungeon 4"	140000	400	493	1000
+74	"Deep Dungeon 5"	"Deep Dungeon 5"	140000	400	494	1000
+75	"Atlans Abyss 1"	"Atlans Abyss 1"	200000	400	550	1000
+76	"Atlans Abyss 2"	"Atlans Abyss 2"	200000	400	551	1000
+77	"Atlans Abyss 3"	"Atlans Abyss 3"	200000	400	552	1000
+78	"Scotch Canyon"	"Scotch Canyon"	200000	400	553	1000
+end

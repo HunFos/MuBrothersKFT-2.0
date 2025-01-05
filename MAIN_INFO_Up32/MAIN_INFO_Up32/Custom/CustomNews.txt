@@ -1,0 +1,65 @@
+//==============================================
+//- Custom Server Name - By Emershow
+//==============================================
+//- ServerCode list to Use:
+//- ServerNameA = 0, 1, 2, 2, 4
+//- ServerNameB = 5
+//- ServerNameC = 6, 7
+//- ServerNameD = 8, 9, 10, 11
+//==============================================
+[CustomNews]
+CustomNewsEnable = 1
+ServerNameE = Sejam Bem Vindos
+
+ServerNameF = Este sistema
+
+ServerNameG = Agora pode ser
+ServerNameH = Configurado de
+ServerNameI = Diversas maneiras
+
+ServerNameJ = Você pode configurar
+
+ServerNameK = Todos os textos
+ServerNameL = Coressssssssss
+ServerNameM = Tamanho da fonte
+
+ServerNameN = Estilo da fonte
+
+ServerNameO = E muito mais
+ServerNameP = à partir da pasta
+ServerNameQ = CustomNotice
+
+ServerNameR = Que fica no main_info
+
+ServerNameS = Entre em contato
+ServerNameT = Escolha um Servidor
+ServerNameU = E entre para esta 
+
+ServerNameV = Nova Aventura 
+
+ServerNameW = MuOnline
+ServerNameX = Muitos Customs
+ServerNameY = Jogabilidade Easy
+
+CorTitulo = 0xFFFF00FF
+
+CorTitulo1 = 0xFFFF00FF 
+CorTexto1A = 0x98FB98FF
+CorTexto1B = 0x90EE90FF
+CorTexto1C = 0x8FBC8FFF
+CorTitulo2 = 0x3CB371FF
+CorTexto2A = 0x2E8B57FF
+CorTexto2B = 0x006400FF
+CorTexto2C = 0x008000FF
+CorTitulo3 = 0x228B22FF
+CorTexto3A = 0x32CD32FF
+CorTexto3B = 0x00FF00FF
+CorTexto3C = 0x7CFC00FF
+CorTitulo4 = 0x7FFF00FF
+CorTexto4A = 0xADFF2FFF
+CorTexto4B = 0x9ACD32FF
+CorTexto4C = 0x6B8E23FF
+CorTitulo5 = 0x556B2FFF
+CorTexto5A = 0x808000FF
+CorTexto5B = 0xB8860BFF
+CorTexto5C = 0xDAA520FF

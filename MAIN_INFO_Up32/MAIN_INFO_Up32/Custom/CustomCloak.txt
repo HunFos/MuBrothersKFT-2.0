@@ -1,0 +1,38 @@
+//=======================================================================================================
+//Programaçao Por By:Zeus Revolutions (@) 22/06/21
+//FILES PREMIUN Zeus Revolutions 97D+2.0 Dongrand 1.04.05
+//Contato [E-MAIL]: Luis.zs@hotmail.com (17) 991047335 Todos Diretos Reselvados.
+//===============================================================================================================
+// CustomCloak Config File
+//===============================================================================================================
+// Agregar archivos en: [Data/Item]
+//===============================================================================================================
+//ItemType	Mode 	        CloakName					StripName
+6340		1		"Item\ckNewDakMakerx2.tga"		        "Item\ckNewDakMakerx2.tga"
+6342		1		"Item\Cp0920RHMakers.tga"		        "Item\Cp0920RHMakers.tga"
+6343		1		"Item\CkDcMakerNewBlues.tga"		        "Item\CkDcMakerNewBlues.tga"
+//6306		0		"Item\\KF_ragefighterwing4db.tga"		*
+//6383		0		"Item\\KF_season_wing_periodc.tga"		*
+//6344		0		"Item\\growlancerwing4dc.tga"			*
+6385		1		"Item\CKPBG_PDMK1209.tga"			"Item\CKPBG_PDMK1209.tga"
+6388		1		"Item\Cloak0220_RHMakers.tga"			"Item\Cloak0220_RHMakers.tga"
+6337		1		"Item\capeofdarkraven.tga"		        "Item\capeofdarkraven.tga"
+6292		1		"Item\monk_manto01.tga"		                "Item\monk_manto01.tga"
+6338		0		"Item\USK_War2.0Cloak_02.tga"		        "Item\USK_War2.0Cloak_02.tga"
+6346		0		"Item\MANTORmkDcMakerArmaggedon.tga"		"Item\CLOAKRmkDcMakerArmaggedon.tga"
+6349		0		"Item\Capeapocalipselucasnuut02.tga"		""
+6351		1		"Item\GiftDcMakerckManto.tga"		        "Item\GiftDcMakerckFaixa.tga"
+6355		1		"Item\capesnowlucasnuut02.tga"		        "Item\capesnowlucasnuut02.tga"
+6358		1		"Item\MantoGod2DcMaker.tga"		        "Item\FaixaGod2DcMaker.tga"
+6360		0		"Item\MantoDcMakerBloodVampire.tga"		""
+6362		0		"Item\CloakDcMakerSteel2.tga"		        "Item\CloakDcMakerSteel2.tga"
+6364		1		"Item\CkMDcMakerHorus.tga"		        "Item\CkMDcMakerHorus.tga" 
+6366		1		"Item\MtZeusDcMaker.tga"		        "Item\MtZeusDcMaker.tga" 
+6368		1		"Item\CkMtHolyDcMakers.tga"		        "Item\CkMtHolyDcMakers.tga"
+6368		0		"Item\MantDkPiratDcMaker.tga"		        "Item\MantDkPiratDcMaker.tga" 
+6440		1		"Item\Cape00620RHMakers.tga"		        "Item\Cape00620RHMakers.tga"
+6372		1		"Item\CKKITV8_PDMK.tga"		                "Item\CKKITV8_PDMK.tga"   
+6374		1		"Item\CkPDMKRD260855.tga"		        "Item\CkPDMKRD260855.tga"
+6376		0		"Item\CAPAfantasy_FIX.tga"		        ""
+
+end

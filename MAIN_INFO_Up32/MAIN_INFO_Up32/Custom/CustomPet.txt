@@ -1,0 +1,166 @@
+//==============================================================================
+// Custom Pet Config File
+// Agregar archivos en: [Data/Item]
+// Index  - ItemIndex
+// IndexInv - Index Texture view in inventory
+// ModelName - Name File BMD
+// Fenrir    - Effect Fenrir
+// 1 - Effect Fenrir
+// 2 - Effect Fenrir Golden
+// Inv - Inventory
+// Drop - Drop in game
+// View - Size in use player
+// Type: Moviment like a:
+// 5  - Fenrir (Mount)		
+// 6  - Dark Horse (Mount) 
+// 7  - Uniria (Mount) 	
+// 8  - Muun Pet
+// 9  - Angel
+// 10 - Satan 		
+//===================================================================================
+//Index	IndexInv Type	ModelName			Fenrir	Inv	Drop	View
+//===================================================================================
+//========================================================================================================================================
+// MOUNTS
+//========================================================================================================================================
+//==============================================================================
+//Index IdxInv	Type	ModelName		Fenrir	Inv	Drop	View
+//==============================================================================
+   6906	6906	5	"fiercelion"			1	1.0	1.0	0.85
+   6907	6907	5	"fiercelionR"			2	1.0	1.0	0.85
+   6908	6908	6	"Horse_ghost_skin2_skill"	0	0.50	0.50	1.0
+   6909	6909	6	"Horse_ghost_skin3_skill"	0	0.50	0.50	1.0
+   6910	6910	5	"icedragon"			0	1.0	1.0	1.0
+   6911	6911	5	"icedragon_rare"		0	1.0	1.0	1.0
+//========================================================================================================================================
+// PETS
+//========================================================================================================================================
+//==============================================================================
+//Index IdxInv	Type	ModelName		Fenrir	Inv	Drop	View
+//==============================================================================
+6857  6857	8	"DragonKnight"		0 	0.4 	0.4 	1.0	 // Dragon Knight
+6858  6858	8	"DarkWizard"		0 	0.4 	0.4 	1.0	 // Dark Wizard
+6859  6859	8	"FairyElf"		0 	0.4 	0.4 	1.0	 // Fairy Elf
+6860  6860	8	"dragonpet"             0 	0.4 	0.4 	1.0	 // Luki
+6861  6861	8	"dragonpet_evol"        0 	0.4 	0.4 	1.0	 // Luki (Lv2)
+6862  6862	8	"williumpet"            0 	0.4 	0.4 	1.0	 // William
+6863  6863	8	"williumpet_evol"       0 	0.4 	0.4 	1.0	 // William (Lv2)
+6864  6864	8	"wolfpet"               0 	0.4 	0.4 	1.0	 // Tibetton
+6865  6865	8	"wolfpet_evol"          0 	0.4 	0.4 	1.0	 // Tibetton (Lv2)
+6866  6866	8	"wooparoopet"           0 	0.4 	0.4 	1.0	 // Wooparoo
+6867  6867	8	"wooparoopet_evol"      0 	0.4 	0.4 	1.0	 // Wooparoo (Lv2)
+6868  6868	8	"Kironpet"              0 	0.4 	0.4 	1.0	 // Chiron
+6869  6869	8	"Kironpet_evol"         0 	0.4 	0.4 	1.0	 // Chiron (Lv2)
+6870  6870	8	"Desmodus"              0 	0.4 	0.4 	1.0	 // Desmodus
+6871  6871	8	"Desmodus_evol"         0 	0.4 	0.4 	1.0	 // Desmodus (Lv2)
+6874  6874	8	"runemuun"              0 	0.4 	0.4 	1.0	 // Rune Wizard
+6875  6875	8	"gaionkharein"          0 	0.4 	0.4 	1.0	 // Gaion Kharein
+6876  6876	8	"prince"                0 	0.4 	0.4 	1.0	 // Prince
+6877  6877	8	"king"                  0 	0.4 	0.4 	1.0	 // King Rex Milion
+6878  6878	8	"loglepet"              0 	0.4 	0.4 	1.0	 // Loggle
+6879  6879	8	"loglepet_evol"         0 	0.4 	0.4 	1.0	 // Loggle (Lv2)
+6880  6880	8	"rippenpet"             0 	0.4 	0.4 	1.0	 // Repen
+6881  6881	8	"rippenpet_evol"        0 	0.4 	0.4 	1.0	 // Repen (Lv2)
+6884  6884	8	"balrog"                0 	0.4 	0.4 	1.0	 // Balrog
+6885  6885	8	"balrogUp"              0 	0.4 	0.4 	1.0	 // Balrog (Lv2)
+6886  6886	8	"phoenixofdarkness"     0 	0.4 	0.4 	1.0	 // Phoenix of Darkness
+6887  6887	8	"phoenixofdarknessUp"   0 	0.4 	0.4 	1.0	 // Phoenix of Darkness (Lv2)
+6888  6888	8	"kundun"                0 	0.4 	0.4 	1.0	 // Kundun
+6889  6889	8	"kundunUp"              0 	0.4 	0.4 	1.0	 // Kundun (Lv2)
+6890  6890	8	"nightmare"             0 	0.4 	0.4 	1.0	 // Nightmare
+6891  6891	8	"nightmareUp"           0 	0.4 	0.4 	1.0	 // Nightmare (Lv2)
+6892  6892	8	"hellmaine"             0 	0.4 	0.4 	1.0	 // HellMain
+6893  6893	8	"hellmaineUp"           0 	0.4 	0.4 	1.0	 // HellMain (Lv2)
+6894  6894	8	"selupan"               0 	0.4 	0.4 	1.0	 // Selupan
+6895  6895	8	"selupanUp"             0 	0.4 	0.4 	1.0	 // Selupan (Lv2)
+6896  6896	8	"medusa"                0 	0.4 	0.4 	1.0	 // Medusa
+6897  6897	8	"medusaUp"              0 	0.4 	0.4 	1.0	 // Medusa (Lv2)
+6898  6898	8	"lordsilvester"         0 	0.4 	0.4 	1.0	 // Lord Silvester
+6899  6899	8	"lordsilvesterUp"       0 	0.4 	0.4 	1.0	 // Lord Silvester (Lv2)
+6900  6900	8	"nix"                   0 	0.4 	0.4 	1.0	 // Nix
+6901  6901	8	"nixUp"                 0 	0.4 	0.4 	1.0	 // Nix (Lv2)
+
+6948  6948	5	"FenrirDark"		0	0.6	0.4	0.85
+6949  6949	8	"PetOfCupM"		0	1.0	1.0	1.0
+6950  6950	8	"PetOfCupF"		0	1.0	1.0	1.5
+6951  6951	5	"fenrirghostRed"	0	0.6	0.4	0.85
+6952  6952	5	"fenrirghostPink"	0	0.6	0.4	0.85
+6953  6953	8	"Mini Fenrir"		0	1.0	1.0	1.0
+6954  6954	5	"icedragon_rare"	0	0.6	0.4	0.85
+6955  6955	5	"icedragon_dr4"		0	0.6	0.4	0.85
+6956  6956	5	"FenrirNatal"		0	0.6	0.6	1.0
+6957  6957	6	"HorseNatal"	        0	0.6	0.6	1.0
+6958  6958	8	"ChristmasPet"		0	1.0	1.0	1.0
+6959  6959	6	"pet229"	        0	0.6	0.6	1.0
+6960  6960	8	"Pet02"		        0	1.0	0.5	1.3
+6961  6961	9	"angel"	                0	1.0	1.0	1.0
+6962  6962	9	"EagleHorus"	        0	1.0	1.0	1.0
+6963  6963	8	"MummyHorus"		0	1.0	0.5	1.4
+6964  6964	9	"EagleZeus"	        0	1.0	1.0	1.0
+6965  6965	8	"PETSTEEL 2.0"		0	1.5	1.0	1.6
+6966  6966	8	"mommothpet_evol"	0	1.0	1.0	1.0
+6967  6967	8	"USK_PetWar2.0" 	0	1.0	1.0	1.0
+6968  6968	5	"blue"	                2	0.6	0.4	0.85
+6969  6969	6	"HorseWhiteTnF"	        0	0.6	0.6	1.0
+6970  6970	5	"green"		        2	0.6	0.4	0.85
+6971  6971	5	"purple"		1	0.6	0.4	0.85
+6972  6972	5	"pink"		        2	0.6	0.4	0.85
+6973  6973	5	"red"	                2	0.6	0.4	0.85
+6974  6974	5	"AwayFenrirBluev1"	0	0.6	0.4	0.85
+6975  6975	5	"AwayFenrirRed"	        0	0.6	0.4	0.85
+6976  6976	5	"AwayFenrirBlue"	0	0.6	0.4	0.85
+6977  6977	5	"AwayFenrirGreen"	0	0.6	0.4	0.85
+6978  6978	6	"ghost_horse"		0	0.6	0.6	1.0
+6979  6979	5	"fenril_gold"		2	0.6	0.4	0.85
+6980  6980	7	"Pet_YYXS"		2	1.0	1.0	1.0
+6981  6981	6	"GhostHorse"		0	0.6	0.6	1.0
+6982  6982	9	"PET300"		0	1.0	1.0	1.0
+6983  6983	8	"Pet200"		0	1.0	1.0	1.0
+6984  6984	6	"horsechristmas"	0	0.6	0.6	1.0
+6985  6985	5	"fenrirghostgold"	0	0.6	0.4	0.85
+6986  6986	9	"minipet_new2022"	0	1.0	1.0	1.0
+6987  6987	5	"pet_new2022"	        0	0.6	0.4	1.0
+6988  6988	9	"DemonHaven"	        0	1.0	1.0	1.0
+6989  6989	5	"DragonDcMakers"	0	0.6	0.4	0.85
+6990  6990	9	"corvolighthawk"	0	1.0	1.0	1.0
+6991  6991	8	"Pet210"	        0	1.0	1.0	1.0
+6992  6992	5	"zeuslioninv"	        0	0.6	0.4	0.85
+6993  6993	5	"invdragonzeus20"	0	0.6	0.4	0.85
+6994  6994	6	"HorseRed"		0	0.6	0.6	1.0
+6995  6995	6	"ghost_horsered"	0	0.6	0.6	1.0
+6996  6996	6	"HorseAB"	        0	0.6	0.6	1.0
+6997  6997	8	"FenriAbaddon"	        0	1.0	1.0	1.0
+6998  6998	8	"PetSailor"	        0	1.0	1.0	1.0
+////Tibetonn///////
+6872  6872  5   	"swordnkgk1"     0	0.6	0.4	0.85			             // Tibetton Mount
+6873  6873  5   	"swordnkgk2"     0	0.6	0.4	0.85			             // Tibetton Mount (Lv2)
+////Repen////       
+6882  6882  5   	"rippen_ride"       0	0.6	0.4	0.85			            // Repen Mount
+6882  6882  5   	"rippenUp_ride"     0	0.6	0.4	0.85                        // Repen Moun (Lv2)
+7006  7006	5	    "Skullpet_evol-1"	        0	0.6	0.4	1.10
+7007  7007	5	    "Skullpet_evol-2"	        0	0.6	0.4	1.10
+7008  7008	5	    "Skullpet_evol-3"	        0	0.6	0.4	110
+7009  7009	5	    "Skullpet_evol-4"	        0	0.6	0.4	1.10
+///////////Pets Zeus
+7010	7010	8	"PetOfCupM"		0	1.0	1.0	1.0
+7011	7011	8	"PetOfCupF"		0	1.0	1.0	1.5
+7012	7012	8	"Mini Fenrir"		0	1.0	1.0	1.0
+7013	7013	8	"ChristmasPet"		0	1.0	1.0	1.0
+7014	7014	8	"Pet02"		        0	1.0	0.5	1.3
+7015	7015	9	"angel"	                0	1.0	1.0	1.0
+7016	7016	9	"EagleHorus"	        0	1.0	1.0	1.0
+7017	7017	8	"MummyHorus"		0	1.0	0.5	1.4
+7018	7018	9	"EagleZeus"	        0	1.0	1.0	1.0
+7019	7019	8	"PETSTEEL 2.0"		0	1.5	1.0	1.6
+7020	7020	8	"mommothpet_evol"	0	1.0	1.0	1.0
+7021	7021	8	"USK_PetWar2.0" 	0	1.0	1.0	1.0
+7022	7022	9	"PET300"		0	1.0	1.0	1.0
+7023	7023	8	"Pet200"		0	1.0	1.0	1.0
+7024	7024	9	"minipet_new2022"	0	1.0	1.0	1.0
+7025	7025	9	"DemonHaven"	        0	1.0	1.0	1.0
+7026	7026	9	"corvolighthawk"	0	1.0	1.0	1.0
+7028	7028	8	"Pet210"	        0	1.0	1.0	1.0
+7029	7029	8	"FenriAbaddon"	        0	1.0	1.0	1.0
+7030	7030	8	"PetSailor"	        0	1.0	1.0	1.0
+7032	7032	5	"Lrlion"	        0	1.0	1.0	0.85
+end

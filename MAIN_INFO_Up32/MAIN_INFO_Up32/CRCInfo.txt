@@ -1,0 +1,5 @@
+MainExeCRC = 0x0
+MainDllCRC = 0x0
+AntihackDllCRC = 0x0
+PlayerBMDCRC = 0x7d56fceb
+VerifyDllCRC = 0x0
