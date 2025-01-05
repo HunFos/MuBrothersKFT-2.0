@@ -2,7 +2,7 @@
 ;==================================================
 ; Customer Settings
 ;==================================================
-CustomerName = 
+CustomerName = MuBrothers
 CustomerHardwareId = 
 	
 ;==================================================
@@ -32,11 +32,11 @@ Message_Language = 1
 ;==================================================
 ; Connection Settings
 ;==================================================
-DataServerAddress = 127.0.0.1
-DataServerPort = 55964
-JoinServerAddress = 127.0.0.1
+DataServerAddress = 25.60.79.171
+DataServerPort = 55960
+JoinServerAddress = 25.60.79.171
 JoinServerPort = 55970
-ConnectServerAddress = 127.0.0.1
+ConnectServerAddress = 25.60.79.171
 ConnectServerPort = 55557
 
 ;==================================================

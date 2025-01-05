@@ -1,8 +1,8 @@
 0
 //ServerCode   MapServerGroup   InitSetVal   IpAddress         Port
-0	       0	        1	     SIP    55901
-1	       0	        1	     SIP    55902
-19	       0	        0	     SIP    55919
+0	       0	        1	     25.60.79.171    55901
+1	       0	        1	     25.60.79.171    55902
+19	       0	        0	     25.60.79.171    55919
 end
 
 1

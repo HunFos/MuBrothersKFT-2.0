@@ -1,0 +1,141 @@
+19:29:19 [SocketManager] Server started at port [55964]
+19:29:34 [SocketManager] WSAAccept() failed with error: 10061
+19:29:44 [SocketManager] WSAAccept() failed with error: 10061
+19:29:54 [SocketManager] WSAAccept() failed with error: 10061
+19:30:04 [SocketManager] WSAAccept() failed with error: 10061
+19:30:14 [SocketManager] WSAAccept() failed with error: 10061
+19:32:21 [SocketManager] Server started at port [55960]
+19:32:35 [SocketManager] WSAAccept() failed with error: 10061
+19:32:45 [SocketManager] WSAAccept() failed with error: 10061
+19:34:06 [SocketManager] Server started at port [55960]
+19:34:21 [SocketManager] WSAAccept() failed with error: 10061
+19:34:31 [SocketManager] WSAAccept() failed with error: 10061
+19:34:41 [SocketManager] WSAAccept() failed with error: 10061
+19:34:51 [SocketManager] WSAAccept() failed with error: 10061
+19:35:01 [SocketManager] WSAAccept() failed with error: 10061
+19:35:48 [SocketManager] Server started at port [55960]
+19:36:04 [SocketManager] WSAAccept() failed with error: 10061
+19:38:35 [SocketManager] Server started at port [55960]
+19:38:50 [SocketManager] WSAAccept() failed with error: 10061
+19:39:00 [SocketManager] WSAAccept() failed with error: 10061
+19:42:40 [SocketManager] Server started at port [55960]
+19:42:55 [SocketManager] WSAAccept() failed with error: 10061
+19:48:18 [SocketManager] Server started at port [55960]
+19:48:33 [SocketManager] WSAAccept() failed with error: 10061
+19:49:37 Could not connect to database
+19:50:33 [SocketManager] Server started at port [55960]
+19:50:47 [SocketManager] WSAAccept() failed with error: 10061
+19:50:57 [SocketManager] WSAAccept() failed with error: 10061
+19:58:02 [SocketManager] Server started at port [55960]
+19:58:16 [SocketManager] WSAAccept() failed with error: 10061
+19:58:26 [SocketManager] WSAAccept() failed with error: 10061
+19:58:36 [SocketManager] WSAAccept() failed with error: 10061
+19:58:46 [SocketManager] WSAAccept() failed with error: 10061
+19:58:56 [SocketManager] WSAAccept() failed with error: 10061
+19:59:06 [SocketManager] WSAAccept() failed with error: 10061
+19:59:16 [SocketManager] WSAAccept() failed with error: 10061
+20:00:07 [SocketManager] Server started at port [55960]
+20:00:23 [ServerManager][0] AddServer (25.60.79.171)
+20:00:23 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+20:00:32 select TOP 1 rResetLife, ResetCount from Character where CtlCode = 0 Order by rResetLife DESC, ResetCount DESC, cLevel DESC, Experience DESC, Money DESC
+20:00:32 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rResetLife'.
+20:01:18 [SocketManager] Server started at port [55960]
+20:01:33 [ServerManager][0] AddServer (25.60.79.171)
+20:01:33 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+20:18:18 [SocketManager] Server started at port [55960]
+20:18:33 [ServerManager][0] AddServer (25.60.79.171)
+20:18:33 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+20:24:22 SELECT Id FROM AccountCharacter2 WHERE Id='HunStarr'
+20:24:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:22 INSERT INTO AccountCharacter2 (Id) VALUES ('HunStarr')
+20:24:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:22 SELECT * FROM AccountCharacter2 WHERE Id='HunStarr'
+20:24:22 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:24 SELECT Id FROM AccountCharacter2 WHERE Id='HunStarr'
+20:24:24 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:24 INSERT INTO AccountCharacter2 (Id) VALUES ('HunStarr')
+20:24:24 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:24 SELECT * FROM AccountCharacter2 WHERE Id='HunStarr'
+20:24:24 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:25 SELECT Id FROM AccountCharacter3 WHERE Id='HunStarr'
+20:24:25 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:25 INSERT INTO AccountCharacter3 (Id) VALUES ('HunStarr')
+20:24:25 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:25 SELECT * FROM AccountCharacter3 WHERE Id='HunStarr'
+20:24:25 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:26 SELECT Id FROM AccountCharacter4 WHERE Id='HunStarr'
+20:24:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:26 INSERT INTO AccountCharacter4 (Id) VALUES ('HunStarr')
+20:24:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:26 SELECT * FROM AccountCharacter4 WHERE Id='HunStarr'
+20:24:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:26 SELECT Id FROM AccountCharacter5 WHERE Id='HunStarr'
+20:24:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+20:24:26 INSERT INTO AccountCharacter5 (Id) VALUES ('HunStarr')
+20:24:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+20:24:26 SELECT * FROM AccountCharacter5 WHERE Id='HunStarr'
+20:24:26 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+20:24:28 SELECT Id FROM AccountCharacter4 WHERE Id='HunStarr'
+20:24:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:28 INSERT INTO AccountCharacter4 (Id) VALUES ('HunStarr')
+20:24:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:28 SELECT * FROM AccountCharacter4 WHERE Id='HunStarr'
+20:24:28 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:30 SELECT * FROM AccountCharacter2 WHERE Id='HunStarr'
+20:24:30 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:31 SELECT Id FROM AccountCharacter3 WHERE Id='HunStarr'
+20:24:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:31 INSERT INTO AccountCharacter3 (Id) VALUES ('HunStarr')
+20:24:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:31 SELECT * FROM AccountCharacter3 WHERE Id='HunStarr'
+20:24:31 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:34 SELECT Id FROM AccountCharacter4 WHERE Id='HunStarr'
+20:24:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:34 INSERT INTO AccountCharacter4 (Id) VALUES ('HunStarr')
+20:24:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:34 SELECT * FROM AccountCharacter4 WHERE Id='HunStarr'
+20:24:34 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:36 SELECT Id FROM AccountCharacter5 WHERE Id='HunStarr'
+20:24:36 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+20:24:36 INSERT INTO AccountCharacter5 (Id) VALUES ('HunStarr')
+20:24:36 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+20:24:36 SELECT * FROM AccountCharacter5 WHERE Id='HunStarr'
+20:24:36 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter5'.
+20:24:37 SELECT Id FROM AccountCharacter4 WHERE Id='HunStarr'
+20:24:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:37 INSERT INTO AccountCharacter4 (Id) VALUES ('HunStarr')
+20:24:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:37 SELECT * FROM AccountCharacter4 WHERE Id='HunStarr'
+20:24:37 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter4'.
+20:24:38 SELECT Id FROM AccountCharacter3 WHERE Id='HunStarr'
+20:24:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:38 INSERT INTO AccountCharacter3 (Id) VALUES ('HunStarr')
+20:24:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:38 SELECT * FROM AccountCharacter3 WHERE Id='HunStarr'
+20:24:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter3'.
+20:24:38 SELECT Id FROM AccountCharacter2 WHERE Id='HunStarr'
+20:24:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:38 INSERT INTO AccountCharacter2 (Id) VALUES ('HunStarr')
+20:24:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:38 SELECT * FROM AccountCharacter2 WHERE Id='HunStarr'
+20:24:38 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'AccountCharacter2'.
+20:24:41 UPDATE Character SET rMuaVip=0 WHERE AccountID='HunStarr' AND Name='fasz'
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+20:24:41 UPDATE Character SET rDanhHieu=0 WHERE AccountID='HunStarr' AND Name='fasz'
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+20:24:41 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='HunStarr' AND Name='fasz'
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.
+20:24:41 UPDATE Character SET rMuaVip=0 WHERE AccountID='HunStarr' AND Name='fasz'
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rMuaVip'.
+20:24:41 UPDATE Character SET rDanhHieu=0 WHERE AccountID='HunStarr' AND Name='fasz'
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rDanhHieu'.
+20:24:41 UPDATE Character SET rdmg=0,rdouble=0,rcrit=0,rexc=0,lvtuchan=0 WHERE AccountID='HunStarr' AND Name='fasz'
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdmg'.
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rdouble'.
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rcrit'.
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'rexc'.
+20:24:41 [QueryManager] State (42S22), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'lvtuchan'.

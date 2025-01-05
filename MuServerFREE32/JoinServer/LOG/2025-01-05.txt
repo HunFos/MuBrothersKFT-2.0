@@ -1,0 +1,47 @@
+19:29:26 [SocketManager] Server started at port [55970]
+19:29:34 [SocketManager] WSAAccept() failed with error: 10061
+19:29:44 [SocketManager] WSAAccept() failed with error: 10061
+19:29:54 [SocketManager] WSAAccept() failed with error: 10061
+19:30:04 [SocketManager] WSAAccept() failed with error: 10061
+19:30:14 [SocketManager] WSAAccept() failed with error: 10061
+19:32:27 [SocketManager] Server started at port [55970]
+19:32:35 [SocketManager] WSAAccept() failed with error: 10061
+19:32:45 [SocketManager] WSAAccept() failed with error: 10061
+19:34:13 [SocketManager] Server started at port [55970]
+19:34:21 [SocketManager] WSAAccept() failed with error: 10061
+19:34:31 [SocketManager] WSAAccept() failed with error: 10061
+19:34:41 [SocketManager] WSAAccept() failed with error: 10061
+19:34:51 [SocketManager] WSAAccept() failed with error: 10061
+19:35:01 [SocketManager] WSAAccept() failed with error: 10061
+19:35:55 [SocketManager] Server started at port [55970]
+19:36:04 [SocketManager] WSAAccept() failed with error: 10061
+19:38:43 [SocketManager] Server started at port [55970]
+19:38:50 [SocketManager] WSAAccept() failed with error: 10061
+19:39:00 [SocketManager] WSAAccept() failed with error: 10061
+19:42:47 [SocketManager] Server started at port [55970]
+19:42:55 [SocketManager] WSAAccept() failed with error: 10061
+19:48:26 [SocketManager] Server started at port [55970]
+19:48:33 [SocketManager] WSAAccept() failed with error: 10061
+19:49:43 Could not connect to database
+19:50:39 [SocketManager] Server started at port [55970]
+19:50:47 [SocketManager] WSAAccept() failed with error: 10061
+19:50:57 [SocketManager] WSAAccept() failed with error: 10061
+19:58:08 [SocketManager] Server started at port [55970]
+19:58:16 [SocketManager] WSAAccept() failed with error: 10061
+19:58:26 [SocketManager] WSAAccept() failed with error: 10061
+19:58:36 [SocketManager] WSAAccept() failed with error: 10061
+19:58:46 [SocketManager] WSAAccept() failed with error: 10061
+19:58:56 [SocketManager] WSAAccept() failed with error: 10061
+19:59:06 [SocketManager] WSAAccept() failed with error: 10061
+19:59:16 [SocketManager] WSAAccept() failed with error: 10061
+20:00:15 [SocketManager] Server started at port [55970]
+20:00:23 [SocketManager] WSAAccept() failed with error: 10061
+20:00:33 [SocketManager] WSAAccept() failed with error: 10061
+20:00:43 [SocketManager] WSAAccept() failed with error: 10061
+20:01:25 [SocketManager] Server started at port [55970]
+20:01:33 [ServerManager][0] AddServer (25.60.79.171)
+20:01:33 [ServerManager][0] ServerInfo (Server2) (55902) (1)
+20:14:29 [ServerManager][0] DelServer (25.60.79.171)
+20:18:25 [SocketManager] Server started at port [55970]
+20:18:33 [ServerManager][0] AddServer (25.60.79.171)
+20:18:33 [ServerManager][0] ServerInfo (Server2) (55902) (1)
